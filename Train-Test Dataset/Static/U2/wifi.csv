@@ -1,0 +1,3135 @@
+Time,ssid,bssid,sec,channel,rssi
+12:02:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:02:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:02:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:02:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:02:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:03:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-51
+12:03:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:03:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:03:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:03:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:03:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:03:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:03:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:03:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:03:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:03:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:03:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:03:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:03:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:03:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:03:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:03:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:03:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:03:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:03:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:03:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:03:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:03:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:03:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:03:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:03:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:03:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:03:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:03:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:03:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:03:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:03:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:03:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:03:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:03:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:03:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:03:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:03:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:03:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:03:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:03:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:03:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:03:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:03:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:03:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:03:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:03:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:03:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:03:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:03:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:03:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:03:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:03:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:03:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:03:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:03:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:03:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:04:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:04:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:04:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:04:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:04:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:04:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:04:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:04:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:04:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:04:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:04:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:04:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:04:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:04:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:04:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:04:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:04:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:04:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:04:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:04:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:04:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:04:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:04:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:04:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:04:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-37
+12:04:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-85
+12:04:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:04:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-37
+12:04:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:04:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-85
+12:04:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:04:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:04:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+12:04:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-84
+12:04:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:04:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:04:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:04:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:04:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-85
+12:04:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:04:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:04:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:04:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:04:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:04:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:04:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:04:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:04:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:04:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:04:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:04:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:05:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:05:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:05:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:05:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:05:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:05:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:05:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:05:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:05:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:05:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+12:05:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:05:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:05:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:05:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:05:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:05:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:05:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:05:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:05:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:05:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:05:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:05:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:05:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:05:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:05:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:05:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:05:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:05:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:05:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:05:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:05:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:05:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:05:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:05:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:05:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:05:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:05:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:05:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:05:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:05:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:05:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:05:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:05:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:05:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:05:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:05:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:05:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:05:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:05:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:05:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:05:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:05:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:05:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:05:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:05:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:05:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:06:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:06:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:06:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:06:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:06:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:06:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:06:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:06:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:06:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:06:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:06:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:06:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:06:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:06:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+12:06:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:06:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:06:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:06:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:06:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:06:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:06:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:06:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:06:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:06:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:06:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:06:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:06:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:06:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:06:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:06:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:06:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:06:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:06:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:06:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:06:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:06:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:06:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:07:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:07:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:07:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:07:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:07:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:07:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:07:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:07:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:07:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:07:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:07:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:07:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:07:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:07:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:07:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:07:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:07:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:07:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:07:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:07:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:07:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:07:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:07:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:07:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:07:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:07:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:07:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:07:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:07:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:07:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:07:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:07:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:07:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:07:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:07:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:07:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:07:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:07:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:07:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:07:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:07:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:07:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:07:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:07:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:07:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:07:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:08:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:08:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:08:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:08:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:08:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:08:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:08:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:08:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:08:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:08:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:08:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:08:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:08:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:08:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:08:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:08:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:08:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:08:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:08:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:08:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:08:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:08:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:08:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:08:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:08:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:08:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:08:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:08:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:08:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:08:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:08:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:08:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+12:08:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:08:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:08:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:08:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:08:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:08:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:08:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:08:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:08:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:08:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:08:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:08:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:08:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:09:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:09:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:09:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:09:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:09:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:09:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:09:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:09:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:09:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:09:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:09:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:09:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:09:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:09:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:09:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:09:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:09:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:09:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:09:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:09:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:09:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:09:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:09:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:09:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:09:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:09:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:09:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:09:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:09:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:09:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:09:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:09:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:09:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:09:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:09:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:09:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:09:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:09:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:09:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:09:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:09:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:09:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:09:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:09:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:09:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:09:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:09:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:09:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:09:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:09:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:09:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:09:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:09:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:09:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:10:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:10:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:10:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:10:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:10:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:10:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:10:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:10:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:10:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:10:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:10:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:10:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:10:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:10:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:10:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:10:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:10:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:10:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:10:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:10:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:10:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:10:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:10:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:10:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:10:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:10:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:10:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:10:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:10:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:10:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:10:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:10:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:10:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:10:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:10:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:10:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:10:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:11:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:11:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:11:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:11:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:11:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:11:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:11:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:11:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:11:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:11:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:11:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:11:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:11:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:11:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:11:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:11:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:11:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:11:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:11:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:11:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:11:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:11:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:11:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:11:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:11:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:11:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:11:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:11:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:11:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:11:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:11:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:11:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:11:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:11:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:11:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:11:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:11:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:11:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:11:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:11:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:12:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:12:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:12:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:12:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:12:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:12:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:12:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:12:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:12:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:12:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:12:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:12:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:12:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-37
+12:12:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:12:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:12:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:12:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:12:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:12:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:12:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:12:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:12:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:12:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:12:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:12:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:12:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:12:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:12:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:12:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:12:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:12:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:12:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:12:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:12:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:12:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:12:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:12:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:12:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:12:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:12:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:12:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:12:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:12:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:12:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:12:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:12:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:12:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:12:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:12:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:13:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:13:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:13:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:13:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:13:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:13:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:13:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:13:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:13:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:13:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:13:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:13:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:13:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:13:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:13:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:13:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:13:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:13:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:13:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:13:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:13:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:13:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:13:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:13:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:13:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:13:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:13:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:13:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:13:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:13:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:13:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:13:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:13:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:13:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-92
+12:13:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:13:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:13:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:13:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:13:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:13:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:13:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:13:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:13:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:13:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:13:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:13:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:13:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:13:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:13:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:13:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:14:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:14:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:14:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:14:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:14:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:14:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:14:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:14:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:14:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:14:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:14:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:14:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:14:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:14:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:14:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:14:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:14:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:14:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:14:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:14:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:14:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:14:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:14:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:14:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:14:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:14:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:14:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:14:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:14:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:14:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:14:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:14:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:14:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:14:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:14:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:14:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:14:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:14:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:14:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:14:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:14:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:14:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:14:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:14:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:14:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:14:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:14:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:14:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:14:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:14:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:14:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:14:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:14:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+12:14:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:14:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:14:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:14:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:15:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:15:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:15:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:15:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:15:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:15:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:15:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:15:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:15:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:15:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:15:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:15:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:15:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:15:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:15:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:15:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:15:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:15:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:15:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:15:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:15:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:15:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:15:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:15:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:15:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:15:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:15:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:15:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:15:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:15:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:15:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:15:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:15:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:15:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:15:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:15:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:15:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:15:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:15:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:15:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:15:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:15:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:15:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:15:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:15:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:15:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:15:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:15:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:15:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:15:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:15:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:15:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:16:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:16:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:16:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:16:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:16:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:16:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:16:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:16:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:16:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:16:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:16:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:16:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:16:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:16:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:16:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:16:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:16:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:16:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:16:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:16:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:16:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:16:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:16:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:16:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:16:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:16:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:16:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:16:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:16:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:16:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:16:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:16:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:16:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:16:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:16:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:16:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:16:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:16:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:16:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:16:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:16:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:16:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:16:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:16:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:17:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:17:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:17:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:17:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:17:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:17:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:17:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:17:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:17:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:17:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:17:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:17:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:17:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:17:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:17:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:17:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:17:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:17:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:17:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:17:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:17:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:17:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:17:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:17:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:17:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:17:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:17:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:17:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:17:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:17:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:17:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:17:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:17:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:17:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:17:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:17:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:17:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:17:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:17:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:17:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:17:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:17:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:17:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:17:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:18:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:18:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:18:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:18:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:18:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:18:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:18:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:18:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:18:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:18:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:18:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:18:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:18:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:18:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:18:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:18:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:18:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:18:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:18:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:18:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:18:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:18:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:18:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:18:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:18:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:18:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:18:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:18:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:18:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:18:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:18:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:18:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:18:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:18:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:18:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:18:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:18:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:18:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:18:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:18:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:18:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:18:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:18:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:18:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:18:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:19:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:19:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:19:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:19:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:19:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:19:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:19:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:19:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:19:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:19:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:19:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:19:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:19:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:19:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:19:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:19:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:19:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:19:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:19:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:19:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:19:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:19:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:19:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:19:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:19:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:19:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:19:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:19:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:19:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:19:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:19:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:19:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:19:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:19:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:19:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:19:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:19:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:19:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:19:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:20:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:20:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:20:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:20:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:20:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:20:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:20:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:20:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:20:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:20:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:20:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:20:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:20:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:20:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:20:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:20:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:20:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:20:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:20:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:20:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:20:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:20:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:20:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:20:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:20:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:20:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:20:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:20:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:20:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:20:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:20:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:20:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:20:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:20:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:20:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:20:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:20:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:20:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:20:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:20:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:20:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:20:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:20:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:20:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:20:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:20:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:20:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:20:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:20:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:21:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:21:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:21:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:21:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:21:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:21:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:21:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:21:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:21:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:21:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:21:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:21:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:21:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:21:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:21:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:21:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:21:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:21:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:21:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:21:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:21:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:21:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:21:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:21:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:21:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:21:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:21:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:21:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:21:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:21:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:21:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:21:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:21:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:21:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:21:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:21:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:21:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:21:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:21:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:21:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:21:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:21:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:21:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:21:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:21:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:21:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:21:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:22:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:22:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:22:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:22:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:22:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:22:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:22:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:22:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:22:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:22:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:22:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:22:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:22:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:22:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:22:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:22:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:22:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:22:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:22:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:22:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:22:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:22:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:22:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:22:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:22:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:22:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:22:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:22:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:22:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:22:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:22:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:22:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:22:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:22:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:22:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:22:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:22:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:22:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:22:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:22:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:22:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:22:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:22:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:22:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:22:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:22:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:22:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:22:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:23:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:23:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:23:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:23:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:23:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:23:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:23:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:23:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:23:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:23:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:23:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:23:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:23:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:23:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:23:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:23:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:23:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:23:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:23:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:23:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:23:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:23:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:23:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:23:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:23:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:23:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:23:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:23:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:23:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:23:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:23:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:23:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:23:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:23:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:23:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:23:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:23:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:23:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:23:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:23:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:23:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:23:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:23:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:23:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:23:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:23:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:23:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:24:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:24:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:24:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:24:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:24:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:24:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:24:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:24:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:24:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:24:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:24:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:24:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:24:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:24:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:24:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:24:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:24:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:24:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:24:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:24:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:24:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:24:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:24:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:24:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:24:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:24:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:24:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:24:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-83
+12:24:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:24:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:24:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:24:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:24:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:24:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:24:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:24:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:24:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:24:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:24:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:24:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:24:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:24:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:24:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:24:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:25:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:25:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:25:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:25:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:25:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:25:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:25:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:25:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:25:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:25:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:25:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:25:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:25:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:25:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:25:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:25:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:25:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:25:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:25:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:25:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:25:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:25:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:25:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:25:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:25:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:25:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:25:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:25:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:25:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:25:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:25:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:25:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:25:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:25:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:25:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:25:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:25:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:25:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:25:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:25:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:25:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:25:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:25:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:25:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:25:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:25:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:26:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:26:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:26:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:26:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:26:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:26:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:26:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:26:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:26:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:26:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:26:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:26:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:26:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:26:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:26:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:26:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:26:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:26:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:26:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:26:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:26:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:26:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:26:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:26:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:26:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:26:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:26:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:26:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:26:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:26:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:26:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:26:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:26:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:26:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:26:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:26:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:26:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:26:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:26:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:26:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:26:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:26:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+12:26:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:26:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:27:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:27:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:27:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:27:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:27:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:27:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:27:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:27:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:27:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:27:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:27:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:27:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:27:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:27:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:27:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:27:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:27:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:27:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:27:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:27:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:27:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:27:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:27:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:27:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:27:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:27:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:27:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:27:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:27:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:27:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:27:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:27:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:27:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:27:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:27:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:27:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:27:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:27:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:27:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:27:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:28:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:28:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:28:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:28:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:28:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:28:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:28:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:28:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:28:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:28:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-85
+12:28:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:28:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:28:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:28:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:28:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:28:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:28:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:28:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:28:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:28:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:28:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:28:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:28:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:28:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:28:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:28:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:28:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:28:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:28:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:28:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:28:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:28:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:28:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:28:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:28:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:28:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:28:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:28:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:28:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:28:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:28:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:28:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:28:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:28:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:28:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:28:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:28:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:28:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:28:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:28:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:28:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:28:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:29:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:29:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:29:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:29:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:29:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:29:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:29:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:29:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:29:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:29:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:29:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:29:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:29:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:29:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:29:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-38
+12:29:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:29:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:29:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:29:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:29:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:29:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:29:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:29:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:29:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:29:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:29:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:29:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-62
+12:29:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:29:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:29:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:29:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:29:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:29:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:29:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:29:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:29:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:29:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:29:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:29:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:30:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:30:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:30:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:30:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:30:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:30:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:30:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:30:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:30:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:30:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:30:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:30:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:30:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:30:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:30:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:30:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:30:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:30:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:30:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:30:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-63
+12:30:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:30:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:30:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:30:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:30:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:30:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:30:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-62
+12:30:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:30:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-62
+12:30:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:30:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:30:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-64
+12:30:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:30:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:30:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:30:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-66
+12:30:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:30:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:30:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:30:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-61
+12:30:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:30:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:30:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:31:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:31:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:31:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:31:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:31:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:31:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:31:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:31:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-64
+12:31:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+12:31:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:31:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-92
+12:31:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-72
+12:31:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:31:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:31:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-92
+12:31:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:31:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:31:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-68
+12:31:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:31:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:31:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:31:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:31:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:31:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-51
+12:31:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:31:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-60
+12:31:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:31:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:31:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:31:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:31:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:31:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:31:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:31:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:31:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:31:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:31:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:31:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:31:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:31:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:31:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:31:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:31:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:31:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:31:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:31:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:31:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:31:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:31:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:31:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:31:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:32:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:32:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:32:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:32:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:32:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:32:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:32:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:32:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:32:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:32:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:32:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:32:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:32:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:32:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:32:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:32:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:32:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:32:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:32:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:32:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:32:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:32:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:32:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:32:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-46
+12:32:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:32:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:32:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:32:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:32:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:32:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:32:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:32:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:32:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:32:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:32:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:32:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:32:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:32:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:32:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:32:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:32:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:32:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:32:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:32:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:32:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-40
+12:32:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:32:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:32:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:32:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:32:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:32:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:32:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:33:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:33:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:33:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:33:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:33:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:33:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:33:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:33:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:33:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:33:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:33:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:33:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:33:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:33:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:33:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:33:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:33:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:33:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:33:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:33:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-39
+12:33:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:33:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:33:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:33:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:33:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:33:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:33:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:33:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:33:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:33:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:33:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-60
+12:33:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:33:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:33:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:33:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:33:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:33:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:33:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:33:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:33:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:33:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:33:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:33:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:33:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:33:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:33:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:33:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:33:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:33:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:33:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:34:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:34:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:34:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:34:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:34:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:34:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:34:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:34:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:34:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:34:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:34:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:34:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:34:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:34:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:34:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:34:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:34:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:34:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:34:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:34:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:34:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:34:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:34:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:34:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:34:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:34:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:34:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:34:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:34:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:34:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:34:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:34:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:34:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:34:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:34:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:34:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:34:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:34:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:34:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:34:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:34:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:34:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:34:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:34:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:34:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:35:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-51
+12:35:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:35:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:35:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:35:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:35:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:35:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:35:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:35:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:35:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:35:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:35:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:35:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:35:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:35:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:35:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:35:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:35:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:35:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:35:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:35:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:35:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:35:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:35:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:35:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:35:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:35:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:35:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:35:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:35:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:35:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:35:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:35:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:35:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:35:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:35:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:35:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:35:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-63
+12:36:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:36:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:36:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:36:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:36:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:36:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+12:36:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:36:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:36:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:36:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:36:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:36:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-61
+12:36:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:36:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-65
+12:36:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:36:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:36:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:36:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:36:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:36:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:36:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:36:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:36:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:36:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:36:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:36:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:36:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:36:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:36:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:36:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:36:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:36:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:36:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:36:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:36:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:36:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:36:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:36:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+12:36:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:37:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:37:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:37:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:37:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:37:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:37:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:37:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:37:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:37:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:37:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:37:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:37:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:37:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:37:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:37:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:37:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:37:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:37:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:37:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:37:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:37:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:37:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:37:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:37:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:37:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:37:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:37:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:37:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:37:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:37:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:37:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:37:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:37:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:37:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:37:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:37:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:37:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:37:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:37:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:37:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:37:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:37:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:37:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:37:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:37:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:37:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:38:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:38:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:38:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:38:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:38:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:38:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:38:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:38:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:38:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:38:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:38:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:38:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:38:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:38:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:38:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:38:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:38:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:38:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:38:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:38:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:38:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:38:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:38:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:38:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:39:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:39:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:39:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:39:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:39:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:39:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:39:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:39:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:39:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:39:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:39:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:39:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:39:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:39:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:39:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:39:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:39:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:39:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:39:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:39:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:39:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:39:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:39:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:39:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:39:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:39:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:39:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:39:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:39:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:39:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:39:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:39:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:39:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:39:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:39:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:39:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:39:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:39:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:39:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:39:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:39:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:39:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:40:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:40:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:40:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:40:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:40:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:40:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:40:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:40:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:40:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:40:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:40:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:40:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:40:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:40:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:40:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:40:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:40:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:40:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:40:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:40:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:40:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:40:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:40:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:40:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:40:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:40:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:40:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:40:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:40:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:40:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:40:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:40:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:40:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:40:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:40:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:40:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:40:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:40:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:40:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:40:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:40:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:40:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:40:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:40:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:40:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:40:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:40:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:40:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:40:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:41:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:41:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:41:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:41:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:41:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:41:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:41:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:41:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:41:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:41:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:41:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:41:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:41:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:41:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:41:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:41:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:41:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:41:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:41:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:41:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:41:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:41:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:41:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:41:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:41:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:41:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:41:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:41:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:41:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:41:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:41:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:41:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:41:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:41:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:41:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:41:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:41:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:41:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:41:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:41:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:41:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:41:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:41:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:41:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:41:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:41:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:41:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:41:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:41:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:41:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:41:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:41:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:41:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:42:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:42:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:42:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:42:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:42:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:42:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:42:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:42:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:42:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:42:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:42:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:42:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:42:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:42:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:42:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:42:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:42:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:42:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:42:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:42:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:42:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:42:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:42:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:42:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:42:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:42:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:42:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:42:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:42:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:42:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:42:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:42:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:42:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:42:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:42:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:42:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:42:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:42:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:42:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:42:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:42:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:43:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:43:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:43:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:43:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:43:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:43:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:43:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:43:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:43:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:43:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:43:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:43:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:43:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:43:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:43:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:43:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:43:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:43:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:43:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:43:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:43:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:43:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:43:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:43:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-32
+12:43:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:43:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:43:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:43:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:43:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:43:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:43:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:43:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:43:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:43:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:43:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:43:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:43:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:44:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:44:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:44:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:44:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:44:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:44:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:44:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:44:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:44:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:44:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:44:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:44:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:44:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:44:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:44:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:44:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:44:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:44:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:44:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:44:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:44:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:44:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:44:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:44:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:44:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:44:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:44:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:44:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:44:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:44:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:44:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:44:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:44:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:44:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:44:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:44:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:44:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-29
+12:44:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:44:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:44:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:44:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:44:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:44:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-30
+12:44:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:44:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:44:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:44:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:44:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:44:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:44:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:45:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-42
+12:45:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:45:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:45:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:45:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:45:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:45:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:45:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:45:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:45:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:45:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:45:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:45:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-46
+12:45:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:45:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:45:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:45:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:45:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:45:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:45:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:45:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:45:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:45:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:45:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:45:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:45:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:45:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:45:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:45:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:45:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:45:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:45:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:45:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:45:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:45:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:45:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:45:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:45:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:45:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:45:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:45:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:45:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:45:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:45:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:45:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+12:46:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:46:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:46:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:46:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:46:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:46:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:46:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:46:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:46:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:46:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:46:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:46:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:46:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:46:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:46:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:46:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:46:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:46:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:46:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:46:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:46:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:46:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:46:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:46:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:46:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:46:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:46:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:46:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:46:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:46:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:46:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:46:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:46:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:46:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:46:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:46:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:46:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:46:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:46:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:46:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:46:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:46:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:46:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:46:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:46:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:46:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:47:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:47:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+12:47:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:47:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:47:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:47:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:47:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:47:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:47:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-46
+12:47:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:47:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:47:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:47:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:47:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:47:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:47:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:47:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:47:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:47:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:47:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:47:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:47:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:47:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:47:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:47:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:47:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:47:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:47:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:47:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:47:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:47:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:47:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:47:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:47:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-43
+12:47:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:47:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:47:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:47:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:47:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:47:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:47:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:47:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:47:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:47:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:47:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:47:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-41
+12:47:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:47:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:47:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:47:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:47:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:47:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:47:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:47:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:47:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:48:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:48:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:48:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:48:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:48:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:48:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:48:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:48:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:48:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:48:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:48:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:48:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:48:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:48:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:48:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:48:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:48:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:48:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:48:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:48:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:48:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:48:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:48:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:48:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:48:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:48:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:48:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:48:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:48:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:48:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:48:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:48:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:48:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:48:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:48:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:48:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:48:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:48:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:48:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:48:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:48:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:48:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-51
+12:48:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:48:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:48:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:48:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:48:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:48:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:48:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:48:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:48:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:48:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:48:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:48:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:48:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:48:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:48:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:49:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:49:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:49:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:49:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:49:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:49:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:49:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:49:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:49:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:49:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:49:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:49:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:49:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:49:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:49:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:49:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:49:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:49:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:49:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:49:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:49:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:49:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:49:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:49:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:49:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:49:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:49:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:49:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:49:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-62
+12:49:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:49:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:49:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-60
+12:49:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:49:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:49:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:49:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:49:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:49:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:49:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:49:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:49:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:49:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-60
+12:49:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:49:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:49:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:49:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:49:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:49:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:50:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:50:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:50:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-51
+12:50:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:50:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:50:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:50:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+12:50:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:50:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:50:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:50:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:50:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:50:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-60
+12:50:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:50:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:50:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:50:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:50:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:50:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-60
+12:50:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:50:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:50:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:50:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:50:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:50:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:50:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:50:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:50:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:50:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:50:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:50:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:50:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:50:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:50:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:50:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:50:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:50:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:50:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:51:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:51:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:51:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:51:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:51:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:51:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:51:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:51:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:51:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:51:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:51:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:51:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:51:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:51:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:51:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:51:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:51:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:51:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-59
+12:51:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:51:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:51:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:51:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:51:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:51:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:51:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:51:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:51:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-61
+12:51:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:51:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:51:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:51:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:51:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:51:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:51:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:51:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:51:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:51:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:51:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:51:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:51:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:51:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:51:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:51:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:51:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:51:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:52:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:52:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:52:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:52:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:52:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:52:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:52:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:52:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:52:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:52:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:52:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:52:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:52:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:52:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:52:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:52:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:52:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:52:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:52:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:52:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:52:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+12:52:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:52:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:52:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:52:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+12:52:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:52:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:52:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:52:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:52:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:52:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:52:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:52:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-93
+12:52:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:52:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:52:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:52:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:52:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:52:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:52:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+12:52:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:52:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:52:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:52:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:52:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:52:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-44
+12:52:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:52:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:52:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:52:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:52:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:52:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:52:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:52:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-64
+12:52:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:52:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:52:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:53:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:53:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:53:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:53:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:53:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:53:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+12:53:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:53:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:53:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:53:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:53:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:53:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:53:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:53:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:53:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:53:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:53:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:53:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-58
+12:53:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:53:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:53:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:53:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:53:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:53:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:53:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:53:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:53:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:53:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:53:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:53:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:53:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-57
+12:53:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:53:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:53:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-55
+12:53:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:53:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:53:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+12:53:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:53:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:53:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:53:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:53:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:53:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:53:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:53:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:53:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-52
+12:53:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:53:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:53:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:54:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:54:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:54:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:54:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:54:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:54:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:54:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:54:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:54:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:54:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:54:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:54:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:54:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:54:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-56
+12:54:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:54:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-54
+12:54:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:54:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:54:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:54:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:54:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:54:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:54:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:54:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:54:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:54:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-50
+12:54:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:54:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:54:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:54:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:54:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:54:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:54:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:54:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:54:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:54:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:54:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:54:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:54:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:54:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+12:54:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:54:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:54:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:54:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:54:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:55:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:55:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:55:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:55:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:55:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:55:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:55:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:55:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:55:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:55:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:55:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:55:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-47
+12:55:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:55:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:55:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:55:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:55:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:55:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:55:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:55:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:55:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:55:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:55:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:55:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:55:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:55:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-53
+12:55:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:55:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:55:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:55:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:55:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:55:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:55:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:55:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:55:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:55:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:55:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:56:00,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:56:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:56:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:56:04,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-49
+12:56:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:56:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:56:08,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-48
+12:56:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:56:12,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-51
+12:56:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:56:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:56:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:56:16,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:56:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:56:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:56:20,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:56:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:56:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:56:24,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:56:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:56:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:56:28,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:56:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:56:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:56:32,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:56:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:56:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:56:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:56:36,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:56:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:56:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:56:40,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:56:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:56:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:56:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:56:44,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:56:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:56:48,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:56:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:56:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:56:52,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:56:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:56:56,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-36
+12:56:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:56:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:56:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:56:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:56:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:56:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:57:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:57:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:57:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:57:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+12:57:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:57:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-93
+12:57:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:57:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:57:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+12:57:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:57:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:57:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:57:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:57:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:57:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:57:27,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:57:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:57:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:57:31,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:57:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:57:35,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:57:39,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:57:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:57:43,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+12:57:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:57:47,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:57:51,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:57:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:57:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:57:55,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:57:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:57:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:57:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:57:59,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:57:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:57:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:58:03,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:58:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:58:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:58:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:58:07,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:58:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+12:58:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:58:11,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-31
+12:58:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:58:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:58:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+12:58:15,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:58:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:58:19,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:58:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:58:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+12:58:23,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:58:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:58:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:58:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:58:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:58:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:58:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+12:58:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:58:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:58:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:58:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-92
+12:58:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:58:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:58:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:58:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:58:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-35
+12:58:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:58:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-35
+12:58:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:58:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:58:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+12:58:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:58:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:58:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:58:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:58:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:58:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+12:58:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:58:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:58:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:58:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:59:02,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:59:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:06,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:59:10,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:59:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:14,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:59:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:59:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-92
+12:59:18,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+12:59:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:59:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:22,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:59:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:59:26,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:59:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:30,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+12:59:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+12:59:34,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:59:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+12:59:38,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+12:59:42,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+12:59:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:46,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+12:59:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:50,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+12:59:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+12:59:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+12:59:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+12:59:50,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-92
+12:59:54,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+12:59:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:59:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:54,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-94
+12:59:58,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+12:59:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+12:59:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+12:59:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+12:59:58,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-97
+13:00:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+13:00:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+13:00:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+13:00:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+13:00:05,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-36
+13:00:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+13:00:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+13:00:09,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+13:00:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+13:00:13,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+13:00:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+13:00:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+13:00:17,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+13:00:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+13:00:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-92
+13:00:21,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+13:00:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+13:00:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+13:00:25,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+13:00:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+13:00:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+13:00:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+13:00:25,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-95
+13:00:29,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+13:00:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+13:00:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+13:00:29,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-95
+13:00:33,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+13:00:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+13:00:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+13:00:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+13:00:33,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-96
+13:00:37,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+13:00:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+13:00:37,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-93
+13:00:41,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+13:00:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+13:00:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+13:00:41,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-91
+13:00:45,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+13:00:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+13:00:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+13:00:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+13:00:45,Galaxy A22 5Ga210,b'b\xaa\x83\x1b\xdf\xf3',3,6,-95
+13:00:49,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-33
+13:00:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+13:00:53,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-34
+13:00:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+13:00:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+13:00:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+13:00:57,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-45
+13:00:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+13:00:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+13:00:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+13:01:01,Jana :p,b'\xfa\x8b\xc4\x10\xfa\xe9',3,6,-81
+13:01:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83

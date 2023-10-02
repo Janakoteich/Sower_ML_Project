@@ -1,0 +1,359 @@
+Time,ssid,bssid,sec,channel,rssi
+13:17:11,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-41
+13:17:11,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-86
+13:17:15,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-39
+13:17:19,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:17:23,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-43
+13:17:23,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:17:27,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-39
+13:17:27,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:17:31,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-44
+13:17:35,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:17:35,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:17:39,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-44
+13:17:43,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-43
+13:17:47,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-59
+13:17:51,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:17:51,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:17:55,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-46
+13:17:55,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:17:59,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:17:59,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:18:03,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-41
+13:18:03,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-86
+13:18:07,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:18:07,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:18:11,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:18:14,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:18:14,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:18:18,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:18:18,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:18:22,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-39
+13:18:22,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:18:26,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:18:26,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:18:30,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-46
+13:18:30,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:18:34,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:18:38,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:18:38,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-89
+13:18:42,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:18:42,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:18:46,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:18:50,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:18:54,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-44
+13:18:54,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-88
+13:18:58,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:19:02,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-52
+13:19:02,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-86
+13:19:06,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-52
+13:19:10,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:19:13,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-52
+13:19:17,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-52
+13:19:17,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-88
+13:19:21,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-53
+13:19:21,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-88
+13:19:21,wifiCantine,b'bj\x14\t%\x15',3,1,-93
+13:19:25,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-53
+13:19:29,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-51
+13:19:33,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-53
+13:19:37,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-54
+13:19:37,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:19:41,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-54
+13:19:41,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-87
+13:19:45,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-52
+13:19:45,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-86
+13:19:49,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-54
+13:19:49,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:19:53,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-51
+13:19:53,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:19:57,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:19:57,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:20:01,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:20:01,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-87
+13:20:05,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:20:05,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-88
+13:20:09,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:20:09,wifiCantine,b'bj\x14\t%\x15',3,1,-92
+13:20:12,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-53
+13:20:16,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:20:16,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:20:16,wifiCantine,b'bj\x14\t%\x15',3,1,-88
+13:20:20,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-44
+13:20:20,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:20:20,wifiCantine,b'bj\x14\t%\x15',3,1,-88
+13:20:24,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:20:24,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:20:28,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-52
+13:20:28,wifiCantine,b'bj\x14\t%\x15',3,1,-78
+13:20:28,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-86
+13:20:32,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-53
+13:20:32,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-77
+13:20:36,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-55
+13:20:36,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-79
+13:20:40,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-58
+13:20:40,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:20:44,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-61
+13:20:44,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:20:48,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-59
+13:20:48,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:20:52,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-28
+13:20:52,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:20:56,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-37
+13:20:56,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:21:00,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-36
+13:21:00,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:21:04,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-37
+13:21:04,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:21:08,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-36
+13:21:08,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:21:12,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-36
+13:21:12,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:21:16,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:21:19,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-35
+13:21:19,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:21:23,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:21:23,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:21:27,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-35
+13:21:27,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:21:31,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:21:31,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:21:35,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-33
+13:21:35,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:21:39,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:21:43,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:21:43,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:21:43,wifiCantine,b'bj\x14\t%\x15',3,1,-91
+13:21:47,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-33
+13:21:47,STK-L21%6598%CloudClone,b'\xd8\x9eav\x99\x96',3,6,-91
+13:21:51,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-35
+13:21:51,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:21:51,STK-L21%6598%CloudClone,b'\xd8\x9eav\x99\x96',3,6,-85
+13:21:51,wifiCantine,b'bj\x14\t%\x15',3,1,-89
+13:21:55,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:21:55,STK-L21%6598%CloudClone,b'\xd8\x9eav\x99\x96',3,6,-92
+13:21:59,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:21:59,STK-L21%6598%CloudClone,b'\xd8\x9eav\x99\x96',3,6,-91
+13:22:03,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:22:07,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:22:07,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:22:11,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:22:11,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-93
+13:22:15,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:22:15,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:22:15,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-92
+13:22:18,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:22:22,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-51
+13:22:22,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:22:26,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:22:30,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:22:30,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:22:34,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:22:34,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:22:38,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:22:38,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:22:42,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:22:42,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-92
+13:22:46,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:22:50,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:22:50,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:22:54,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:22:54,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:22:54,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:22:58,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:22:58,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:22:58,wifiCantine,b'bj\x14\t%\x15',3,1,-88
+13:23:02,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:23:02,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:23:02,Redmi 10,"b""\x8a&\xc4\xcdZ'""",3,8,-90
+13:23:02,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-92
+13:23:06,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:23:06,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:06,Redmi 10,"b""\x8a&\xc4\xcdZ'""",3,8,-86
+13:23:06,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:23:10,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:23:10,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:23:14,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-46
+13:23:14,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:14,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:23:18,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-48
+13:23:18,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:23:18,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:23:22,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:23:26,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-45
+13:23:26,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:23:29,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:23:29,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:29,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:23:33,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:23:33,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:33,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:23:37,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-51
+13:23:37,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:37,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:23:41,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-47
+13:23:41,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:41,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:23:45,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:23:45,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:23:45,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:23:49,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-50
+13:23:49,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:49,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-88
+13:23:53,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-49
+13:23:53,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:23:53,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-85
+13:23:57,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-68
+13:23:57,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:23:57,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:24:01,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-55
+13:24:01,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:24:01,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:24:05,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-58
+13:24:05,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:24:05,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-88
+13:24:09,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-58
+13:24:09,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:24:13,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-54
+13:24:17,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:24:17,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:24:17,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-92
+13:24:21,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:24:21,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-79
+13:24:21,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-93
+13:24:25,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-57
+13:24:25,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:24:25,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-94
+13:24:29,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-56
+13:24:33,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-57
+13:24:33,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:24:33,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:24:37,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-58
+13:24:41,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-59
+13:24:41,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:24:41,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-91
+13:24:44,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:24:44,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:24:44,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:24:48,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-59
+13:24:48,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:24:48,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:24:52,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-57
+13:24:52,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:24:56,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-59
+13:24:56,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:24:56,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:25:00,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:25:00,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:25:04,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:25:04,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:25:08,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-58
+13:25:08,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:25:12,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:25:12,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:25:12,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:25:16,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-63
+13:25:16,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:25:16,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-88
+13:25:20,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-66
+13:25:20,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:25:24,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-60
+13:25:24,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:25:24,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-88
+13:25:28,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-62
+13:25:28,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:25:28,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-93
+13:25:32,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-66
+13:25:32,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:25:32,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-89
+13:25:36,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:25:36,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:25:40,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-40
+13:25:40,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:25:40,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90
+13:25:43,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-30
+13:25:43,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:25:43,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-88
+13:25:48,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-36
+13:25:48,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:25:51,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-33
+13:25:51,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:25:55,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:25:55,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-81
+13:25:55,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-84
+13:25:59,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:25:59,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:25:59,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-85
+13:25:59,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-87
+13:26:03,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:26:03,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:26:03,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-85
+13:26:07,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:26:07,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:26:07,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-87
+13:26:11,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-41
+13:26:11,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-85
+13:26:11,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-90
+13:26:15,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:26:15,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:26:15,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-86
+13:26:19,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-40
+13:26:19,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:26:19,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-83
+13:26:19,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-88
+13:26:23,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-41
+13:26:23,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-81
+13:26:23,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:26:27,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-39
+13:26:31,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-41
+13:26:31,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-79
+13:26:35,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-37
+13:26:35,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-83
+13:26:35,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-86
+13:26:39,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:26:39,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:26:39,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-86
+13:26:43,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-37
+13:26:43,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-75
+13:26:43,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:26:47,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-35
+13:26:51,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-34
+13:26:51,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-80
+13:26:51,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:26:55,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-41
+13:26:55,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-80
+13:26:55,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:26:55,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-92
+13:26:59,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:27:03,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-39
+13:27:03,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:27:06,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-35
+13:27:06,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:27:06,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-88
+13:27:06,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-94
+13:27:10,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:27:10,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:27:10,OPPO A9 2020,b'N\xcf\x8d\xca\x8f!',3,1,-89
+13:27:14,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-39
+13:27:14,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:27:18,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:27:18,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-93
+13:27:22,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-16
+13:27:22,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-83
+13:27:26,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:27:26,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-92
+13:27:30,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-45
+13:27:30,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-82
+13:27:34,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-42
+13:27:38,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-45
+13:27:38,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-86
+13:27:38,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-94
+13:27:42,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-38
+13:27:42,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-80
+13:27:42,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-87
+13:27:46,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-45
+13:27:46,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-84
+13:27:50,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-46
+13:27:50,Wifi_Sec_Trb1205,b'\xc4\x01|.e\xf8',3,1,-90
+13:27:54,Jana :p,b'Z\xdc\xeb\xa3t\xb7',3,6,-10
+13:27:54,Lisa's,b'~\xae\x83_\xfd\xc6',3,11,-90

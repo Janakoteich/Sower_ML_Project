@@ -1,0 +1,3158 @@
+Time,ssid,bssid,sec,channel,rssi
+10:10:45,Jana :p,b'B<j_\xec\x98',3,6,-45
+10:10:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:10:49,Jana :p,b'B<j_\xec\x98',3,6,-40
+10:10:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:10:53,Jana :p,b'B<j_\xec\x98',3,6,-43
+10:10:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:10:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:10:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:10:57,Jana :p,b'B<j_\xec\x98',3,6,-57
+10:10:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:11:01,Jana :p,b'B<j_\xec\x98',3,6,-57
+10:11:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:11:05,Jana :p,b'B<j_\xec\x98',3,6,-58
+10:11:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:11:08,Jana :p,b'B<j_\xec\x98',3,6,-53
+10:11:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:11:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:11:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:11:12,Jana :p,b'B<j_\xec\x98',3,6,-57
+10:11:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:11:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:11:16,Jana :p,b'B<j_\xec\x98',3,6,-38
+10:11:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:11:20,Jana :p,b'B<j_\xec\x98',3,6,-46
+10:11:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:11:24,Jana :p,b'B<j_\xec\x98',3,6,-49
+10:11:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:11:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:11:28,Jana :p,b'B<j_\xec\x98',3,6,-54
+10:11:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:11:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:11:32,Jana :p,b'B<j_\xec\x98',3,6,-55
+10:11:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:11:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:11:36,Jana :p,b'B<j_\xec\x98',3,6,-55
+10:11:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:11:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:11:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:11:40,Jana :p,b'B<j_\xec\x98',3,6,-53
+10:11:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:11:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:11:44,Jana :p,b'B<j_\xec\x98',3,6,-53
+10:11:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:11:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:11:48,Jana :p,b'B<j_\xec\x98',3,6,-53
+10:11:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:11:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:11:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:11:52,Jana :p,b'B<j_\xec\x98',3,6,-53
+10:11:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:11:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:11:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:11:56,Jana :p,b'B<j_\xec\x98',3,6,-53
+10:11:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:11:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:11:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:12:00,Jana :p,b'B<j_\xec\x98',3,6,-55
+10:12:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:12:04,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:12:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:12:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:12:08,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:12:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:12:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:12:12,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:12:16,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:12:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:12:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:12:20,Jana :p,b'B<j_\xec\x98',3,6,-33
+10:12:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:12:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:12:24,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:12:27,Jana :p,b'B<j_\xec\x98',3,6,-33
+10:12:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:12:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:12:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:12:31,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:12:35,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:12:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:12:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:12:39,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:12:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:12:43,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:12:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:12:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:12:47,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:12:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:12:51,Jana :p,b'B<j_\xec\x98',3,6,-18
+10:12:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:12:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:12:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:12:55,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:12:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:12:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:12:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:12:59,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:13:03,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:13:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:13:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:13:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:13:07,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:13:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-92
+10:13:11,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:13:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:13:15,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:13:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:13:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:13:19,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:13:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:13:23,Jana :p,b'B<j_\xec\x98',3,6,-33
+10:13:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:13:27,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:13:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+10:13:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:13:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+10:13:31,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:13:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:13:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:13:35,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:13:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:13:39,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:13:42,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:13:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:13:46,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-91
+10:13:50,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:13:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:13:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:13:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:13:54,Jana :p,b'B<j_\xec\x98',3,6,-33
+10:13:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:13:58,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:13:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:13:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:13:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:14:02,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:14:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:14:06,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:14:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+10:14:10,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:14:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:14:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+10:14:14,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:14:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:14:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:14:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:14:18,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:14:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:14:22,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:14:26,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:14:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:14:30,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:14:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:14:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:14:34,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:14:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:14:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:14:38,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:14:42,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:14:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:14:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:14:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:14:46,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:14:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:14:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:14:50,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:14:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:14:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:14:54,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:14:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:14:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:14:57,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:14:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:14:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:15:01,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:15:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:15:05,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:15:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:15:09,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:15:13,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:15:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:15:17,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:15:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:15:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:15:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:15:21,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:15:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:15:25,Jana :p,b'B<j_\xec\x98',3,6,-33
+10:15:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:15:29,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:15:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:15:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:15:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:15:33,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+10:15:37,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:15:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:15:41,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:15:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:15:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:15:45,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:15:49,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:15:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:15:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:15:53,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:15:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-90
+10:15:57,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:15:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:15:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:15:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:01,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:16:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:05,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:16:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:16:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:16:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:16:09,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:16:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:16:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+10:16:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:16:13,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:16:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:16:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:16:16,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:16:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:20,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:16:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:16:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:16:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:16:24,Jana :p,b'B<j_\xec\x98',3,6,-33
+10:16:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:16:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:16:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-92
+10:16:28,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:16:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:16:32,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+10:16:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:16:36,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:16:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:16:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:16:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:40,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:16:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:16:44,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:16:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:16:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:16:48,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:16:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:16:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:16:52,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:16:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:16:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:16:56,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:16:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:16:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:16:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:17:00,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:17:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:17:04,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:17:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:17:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:17:08,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:17:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:17:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:12,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:17:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:17:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:17:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:16,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:17:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:17:20,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:17:24,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:17:28,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:17:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:17:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:17:32,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:17:36,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:17:39,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:17:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:17:43,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:17:47,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:17:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:17:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:17:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:17:51,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:17:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:55,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:17:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:17:59,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:17:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:17:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:18:03,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:18:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:18:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:18:07,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:18:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:18:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+10:18:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:18:11,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:18:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:18:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:18:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:18:15,Jana :p,b'B<j_\xec\x98',3,6,-32
+10:18:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:18:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:18:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:18:19,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:18:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:18:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:18:23,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:18:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:18:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:18:27,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:18:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:18:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:18:31,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:18:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:18:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:18:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:18:35,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:18:39,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:18:43,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:18:47,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:18:51,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:18:54,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:18:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:18:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:18:58,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:18:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:18:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:19:02,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:19:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:19:06,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:19:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:19:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:19:10,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:19:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:19:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:19:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:19:14,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:19:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:19:18,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:19:22,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:19:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:19:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:19:26,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:19:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:19:30,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:19:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:19:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:19:34,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:19:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:19:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:19:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:19:38,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:19:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:19:42,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:19:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:19:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:19:46,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:19:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:19:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:19:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:19:50,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:19:54,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:19:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:19:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:19:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:19:58,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:19:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:20:02,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:20:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:20:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:20:06,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:20:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:20:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:20:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:20:10,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:20:13,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:20:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:20:17,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:20:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:20:21,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:20:25,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:20:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:20:29,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:20:33,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:20:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:20:37,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:20:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:20:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:20:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:20:41,Jana :p,b'B<j_\xec\x98',3,6,-18
+10:20:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:20:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:20:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:20:45,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:20:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:20:49,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:20:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:20:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:20:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:20:53,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:20:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:20:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:20:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:20:57,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:20:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:01,Jana :p,b'B<j_\xec\x98',3,6,-27
+10:21:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:05,Jana :p,b'B<j_\xec\x98',3,6,-67
+10:21:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:21:09,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:21:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:21:13,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:21:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:17,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:20,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:21:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:21:24,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:21:28,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:21:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:32,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:21:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:21:36,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:40,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:21:44,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:21:48,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:21:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:21:52,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:21:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:21:56,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:21:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:00,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:04,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:22:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:08,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:22:12,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:22:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:22:16,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:22:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:20,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:22:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:22:23,Jana :p,b'B<j_\xec\x98',3,6,-27
+10:22:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:27,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:31,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:22:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:22:35,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:22:39,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:22:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:22:43,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:47,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:22:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:22:51,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:22:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:22:55,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:22:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:22:59,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:22:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:03,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:23:07,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:23:11,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:23:15,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:19,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:23:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:23,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:23:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:23:26,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:23:30,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:23:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:34,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:23:38,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:23:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:42,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:23:46,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:23:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:50,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:23:54,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:23:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:23:58,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:23:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:24:02,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:24:06,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:24:10,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:24:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:24:14,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:24:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:24:18,Jana :p,b'B<j_\xec\x98',3,6,-22
+10:24:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:24:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:24:22,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:24:25,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:24:29,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:24:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:24:33,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:24:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:24:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:24:37,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:24:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:24:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:24:41,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:24:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:24:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:24:45,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:24:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:24:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:24:49,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:24:53,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:24:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:24:57,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:24:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:25:01,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:25:05,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:25:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:25:09,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:25:13,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:25:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:25:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:25:17,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:25:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:25:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:25:21,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:25:25,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:25:29,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:25:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:25:33,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:25:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:25:36,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:25:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:25:40,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:25:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:25:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:25:44,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:25:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:25:48,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:25:52,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:25:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:25:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:25:56,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:25:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:25:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:25:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:26:00,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:26:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:26:04,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:26:08,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:26:12,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:26:16,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:26:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:26:20,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:26:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:26:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:26:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:26:24,Jana :p,b'B<j_\xec\x98',3,6,-15
+10:26:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:26:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:26:28,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:26:32,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:26:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:26:36,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:26:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:26:40,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:26:43,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:26:47,Jana :p,b'B<j_\xec\x98',3,6,-68
+10:26:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:26:51,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:26:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:26:55,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:26:59,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:26:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:27:03,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:27:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:27:07,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:27:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:27:11,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:27:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:27:15,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:27:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:27:19,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:27:23,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:27:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:27:27,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:27:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:27:31,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:27:35,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:27:39,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:27:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:27:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:27:43,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:27:47,Jana :p,b'B<j_\xec\x98',3,6,-27
+10:27:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:27:50,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:27:54,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:27:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:27:58,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:27:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:27:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:27:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:28:02,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:28:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:28:06,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:28:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:28:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:28:10,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:28:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:28:14,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:28:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:28:18,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:28:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:28:22,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:28:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:28:26,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:28:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:28:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:28:30,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:28:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:28:34,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:28:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:28:38,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:28:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:28:42,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:28:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:28:46,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:28:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:28:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:28:50,Jana :p,b'B<j_\xec\x98',3,6,-27
+10:28:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:28:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:28:53,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:28:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:28:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:28:57,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:28:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:29:01,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:29:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:29:05,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:29:09,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:29:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:29:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-92
+10:29:13,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:29:17,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:29:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:29:21,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:29:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:29:25,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:29:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:29:29,Jana :p,b'B<j_\xec\x98',3,6,-69
+10:29:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:29:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:29:33,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:29:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:29:37,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:29:41,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:29:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:29:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:29:45,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:29:49,Jana :p,b'B<j_\xec\x98',3,6,-26
+10:29:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:29:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:29:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:29:53,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:29:57,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:29:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:29:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:30:01,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:30:04,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:30:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:30:08,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:30:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:30:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:30:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:30:12,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:30:16,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:30:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-92
+10:30:20,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:30:24,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:30:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:30:28,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:30:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:30:32,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:30:36,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:30:40,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:30:44,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:30:48,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:30:52,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:30:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:30:56,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:30:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:31:00,Jana :p,b'B<j_\xec\x98',3,6,-22
+10:31:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:31:04,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:31:07,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:31:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:31:11,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:31:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:31:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-92
+10:31:15,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:31:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:31:19,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:31:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:31:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:31:23,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:31:27,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:31:31,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:31:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-92
+10:31:35,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:31:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:31:39,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:31:43,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:31:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:31:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:31:47,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:31:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:31:51,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:31:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:31:55,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:31:59,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:31:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:32:03,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:32:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:32:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:32:07,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:32:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:32:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:32:11,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:32:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:32:14,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:32:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:32:18,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:32:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:32:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:32:22,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:32:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:32:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:32:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:32:26,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:32:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:32:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:32:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:32:30,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:32:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:32:34,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:32:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:32:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:32:38,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:32:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:32:42,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:32:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:32:46,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:32:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:32:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:32:50,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:32:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:32:54,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:32:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:32:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:32:58,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:32:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:32:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:33:02,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:33:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:33:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:33:06,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:33:10,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:33:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:33:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:33:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:33:14,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:33:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:33:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:33:18,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:33:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:33:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:33:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:33:22,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:33:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:33:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:33:26,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:33:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:33:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:33:30,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:33:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:33:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:33:34,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:33:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:33:37,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:33:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:33:41,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:33:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:33:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:33:45,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:33:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:33:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:33:49,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:33:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:33:53,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:33:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:33:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:33:57,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:33:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:33:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:33:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:34:01,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:34:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:34:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:34:05,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:34:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:34:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:34:09,Jana :p,b'B<j_\xec\x98',3,6,-67
+10:34:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:34:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:34:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:13,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:34:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:34:17,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:34:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:34:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:34:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:21,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:34:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:34:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:34:25,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:34:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:34:29,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:34:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:34:33,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:34:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:34:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:34:37,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:34:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:34:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:34:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:34:41,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:34:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:34:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:34:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:45,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:34:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:34:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:34:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:34:49,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:34:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:34:53,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:34:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:34:56,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:34:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:34:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:34:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:35:00,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:35:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:35:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:35:04,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:35:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:35:08,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:35:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:35:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:35:12,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:35:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:35:16,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:35:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:35:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:35:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:35:20,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:35:24,Jana :p,b'B<j_\xec\x98',3,6,-27
+10:35:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:35:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:35:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:35:28,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:35:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:35:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:35:32,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:35:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:35:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:35:36,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:35:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:35:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:35:40,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:35:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:35:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-89
+10:35:44,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:35:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:35:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:35:48,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:35:52,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:35:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:35:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:35:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:35:56,Jana :p,b'B<j_\xec\x98',3,6,-27
+10:35:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:35:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:35:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:00,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:36:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+10:36:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:04,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:36:08,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:36:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:36:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:36:12,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:36:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:16,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:36:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:36:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:36:20,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:36:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:23,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:36:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:36:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:36:27,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:36:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:36:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:36:31,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:36:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:36:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:35,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:36:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:36:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:36:39,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:36:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:43,Jana :p,b'B<j_\xec\x98',3,6,-25
+10:36:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:36:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:47,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:36:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:36:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:36:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:51,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:36:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:36:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:36:55,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:36:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:36:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:36:59,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:36:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:36:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:36:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:37:03,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:37:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:37:07,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:37:11,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:37:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:37:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:37:15,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:37:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+10:37:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:37:19,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:37:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:37:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:37:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:37:23,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:37:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:37:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:37:27,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:37:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:37:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:37:31,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:37:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+10:37:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:37:35,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:37:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:37:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:37:39,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:37:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:37:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:37:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:37:43,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:37:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:37:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:37:47,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:37:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:37:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:37:51,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:37:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:37:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:37:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:37:54,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:37:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:37:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:37:58,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:37:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:37:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:37:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:38:02,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:38:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:38:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:06,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:38:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:38:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:10,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:38:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:38:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:38:14,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:38:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:38:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:38:18,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:38:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:38:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:38:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:22,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:38:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:38:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:26,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:38:30,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:38:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:34,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:38:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:38:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:38,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:38:42,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:38:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:38:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:38:46,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:38:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:38:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:38:50,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:38:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:38:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:38:54,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:38:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:38:58,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:38:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:38:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:38:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:39:02,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:39:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:39:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:39:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:39:06,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:39:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:39:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:39:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:39:10,Jana :p,b'B<j_\xec\x98',3,6,-19
+10:39:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:39:14,Jana :p,b'B<j_\xec\x98',3,6,-21
+10:39:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:39:17,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:39:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:39:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:39:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:39:21,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:39:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:39:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:39:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:39:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:39:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:39:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:39:29,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:39:33,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:39:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:39:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:39:37,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:39:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:39:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:39:41,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:39:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:39:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:39:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:39:45,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+10:39:49,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:39:53,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:39:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:39:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:39:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:39:57,Jana :p,b'B<j_\xec\x98',3,6,-20
+10:39:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:40:01,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:40:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:40:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:40:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:40:09,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:40:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:40:13,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:40:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:40:17,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:40:21,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:40:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:40:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:40:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:40:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:40:29,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:40:32,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:40:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:40:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:40:36,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:40:40,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:40:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:40:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:40:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:40:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:40:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:40:48,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:40:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:40:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:40:52,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:40:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:40:56,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:40:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:41:00,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:41:04,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:41:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:41:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:41:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:41:12,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:41:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:41:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:41:20,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:41:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:41:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:41:28,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:41:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:41:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:41:32,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:41:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:41:35,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:41:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:41:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:41:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:41:40,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:41:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:41:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:41:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:41:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+10:41:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:41:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:41:47,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:41:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:41:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:41:51,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:41:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:41:55,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:41:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:41:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:41:59,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:41:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:42:03,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:42:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:42:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:42:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:42:07,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:42:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:42:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:42:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:42:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:42:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:42:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:42:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:42:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:42:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:42:19,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:42:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:42:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:42:23,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:42:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:42:27,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:42:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:42:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:42:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:42:31,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:42:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:42:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:42:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:42:39,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:42:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:42:43,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:42:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:42:47,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:42:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:42:51,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:42:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:42:51,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:42:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:42:55,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:42:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:42:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:42:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:42:59,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:42:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:43:02,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:43:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:43:06,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:43:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:43:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:43:10,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:43:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:43:14,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:43:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:43:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:43:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:43:22,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:43:26,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:43:30,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:43:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:43:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:43:34,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:43:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:43:38,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:43:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:43:42,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:43:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:43:46,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:43:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:43:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:43:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:43:58,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:43:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:44:02,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:44:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+10:44:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:44:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:44:13,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:44:17,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:44:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:21,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:25,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:44:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:29,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:44:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+10:44:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:44:33,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:37,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:44:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:44:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:44:41,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:44:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:44:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:44:45,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:44:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:44:49,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:44:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:44:53,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:44:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:44:57,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:44:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:45:01,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:45:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:45:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:45:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:12,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:45:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:45:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:45:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:45:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:20,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:45:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:45:28,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:45:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:45:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:45:32,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:45:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:45:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:45:36,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:45:40,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:45:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:45:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:45:48,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:45:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:45:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:45:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:45:52,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:45:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:45:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:45:56,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:45:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:45:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:46:00,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:46:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:46:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:46:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:46:04,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:46:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:46:08,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:12,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:46:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:46:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:46:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:46:20,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:46:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:46:24,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:46:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:46:28,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:46:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:46:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:46:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:46:32,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:46:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:46:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:46:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:46:39,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:46:43,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:46:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:46:47,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:46:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:46:51,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:46:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:55,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:46:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:46:59,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:46:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:46:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:47:03,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:47:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:47:07,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:47:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:47:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:47:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:47:15,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:47:19,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:47:23,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:47:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:47:27,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:47:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:47:31,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:47:35,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:47:39,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:47:42,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:47:46,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:47:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:47:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:47:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:47:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:47:54,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:47:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:47:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:47:58,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:47:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:47:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:47:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:48:02,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:48:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:48:06,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:48:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:48:10,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:48:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:48:14,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:48:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:48:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:48:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:48:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:48:22,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:48:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:48:26,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:48:30,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:48:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:48:34,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:48:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:48:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:48:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:48:38,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:48:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:48:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:48:42,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:48:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:48:46,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:48:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:48:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:48:53,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:48:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:48:57,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:48:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:48:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:49:01,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:49:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:49:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:49:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:49:05,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:49:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:49:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:49:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:49:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:49:13,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:49:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:49:17,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:49:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:49:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:49:21,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:49:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:49:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:49:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:49:29,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:49:33,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:49:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:49:37,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:49:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:49:41,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:49:45,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:49:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:49:49,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:49:53,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:49:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+10:49:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:49:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:49:57,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:49:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:49:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:49:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:50:01,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+10:50:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:50:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:50:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:12,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:50:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:50:20,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:50:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:50:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:50:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:50:28,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:32,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:50:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:36,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:50:40,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:50:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:50:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:50:44,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:50:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:50:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:50:48,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:50:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:50:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:50:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:50:52,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:50:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:50:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:50:56,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:50:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:50:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:50:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:00,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:51:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:51:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:51:04,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:51:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:51:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:04,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:51:08,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:51:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:51:12,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:51:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:51:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:51:16,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:51:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:51:20,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:51:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:51:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:51:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:24,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:51:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:51:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:51:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:51:28,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:51:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:51:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:51:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:51:32,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:51:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:51:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:51:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:51:36,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:51:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:51:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:51:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:51:40,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:51:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:51:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:51:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:51:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:51:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:51:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:51:48,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:51:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:51:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:51:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:51:52,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:51:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:51:56,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:51:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:52:00,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:52:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:52:03,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:52:07,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:52:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:52:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:52:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:52:11,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:52:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:52:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:52:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:52:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:52:19,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:52:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:52:23,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:52:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:52:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:52:27,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:52:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:52:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:52:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:52:31,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:52:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:52:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:52:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:52:39,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:52:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:52:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:52:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:52:47,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:52:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:52:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:52:51,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:52:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:52:55,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:52:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:52:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:52:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:52:59,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:52:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:03,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:53:07,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:53:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+10:53:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:53:15,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:53:15,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:53:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:53:19,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:53:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:53:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:53:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:26,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:53:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:53:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:30,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:53:34,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:38,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:53:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:53:42,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:53:46,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:53:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:53:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:53:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:53:58,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:53:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:53:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:53:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:54:02,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:54:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:54:06,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:54:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:54:10,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:54:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:54:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:54:14,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:54:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:54:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:54:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:54:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:54:22,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:54:26,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:54:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:54:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:54:30,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:54:34,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:54:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:54:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:54:38,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:54:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:54:41,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:54:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:54:45,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:54:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:54:49,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:54:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:54:53,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:54:57,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:54:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:55:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:55:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:55:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:55:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:55:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:55:13,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:55:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:55:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:55:17,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:55:21,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:55:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:55:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:55:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:55:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:55:29,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:55:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:55:33,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:55:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+10:55:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:55:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:55:37,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+10:55:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:55:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:55:41,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:55:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:55:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:55:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:55:45,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:55:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:55:49,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:55:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:55:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+10:55:52,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:55:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:55:52,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:55:56,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:55:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:56:00,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:56:04,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:56:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:56:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:56:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:56:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:56:12,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:56:12,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:56:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:56:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:56:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:56:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:56:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:56:20,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:56:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:56:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:56:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:56:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:56:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:56:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+10:56:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:56:28,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:56:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:56:32,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:56:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-71
+10:56:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:56:36,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:56:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:56:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:56:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:56:40,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:56:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:56:44,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:56:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:56:48,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:56:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:56:52,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:56:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:56:56,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:56:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:56:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+10:57:00,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:57:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:57:03,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:57:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:57:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:57:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:57:07,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:57:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:57:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:57:11,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:57:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:57:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+10:57:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:57:15,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:57:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:57:19,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:57:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:57:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:57:23,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:57:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:57:27,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:57:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:57:31,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:57:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:57:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:57:39,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:57:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:57:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:57:47,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:57:51,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:57:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:57:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-92
+10:57:55,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:57:59,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:57:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:57:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:58:03,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:58:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:58:07,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:58:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:58:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:58:14,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:58:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:58:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:58:22,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:58:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+10:58:26,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:58:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:58:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:58:30,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:58:34,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:58:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:58:38,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:58:42,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:58:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:58:42,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-92
+10:58:46,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+10:58:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:58:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+10:58:50,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:58:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:58:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:58:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+10:58:58,Jana :p,b'B<j_\xec\x98',3,6,-28
+10:58:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:58:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+10:59:02,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:59:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-93
+10:59:06,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:59:10,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:59:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:59:14,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:59:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:59:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:59:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+10:59:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:59:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:59:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+10:59:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:59:29,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:59:33,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:59:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+10:59:37,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-70
+10:59:41,Jana :p,b'B<j_\xec\x98',3,6,-29
+10:59:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+10:59:45,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:59:49,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:59:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+10:59:53,Jana :p,b'B<j_\xec\x98',3,6,-30
+10:59:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:59:57,Jana :p,b'B<j_\xec\x98',3,6,-31
+10:59:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+10:59:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+10:59:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:00:01,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:00:05,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:00:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:00:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:00:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:00:13,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:00:17,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:21,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:00:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:00:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:29,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:32,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:00:36,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:40,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:00:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:00:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:00:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:00:48,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:00:52,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:00:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:00:56,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:00:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:01:00,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:01:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:01:04,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:01:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:01:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:01:12,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:01:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:01:16,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:01:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:01:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:01:20,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:01:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:01:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:01:28,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:01:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:01:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:01:32,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:01:36,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:01:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:01:39,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+11:01:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:01:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-87
+11:01:47,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:01:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:01:51,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:01:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:01:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:01:55,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:01:59,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:01:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:01:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:02:03,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:02:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:02:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:02:07,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:02:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:02:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:02:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:02:19,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:02:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:02:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:02:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:02:23,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:02:23,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:02:27,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:02:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:02:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:02:31,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:02:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:02:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:02:39,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:02:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:02:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:02:43,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:02:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:02:47,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:02:50,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:02:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:02:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:02:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:02:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:02:58,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:03:02,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:03:06,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:03:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:03:10,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:03:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:03:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+11:03:14,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:03:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:03:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:03:18,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:03:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:03:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:03:26,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:03:30,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:03:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:03:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:03:34,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:03:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:03:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:03:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:03:38,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:03:42,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:03:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:03:46,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:03:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:03:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:03:50,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:03:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:03:54,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:03:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:03:57,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:03:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:03:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:04:01,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:04:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:04:05,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:04:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:04:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:04:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:04:09,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:04:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+11:04:13,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:04:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:04:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:04:17,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:04:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:04:21,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:04:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:04:25,Jana :p,b'B<j_\xec\x98',3,6,-32
+11:04:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:04:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:04:29,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:04:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:04:33,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:04:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:04:37,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:04:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:04:41,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:04:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:04:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:04:45,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:04:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:04:49,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:04:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:04:53,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:04:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:04:57,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:04:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:04:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:04:57,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:05:01,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:05:04,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:05:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:05:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:05:12,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:05:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:05:20,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:05:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:05:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:05:24,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:05:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:05:24,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:05:28,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:05:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:05:32,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:05:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:05:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:05:36,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:05:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:05:40,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:05:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:05:44,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:05:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:05:48,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:05:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:05:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:05:52,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:05:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:05:56,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:05:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:06:00,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:06:04,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:06:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:06:08,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:06:12,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:06:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:12,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:06:15,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:06:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:06:19,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:06:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:23,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:06:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:27,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:06:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:06:31,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:06:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:06:39,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:06:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:06:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:06:47,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:47,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:06:51,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:06:55,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:06:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:06:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:06:55,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:06:59,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:06:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:07:03,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:07:07,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:07:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:07:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:07:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:07:11,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:07:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:07:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:07:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:07:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:07:19,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:07:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+11:07:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:07:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:07:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:07:26,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:07:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:07:30,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:07:34,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:07:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:07:38,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:07:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:07:42,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:07:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:07:46,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:07:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:07:50,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:07:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:07:54,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:07:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:07:58,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:07:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:08:02,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:08:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:08:06,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:08:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:08:10,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:08:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:08:14,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:08:14,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:08:18,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:08:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:08:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:08:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:08:26,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:08:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:08:30,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:08:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:08:33,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:08:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:08:37,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:08:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:08:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:08:41,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:08:45,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:08:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:08:49,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:08:53,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:08:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:08:57,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:08:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:08:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:09:01,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:09:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:09:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:09:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:09:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:09:13,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:09:17,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:09:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:09:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:09:21,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:09:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:09:25,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:09:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:09:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:09:29,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:09:33,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:09:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:09:37,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:09:40,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:09:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:09:44,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:09:48,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:09:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:09:52,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:09:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:09:52,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:09:56,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:09:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:09:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:10:00,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:10:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:10:00,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:10:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:10:04,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:10:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:10:04,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:10:08,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:10:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-75
+11:10:12,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:10:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-86
+11:10:16,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:10:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:10:20,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:10:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:10:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:10:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:10:24,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:10:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:10:28,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:10:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:10:32,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:10:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:10:32,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:10:32,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:10:36,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:10:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:10:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:10:40,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:10:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:10:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:10:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:10:47,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:10:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:10:51,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:10:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:10:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:10:55,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:10:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:10:59,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:10:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:10:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:11:03,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:11:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:11:07,Jana :p,b'B<j_\xec\x98',3,6,-27
+11:11:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:11:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:11:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:11:11,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:11:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:11:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:11:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:11:19,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:11:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:23,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:11:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:27,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:11:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:11:27,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:11:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-93
+11:11:31,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:11:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:35,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:11:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:11:39,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:11:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:11:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:11:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:47,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:11:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:51,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:11:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:11:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:11:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:11:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:11:58,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:11:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:02,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:06,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:12:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:12:10,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:12:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:12:14,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:14,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:12:14,AndroidAP,b'\x8e\xf5\xa3\x83\xde\x16',3,6,-92
+11:12:18,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:18,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:12:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:26,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:12:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:12:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:12:30,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:12:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:12:34,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:12:34,AndroidAP,b'\x8e\xf5\xa3\x83\xde\x16',3,6,-94
+11:12:38,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:12:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:12:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:12:38,AndroidAP,b'\x8e\xf5\xa3\x83\xde\x16',3,6,-93
+11:12:42,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:12:42,AndroidAP,b'\x8e\xf5\xa3\x83\xde\x16',3,6,-92
+11:12:46,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:12:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:12:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:12:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:12:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:12:54,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:12:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:12:54,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:12:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:12:58,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:12:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:12:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:13:02,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:13:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:06,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:13:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:13:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:13:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:13:09,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:13:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:13:13,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:13:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:13:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:13:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:13:17,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:13:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:13:17,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:13:21,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:13:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:13:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:13:25,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:13:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:29,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:13:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:13:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:13:33,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:13:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:13:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:13:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:13:33,Anissniss,b'n:H\x02\x15\xb2',3,6,-93
+11:13:37,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:13:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:13:37,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:13:37,Anissniss,b'n:H\x02\x15\xb2',3,6,-96
+11:13:41,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:13:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:13:41,Anissniss,b'n:H\x02\x15\xb2',3,6,-89
+11:13:45,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:13:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:13:45,Anissniss,b'n:H\x02\x15\xb2',3,6,-92
+11:13:49,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:13:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:13:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:13:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:13:49,Anissniss,b'n:H\x02\x15\xb2',3,6,-93
+11:13:53,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:13:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:13:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:13:53,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:13:53,Anissniss,b'n:H\x02\x15\xb2',3,6,-93
+11:13:57,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:13:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:13:57,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:14:01,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:14:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:14:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:14:05,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:14:09,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:14:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:14:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:14:13,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:14:13,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:14:13,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:14:17,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:14:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:14:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:14:21,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:14:25,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:14:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:14:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:14:29,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:14:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:14:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:14:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:14:33,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:14:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:14:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:14:36,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:14:40,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-88
+11:14:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:14:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:14:44,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:14:44,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:14:48,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:14:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:14:52,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:14:56,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:14:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:14:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:14:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:15:00,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:15:04,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:15:08,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:15:12,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:15:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:15:20,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:15:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:15:24,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:15:28,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:15:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:15:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:15:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:15:32,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:15:36,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:15:40,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:15:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:15:43,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:15:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:15:47,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:15:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:15:51,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:15:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:15:55,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:15:59,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:15:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:16:03,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:16:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:16:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:16:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:16:07,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:16:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:16:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-92
+11:16:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:16:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:16:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:16:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-91
+11:16:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:16:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:16:15,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:16:19,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:16:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:16:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-91
+11:16:23,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:16:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:16:27,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:16:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:16:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:16:31,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:16:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:16:35,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:16:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:16:39,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:16:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:16:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:16:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:16:43,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:16:47,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:16:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:16:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:16:51,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:16:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:16:51,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:16:54,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:16:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:16:58,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:16:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:16:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:17:02,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:17:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:17:06,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:17:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:17:10,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:17:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-85
+11:17:14,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:17:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:17:22,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:17:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-76
+11:17:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:17:26,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:17:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:17:30,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:17:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:17:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:17:34,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:17:38,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:17:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:17:42,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:17:46,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:17:50,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:17:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:17:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:17:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:17:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:17:58,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:17:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:17:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:18:01,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:18:05,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:18:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:18:05,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:18:09,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:18:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:18:13,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:18:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:18:17,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:18:21,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:18:25,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:18:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:18:29,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:18:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:18:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:18:33,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:18:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:18:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:18:33,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:18:37,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:18:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:18:37,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:18:41,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:18:45,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:18:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:18:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:18:49,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:18:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:18:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:18:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:18:53,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:18:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:18:57,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:18:57,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:01,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:01,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:01,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:19:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:19:05,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:05,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:05,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:19:09,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:19:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:19:09,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:19:13,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:16,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:19:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:19:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:19:20,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:19:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:19:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:19:28,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:28,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:19:32,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:32,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:36,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:36,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:36,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:19:36,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:19:40,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:19:40,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:19:40,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+11:19:40,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:19:44,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:44,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:48,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:48,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:48,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:19:48,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:19:52,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:19:52,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:19:56,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:19:56,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:19:56,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+11:19:56,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:20:00,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:00,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:20:00,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:20:04,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:04,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:20:08,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:20:08,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:20:08,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:20:12,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:20:12,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:20:16,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:20:16,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:16,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+11:20:16,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:20:20,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:20,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:20,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:20:20,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:20:24,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:24,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:24,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:20:28,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:20:28,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:20:28,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:20:31,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:31,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:20:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:20:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:20:35,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:20:39,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:39,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:20:39,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:20:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:20:43,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:20:47,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:20:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:20:51,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:20:51,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:20:55,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:55,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:20:55,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:20:59,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:20:59,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:20:59,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:20:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:21:03,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:21:03,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:21:03,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:21:03,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:21:07,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:21:07,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:21:07,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:21:07,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-90
+11:21:11,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:11,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:21:11,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:21:11,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:21:15,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:15,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:21:19,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:21:19,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:21:19,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:21:19,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:21:23,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:21:23,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:21:23,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:21:27,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:21:27,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:21:27,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:21:31,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:21:31,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:21:31,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:21:35,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:35,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:21:35,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:21:39,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:39,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:21:43,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:43,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:21:47,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:21:47,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:21:47,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:21:50,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-77
+11:21:50,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:21:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:21:58,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:21:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:21:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:21:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:22:02,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:22:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:06,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:22:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-90
+11:22:10,Jana :p,b'B<j_\xec\x98',3,6,-28
+11:22:10,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:22:10,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:22:10,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:22:14,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:22:14,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:22:18,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:22:18,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:18,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:22:22,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:22:22,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:22:22,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:22:22,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:22:26,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:22:26,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-80
+11:22:26,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:22:26,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:22:30,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:22:30,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:22:30,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:22:30,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:22:34,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:22:34,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:34,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:22:34,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-89
+11:22:38,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:22:38,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-84
+11:22:38,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:22:38,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-88
+11:22:42,Jana :p,b'B<j_\xec\x98',3,6,-31
+11:22:42,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:22:42,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:22:46,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:22:46,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:46,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:22:50,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:22:50,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:54,Jana :p,b'B<j_\xec\x98',3,6,-29
+11:22:54,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:22:54,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:22:58,Jana :p,b'B<j_\xec\x98',3,6,-30
+11:22:58,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:22:58,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:22:58,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-89
+11:23:02,Jana :p,b'B<j_\xec\x98',3,6,-54
+11:23:02,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:23:02,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:23:02,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:23:06,Jana :p,b'B<j_\xec\x98',3,6,-59
+11:23:06,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:23:06,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+11:23:06,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:23:09,Jana :p,b'B<j_\xec\x98',3,6,-60
+11:23:09,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:23:09,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:23:13,Jana :p,b'B<j_\xec\x98',3,6,-56
+11:23:13,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:23:17,Jana :p,b'B<j_\xec\x98',3,6,-57
+11:23:17,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:23:17,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+11:23:21,Jana :p,b'B<j_\xec\x98',3,6,-57
+11:23:21,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:23:21,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+11:23:21,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:23:25,Jana :p,b'B<j_\xec\x98',3,6,-52
+11:23:25,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:23:25,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+11:23:25,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:23:29,Jana :p,b'B<j_\xec\x98',3,6,-58
+11:23:29,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-82
+11:23:29,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-86
+11:23:29,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-86
+11:23:33,Jana :p,b'B<j_\xec\x98',3,6,-53
+11:23:33,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:23:33,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:23:37,Jana :p,b'B<j_\xec\x98',3,6,-49
+11:23:37,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:23:41,Jana :p,b'B<j_\xec\x98',3,6,-57
+11:23:41,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-81
+11:23:41,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:23:41,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:23:45,Jana :p,b'B<j_\xec\x98',3,6,-54
+11:23:45,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-78
+11:23:45,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:23:45,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-87
+11:23:49,Jana :p,b'B<j_\xec\x98',3,6,-55
+11:23:49,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-79
+11:23:49,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
+11:23:49,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\x9a\xc1',0,1,-88
+11:23:53,Jana :p,b'B<j_\xec\x98',3,6,-54
+11:23:53,NNLocalNetwork,b'tD\x01I\xc8\xc6',3,11,-83
+11:23:53,eduroam,b'\\Z\xc7\xf2\x9a\xc0',5,1,-87
