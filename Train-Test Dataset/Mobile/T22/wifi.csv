@@ -1,0 +1,3491 @@
+Time,ssid,bssid,sec,channel,rssi
+14:17:23,Jana :p,b'f\x1a@\xbb\xb0\x17',3,6,-35
+14:17:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:17:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:17:23,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-74
+14:17:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:17:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:17:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:17:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:17:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:17:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:17:31,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:17:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-51
+14:17:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:17:35,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-79
+14:17:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:17:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:17:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-52
+14:17:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:17:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:17:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:17:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:17:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:17:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:17:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:17:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:17:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:17:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:17:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:17:47,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-86
+14:17:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:17:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:17:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:17:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:17:51,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-81
+14:17:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:17:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:17:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:17:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:17:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:17:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:17:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:17:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:17:59,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-81
+14:17:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:18:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:18:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:18:03,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-83
+14:18:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:18:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:18:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:18:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:18:07,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-97
+14:18:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:18:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:18:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:18:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:18:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:18:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:18:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:18:19,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:18:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:18:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:18:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:18:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:18:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:18:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:18:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:18:23,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:18:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:18:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:18:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:18:27,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-76
+14:18:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:18:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:18:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:18:31,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-69
+14:18:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:18:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:18:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:18:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:18:35,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-67
+14:18:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:18:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:18:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:18:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:18:39,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-70
+14:18:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:18:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:18:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:18:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:18:43,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-78
+14:18:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:18:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:18:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:18:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:18:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:18:47,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-77
+14:18:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:18:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:18:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:18:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:18:51,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-74
+14:18:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:18:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:18:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:18:55,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-71
+14:18:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:18:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:18:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:18:59,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:18:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:18:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:19:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:19:03,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:19:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:19:07,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-81
+14:19:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:19:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:19:11,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:19:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:19:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:19:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:19:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:19:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:19:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:19:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:19:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:19:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:19:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:19:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:19:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:19:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:19:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:19:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:19:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:19:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:19:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:19:38,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-75
+14:19:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:19:38,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+14:19:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:19:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:19:42,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:19:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:19:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:19:46,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:19:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:19:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:19:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:19:50,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-75
+14:19:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:19:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:19:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:19:54,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-76
+14:19:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:19:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:19:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:19:58,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-70
+14:19:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:20:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:20:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:20:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:20:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:20:06,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:20:06,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:20:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:20:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:20:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:20:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:20:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:20:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:20:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:20:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:20:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:20:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:20:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:20:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:20:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:20:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:20:26,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:20:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:20:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:20:30,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:20:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:20:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:20:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:20:34,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:20:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:20:34,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:20:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:20:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:20:38,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:20:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:20:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:20:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:20:42,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-69
+14:20:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:20:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:20:46,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:20:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:20:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:20:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:20:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:20:50,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:20:50,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:20:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:20:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:20:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:20:54,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:20:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:20:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:20:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:20:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:20:58,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-81
+14:20:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-81
+14:20:58,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:20:58,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:21:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:21:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:21:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:21:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:21:06,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-79
+14:21:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:21:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:21:09,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:21:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:21:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:21:13,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-74
+14:21:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:21:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:21:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:21:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:21:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:21:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:21:21,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-81
+14:21:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:21:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:21:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:21:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:21:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:21:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:21:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:21:29,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:21:29,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:21:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:21:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:21:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:21:33,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:21:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:21:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:21:37,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-75
+14:21:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:21:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:21:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:21:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:21:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:21:45,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:21:45,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:21:45,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:21:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:21:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:21:49,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:21:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:21:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:21:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:21:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:21:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:21:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:21:57,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:21:57,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:22:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:22:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:01,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:22:01,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:22:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:05,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-74
+14:22:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:22:05,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:22:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:22:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:22:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:22:09,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:22:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:22:13,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:22:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:22:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:22:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:22:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:22:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:22:17,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:22:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:21,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-71
+14:22:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:22:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:22:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:22:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:22:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:22:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:22:29,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:22:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:22:29,fammille casse couille,b'\xf4\x17\xb8\xc7\xa2:',3,6,-92
+14:22:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:22:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:22:33,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:22:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:22:33,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:22:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:41,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:22:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:22:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:22:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:22:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:22:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:22:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:22:49,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-97
+14:22:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:22:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:22:52,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-77
+14:22:52,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:22:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:22:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:22:56,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:22:56,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:22:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:22:56,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:23:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:23:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:23:00,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-71
+14:23:00,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:23:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:23:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:23:04,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:23:04,FREEBOX_MAMsaii,b'h\xa3xt<\xac',4,2,-93
+14:23:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:23:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:23:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:23:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:23:12,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:23:12,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-68
+14:23:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:23:12,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:23:12,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:23:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:23:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:23:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:23:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:23:20,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:23:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:23:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:23:24,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-69
+14:23:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:23:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:23:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:23:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:23:32,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:23:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:23:32,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:23:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:23:36,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:23:36,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:23:36,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:23:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:23:40,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:23:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:23:40,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:23:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:23:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:23:44,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:23:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:23:48,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:23:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:23:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:23:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:23:52,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:23:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:23:52,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:23:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:23:56,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:23:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:24:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:24:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:24:00,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-67
+14:24:00,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:24:00,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:24:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:24:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:24:04,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:24:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:24:08,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-67
+14:24:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:24:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:24:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:24:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:24:12,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:24:12,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:24:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:24:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:24:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:24:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:24:20,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:24:20,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-74
+14:24:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:24:20,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:24:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:24:24,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:24:24,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:24:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:24:24,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:24:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:24:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:24:28,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:24:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:24:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:24:32,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:24:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:24:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:24:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:24:35,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-63
+14:24:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:24:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:24:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:24:39,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:24:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:24:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:24:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:24:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:24:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:24:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:24:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:24:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:24:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:24:47,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-74
+14:24:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:24:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:24:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:24:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-76
+14:24:51,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:24:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:24:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:24:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:24:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:24:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:24:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:24:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:24:59,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-79
+14:24:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:24:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:25:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:25:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:25:03,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-82
+14:25:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:25:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:25:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:25:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:25:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:25:11,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:25:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:25:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:25:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:25:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:25:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:25:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:25:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:25:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:25:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:25:23,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-66
+14:25:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:25:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:25:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:25:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:25:27,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:25:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:25:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:25:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:25:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:25:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:25:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:25:31,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:25:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:25:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:25:35,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:25:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:25:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-82
+14:25:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:25:35,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:25:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:25:39,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:25:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:25:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:25:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:25:43,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-60
+14:25:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:25:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:25:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:25:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:25:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:25:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:25:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:25:47,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+14:25:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:25:51,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:25:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:25:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:25:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:25:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:25:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:25:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:25:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:25:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:25:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:25:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:26:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:26:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:26:03,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-67
+14:26:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:26:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:26:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:26:07,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:26:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:26:11,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-71
+14:26:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:26:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:26:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:26:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:26:15,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-72
+14:26:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:26:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:26:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:26:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:26:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:26:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:26:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:26:23,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-69
+14:26:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:26:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:26:23,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:26:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:26:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:26:27,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-70
+14:26:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:26:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:26:27,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:26:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:26:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:26:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:26:31,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:26:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:26:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:26:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:26:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:26:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:26:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:26:38,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-62
+14:26:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:26:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:26:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:26:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:26:42,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:26:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:26:42,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:26:42,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:26:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:26:46,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-60
+14:26:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:26:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:26:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:26:50,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:26:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:26:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:26:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:26:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:26:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:26:54,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+14:26:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:26:58,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-63
+14:26:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:26:58,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:26:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:26:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:27:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:27:02,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:27:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:27:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:27:02,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:27:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:27:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:27:06,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:27:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-94
+14:27:06,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-96
+14:27:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:27:10,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-63
+14:27:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:27:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:27:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:27:10,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:27:14,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:27:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:27:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:27:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:27:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:27:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:27:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:27:18,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:27:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:27:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:27:22,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-69
+14:27:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:27:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:27:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:27:26,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:27:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-94
+14:27:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:27:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:27:30,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-62
+14:27:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:27:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:27:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:27:34,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:27:34,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:27:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:27:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:27:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:27:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:27:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:27:42,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:27:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:27:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:27:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:27:46,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:27:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:27:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:27:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:27:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:27:50,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:27:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:27:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:27:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:27:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:27:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:27:54,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:27:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:27:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:27:58,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-81
+14:27:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-82
+14:27:58,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:28:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:28:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:28:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:28:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:28:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:28:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:28:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-87
+14:28:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:28:09,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:28:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:28:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-84
+14:28:14,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-87
+14:28:14,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:28:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:28:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-78
+14:28:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:28:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:28:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:28:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-80
+14:28:22,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-89
+14:28:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:28:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:28:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:28:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:28:25,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-79
+14:28:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:28:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:28:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:28:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:28:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:28:30,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-82
+14:28:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:28:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:28:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:28:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:28:34,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-82
+14:28:34,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-86
+14:28:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:28:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:28:38,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:28:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:28:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:28:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:28:41,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-86
+14:28:41,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-88
+14:28:41,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:28:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-94
+14:28:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:28:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:28:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:28:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:28:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:28:49,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-79
+14:28:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:28:49,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:28:49,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:28:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:28:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:28:53,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:28:53,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-84
+14:28:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:28:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:28:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-80
+14:28:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:28:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:29:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:29:01,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-73
+14:29:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:29:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+14:29:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:29:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:29:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:29:05,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:29:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+14:29:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:29:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:29:09,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:29:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:29:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:29:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:29:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:29:13,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:29:13,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:29:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:29:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:29:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:29:17,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:29:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:29:17,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:29:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:29:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:29:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:29:21,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:29:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:29:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:29:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:29:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:29:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:29:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:29:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:29:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:29:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:29:33,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-83
+14:29:33,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:29:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:29:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:29:37,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:29:37,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:29:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:29:37,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:29:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:29:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:29:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:29:41,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-77
+14:29:41,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:29:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:29:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:29:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:29:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:29:45,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-79
+14:29:45,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-87
+14:29:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:29:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:29:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:29:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:29:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:29:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:29:52,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:29:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:29:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:29:57,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-80
+14:29:57,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:29:57,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:29:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:30:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:30:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:30:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:30:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:30:05,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:30:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:30:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:30:09,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-84
+14:30:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:30:09,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:30:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:30:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-77
+14:30:13,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:30:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:30:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:30:17,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-75
+14:30:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:30:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:30:21,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-77
+14:30:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:30:21,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:30:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:30:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:30:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:30:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:30:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:30:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-77
+14:30:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:30:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:30:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-67
+14:30:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:30:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-81
+14:30:33,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:30:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:30:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:30:37,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:30:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-79
+14:30:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-81
+14:30:40,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-66
+14:30:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-66
+14:30:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-77
+14:30:40,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:30:40,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:30:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:30:40,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:30:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:30:44,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:30:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:30:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:30:48,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:30:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:30:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:30:52,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:30:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:30:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:30:56,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:30:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:30:56,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:31:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:31:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:31:00,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-66
+14:31:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:31:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:31:04,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-78
+14:31:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:31:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:31:08,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-66
+14:31:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:31:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:31:08,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:31:08,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:31:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:31:12,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-66
+14:31:12,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:31:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:31:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:31:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:31:16,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-63
+14:31:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:31:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:31:16,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:31:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:31:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:31:20,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:31:20,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:31:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:31:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:31:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:31:24,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:31:24,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:31:28,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-63
+14:31:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:31:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-80
+14:31:28,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:31:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:31:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:31:32,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-63
+14:31:32,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-78
+14:31:32,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:31:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:31:36,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-62
+14:31:36,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:31:36,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:31:36,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-86
+14:31:36,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:31:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:31:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:31:40,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-71
+14:31:40,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:31:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:31:44,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:31:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:31:44,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:31:44,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:31:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:31:48,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-65
+14:31:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:31:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:31:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:31:52,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-64
+14:31:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:31:52,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:31:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:31:56,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-77
+14:32:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:32:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:32:00,Alll,b'\x8a\xe4u\xe9\xcfK',3,1,-67
+14:32:00,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:32:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:32:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:32:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:32:04,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:32:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:32:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:32:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:32:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:32:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:32:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:32:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:32:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:32:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:32:20,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:32:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:32:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:32:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:32:24,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:32:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:32:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:32:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:32:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:32:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:32:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:32:31,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:32:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:32:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:32:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:32:35,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:32:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:32:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:32:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:32:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:32:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:32:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:32:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:32:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:32:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:32:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:32:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:32:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:32:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:32:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:32:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:32:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:32:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:32:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:32:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:32:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:32:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:32:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:32:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:32:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:32:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:32:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:32:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:33:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:33:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:33:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:33:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:33:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:33:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:33:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:33:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:33:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:33:11,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:33:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:33:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:33:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:33:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:33:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:33:15,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:33:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:33:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:33:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:33:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:33:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:33:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:33:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:33:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:33:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:33:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:33:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:33:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:33:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:33:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:33:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:33:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:33:31,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:33:31,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-87
+14:33:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:33:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:33:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:33:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:33:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:33:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:33:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:33:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:33:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:33:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:33:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:33:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:33:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:33:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-83
+14:33:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:33:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:33:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:33:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-79
+14:33:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:33:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:33:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-78
+14:33:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:33:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:33:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:33:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-79
+14:33:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:33:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:34:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:34:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-79
+14:34:02,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:34:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:34:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:34:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:34:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:34:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-89
+14:34:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:34:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-82
+14:34:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:34:10,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:34:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:34:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:34:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-81
+14:34:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:34:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:34:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:34:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:34:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:34:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:34:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:34:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:34:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:34:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:34:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:34:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:34:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:34:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-79
+14:34:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:34:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:34:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:34:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:34:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:34:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:34:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:34:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:34:34,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:34:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:34:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:34:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:34:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:34:38,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:34:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:34:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:34:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:34:42,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:34:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:34:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:34:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:34:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:34:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:34:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:34:50,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:34:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:34:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:34:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:34:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:34:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:34:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:34:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:34:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:34:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:35:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:35:02,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:35:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:35:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:35:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:06,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:35:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:35:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:35:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:35:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-52
+14:35:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:35:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:35:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:35:14,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:35:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:35:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:35:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:35:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:35:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:35:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:35:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:35:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:35:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:35:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:35:26,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:35:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:35:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:35:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:35:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:35:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:35:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:35:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:35:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:35:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:35:38,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:35:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:35:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:35:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:35:42,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:35:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:35:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:35:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:35:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:35:46,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:35:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:35:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:35:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:35:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:35:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:35:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:35:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:35:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:35:58,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:35:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:35:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:36:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:36:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:36:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:36:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:36:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:36:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:36:05,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:36:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:36:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:36:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:36:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:36:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:36:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:36:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:36:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:36:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:36:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:36:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:36:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:36:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:36:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:36:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:36:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:36:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:36:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:36:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:36:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:36:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:36:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:36:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:36:29,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:36:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:36:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:36:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:36:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:36:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:36:33,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+14:36:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:36:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:36:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:36:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:36:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:36:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-66
+14:36:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:36:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:36:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:36:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:36:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:36:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:36:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:36:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:36:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:36:49,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:36:49,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:36:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:36:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:36:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:36:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:36:53,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:36:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:36:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:36:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:36:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:37:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:37:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:37:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:37:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:37:01,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:37:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:37:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:37:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:37:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:37:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:37:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:37:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:37:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:37:09,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:37:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:37:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:37:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:37:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:37:13,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:37:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:37:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:37:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:37:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:37:17,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:37:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:37:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:37:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:37:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:37:21,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:37:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-53
+14:37:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:37:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+14:37:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:37:25,Galaxy S21+ 5G8541,b'\xc21Z|\x85\xc9',3,11,-96
+14:37:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:37:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:37:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:37:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:37:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:37:29,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:37:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:37:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:37:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-82
+14:37:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:37:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:37:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:37:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:37:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:37:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:37:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:37:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:37:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:37:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:37:45,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:37:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:37:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:37:49,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:37:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:37:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:37:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:37:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:37:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:37:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:37:57,TheRealMado,b'\xd6:\x0b\xb0\xbdt',3,7,-95
+14:38:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:38:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:38:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:38:01,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:38:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:38:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:38:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:38:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:38:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:38:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:38:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:38:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:38:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:38:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:38:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:38:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:38:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:38:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:38:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:38:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:38:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:38:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-98
+14:38:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:38:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:38:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:38:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:38:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:38:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:38:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:38:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:38:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:38:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:38:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:38:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:38:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:38:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:38:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:38:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:38:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:38:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:38:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:38:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:38:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:38:40,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:38:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:38:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:38:44,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:38:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:38:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:38:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:38:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:38:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:38:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:38:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:38:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:38:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:38:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:38:52,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:38:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:38:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:38:56,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:38:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:38:56,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:39:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:39:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:39:00,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:39:00,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:39:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:39:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:39:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:39:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:39:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:39:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:39:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:39:08,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:39:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:39:12,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:39:12,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:39:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:39:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:39:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:39:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:39:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:39:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:39:20,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:39:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:39:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:39:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:39:24,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:39:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:39:24,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:39:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:39:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:39:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:39:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-86
+14:39:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:39:32,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:39:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:39:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:39:32,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:39:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:39:36,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:39:36,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:39:36,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:39:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:39:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:39:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:39:40,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:39:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:39:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:39:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:39:44,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:39:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:39:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:39:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:39:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:39:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:39:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:39:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:39:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:39:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:39:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:39:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:39:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:39:56,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:40:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:40:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:40:00,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:40:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:40:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:40:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:40:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:40:04,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:40:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:40:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:40:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:40:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:40:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:40:12,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:40:12,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:40:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:40:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:40:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-76
+14:40:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:40:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:40:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:40:20,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:40:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:40:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:40:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:40:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:40:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:40:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:40:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:40:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:40:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:40:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:40:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:40:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:31,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:40:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:40:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:40:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:40:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:40:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:40:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:40:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:40:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:40:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:40:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:40:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:40:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:40:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:40:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:40:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:40:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:40:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:40:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:40:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:40:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:40:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:40:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:40:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:40:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:40:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:40:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:40:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:40:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:40:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:41:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:41:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:41:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:41:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:41:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:41:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:41:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:41:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:41:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:41:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:41:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:41:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:41:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:41:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:41:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:41:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:41:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:41:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:41:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:41:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:41:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:41:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:41:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:41:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:41:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:41:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:41:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:41:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:41:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:41:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:41:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:41:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:41:31,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:41:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:41:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:41:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:41:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:41:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:41:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:41:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:41:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:41:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:41:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:41:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:41:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:41:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:41:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:41:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:41:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:41:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:41:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:41:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:41:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:41:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:41:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:41:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:41:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:41:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:41:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:41:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:41:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:41:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:42:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:42:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:42:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:42:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:42:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:42:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:42:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:42:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:42:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:42:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:42:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:42:10,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:42:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:42:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:42:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:42:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:42:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:42:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:42:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:42:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:42:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:42:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:42:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:42:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:42:23,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-97
+14:42:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:42:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:42:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:42:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:42:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:42:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:42:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:30,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:42:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:42:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:42:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:42:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:42:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:42:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:42:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:42:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:42:38,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:42:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:42:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:42:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:42:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:42:42,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:42:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:42:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:42:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:42:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:42:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:42:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:42:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:42:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:42:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:42:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:42:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:42:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:42:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:42:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:42:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:42:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:43:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:43:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:43:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:43:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:43:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:43:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:43:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:43:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:43:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:43:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:43:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:43:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:43:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:43:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:43:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:43:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-67
+14:43:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:43:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:43:18,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:43:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:43:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-66
+14:43:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:43:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:43:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:43:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:43:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:43:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:43:26,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:43:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:43:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-68
+14:43:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:43:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:43:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:43:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-66
+14:43:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:43:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:43:34,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:43:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:43:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-66
+14:43:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:43:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:43:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:43:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:43:42,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:43:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:43:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:43:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:43:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:43:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:43:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:43:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:43:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:43:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:43:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:43:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:43:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-65
+14:43:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:43:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:43:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:43:58,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:44:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:44:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:44:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:44:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:44:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:44:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:44:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:44:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:44:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:44:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:44:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:44:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:44:14,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:44:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:44:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:44:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:44:18,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-87
+14:44:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:44:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:44:18,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:44:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:44:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:44:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:44:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:44:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:44:26,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:44:26,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:44:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:44:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:44:30,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:44:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:44:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:44:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:44:34,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:44:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:44:34,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+14:44:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:44:34,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:44:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:44:38,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-62
+14:44:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:44:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:38,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+14:44:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:44:38,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:44:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:44:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:44:42,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:44:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:42,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:44:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:44:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:44:46,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+14:44:46,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:44:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:46,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:44:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-92
+14:44:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+14:44:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:44:50,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:44:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:44:50,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:44:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+14:44:50,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:44:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:44:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:44:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:44:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:44:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:44:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:44:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-86
+14:44:57,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:44:57,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:44:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:45:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:45:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:45:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:01,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:45:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+14:45:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:45:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:45:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:45:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:45:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:45:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:45:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:45:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:45:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+14:45:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:45:13,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:45:13,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:45:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:45:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:45:17,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:45:17,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:45:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+14:45:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:45:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:45:21,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-85
+14:45:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:45:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:45:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:45:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:45:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:45:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:45:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:45:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:45:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:45:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:45:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:45:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:45:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:33,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:45:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:45:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:45:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:45:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:45:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:45:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:45:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-85
+14:45:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:45:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:41,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:45:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:45:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:45:45,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:45:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:45,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:45:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:45:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:45:49,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:45:49,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-88
+14:45:49,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:45:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:45:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:45:53,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:45:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:45:53,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:45:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:45:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:45:57,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:45:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:45:57,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:46:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:01,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+14:46:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:46:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:46:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:46:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:46:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:46:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:46:05,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:46:05,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:46:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:46:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:46:09,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:46:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:46:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:46:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:46:13,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:46:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:46:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:46:17,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:46:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:46:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:46:17,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:46:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:21,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:46:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:46:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:46:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:46:21,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:46:21,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:46:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:25,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:46:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-74
+14:46:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:46:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:46:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:46:29,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+14:46:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:46:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:46:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:33,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+14:46:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-73
+14:46:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:46:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:46:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:46:37,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:46:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:46:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:46:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+14:46:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:46:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:46:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:46:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:46:45,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:46:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:46:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:46:49,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:46:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:46:49,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:46:49,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:46:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:46:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:46:53,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:46:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:46:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:46:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:46:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:46:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:47:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:47:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-76
+14:47:01,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:47:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:47:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:47:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:47:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:47:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:47:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:47:05,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:47:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:47:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:47:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:47:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:47:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:47:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:47:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:47:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:47:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:47:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:47:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:47:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:47:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:47:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:47:21,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-84
+14:47:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:47:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:47:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:47:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-84
+14:47:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:47:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:47:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:47:29,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:47:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:47:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:47:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:47:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:47:33,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:47:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:47:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:47:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:47:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:47:37,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:47:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:47:37,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:47:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:47:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:47:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:47:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:47:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:47:41,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:47:45,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:47:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:47:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:47:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:47:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:47:49,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:47:49,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:47:49,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:47:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:47:53,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:47:53,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:47:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:47:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:47:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:47:57,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:47:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:48:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:48:01,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:48:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:48:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:48:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:48:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:48:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+14:48:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:48:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:48:05,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:48:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:48:09,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:48:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:48:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:48:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:48:13,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-70
+14:48:13,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:48:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:48:17,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:48:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:48:17,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:48:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:48:17,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:48:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:48:21,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:48:21,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:48:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:48:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:48:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:48:25,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:48:25,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:48:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-86
+14:48:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:48:29,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:48:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:48:29,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:48:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:48:33,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:48:33,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:48:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:48:33,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:48:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:48:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:48:37,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:48:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:48:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:48:37,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:48:41,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:48:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:48:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:48:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:48:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:48:44,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+14:48:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-86
+14:48:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:48:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:48:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:48:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:48:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:48:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:48:52,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:48:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:48:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:48:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:48:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:48:56,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:49:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:49:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:49:00,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:49:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:49:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:49:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:49:04,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:49:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:49:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:49:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:08,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:49:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:49:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:49:12,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:49:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:12,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:49:12,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:49:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:49:12,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:49:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:49:16,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:49:16,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:49:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:49:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:49:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:49:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:49:20,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-69
+14:49:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:49:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:49:20,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:49:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:49:24,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:49:24,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+14:49:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:49:24,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:49:24,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:49:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:49:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:49:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:49:32,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:49:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:49:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:49:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:49:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:49:36,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:49:36,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+14:49:36,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:49:36,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:49:36,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:49:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:49:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:40,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:49:40,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:49:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:49:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:44,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-85
+14:49:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:49:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:49:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:49:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:49:48,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:49:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:49:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:49:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:49:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:49:52,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:49:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:49:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:49:56,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+14:49:56,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:49:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:49:56,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:50:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:50:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:50:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:50:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:50:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:50:04,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:50:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:50:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:50:04,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:50:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:05,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:50:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:50:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:50:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:50:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:50:10,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:50:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:50:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:50:10,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:50:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:14,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+14:50:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-90
+14:50:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:50:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:50:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:50:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:50:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:50:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:50:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:50:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:22,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:50:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:50:22,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-92
+14:50:28,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:50:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:28,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:50:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:50:28,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:50:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:50:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:32,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:50:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:50:32,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:50:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:50:36,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:50:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:36,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:50:36,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:50:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:40,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:50:40,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:50:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:50:44,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:50:44,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:50:44,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:50:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:50:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:48,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:50:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:50:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:50:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:52,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:50:52,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+14:50:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:50:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:50:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:50:56,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:50:56,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:50:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:51:00,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:51:00,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:51:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:00,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+14:51:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:51:04,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:51:04,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:51:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:51:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:51:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-63
+14:51:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:51:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:51:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:51:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:51:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:51:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:51:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:51:15,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+14:51:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:51:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:51:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:51:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:51:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:51:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:51:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:51:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:51:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:51:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:23,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:51:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:51:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:51:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:51:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:51:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:51:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:51:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:51:31,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:51:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:51:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:51:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:51:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:51:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:51:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:51:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:51:43,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:51:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:51:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:51:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:51:47,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:51:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:51:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:51:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:51:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:51:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:51:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:51:55,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+14:51:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:51:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:51:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:51:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:51:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:51:59,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:52:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:52:03,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+14:52:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:52:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:52:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:52:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:52:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:52:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+14:52:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:52:07,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-87
+14:52:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:52:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:52:11,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:52:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:52:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:52:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:52:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:52:15,iPhone de Flo,b'6I\x16cd\xe1',3,6,-95
+14:52:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:52:19,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:52:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:52:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:52:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:52:23,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:52:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:52:23,iPhone de Flo,b'6I\x16cd\xe1',3,6,-87
+14:52:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:52:27,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:52:27,iPhone de Flo,b'6I\x16cd\xe1',3,6,-89
+14:52:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:52:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:52:31,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:52:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:52:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:52:31,iPhone de Flo,b'6I\x16cd\xe1',3,6,-90
+14:52:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:52:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:52:35,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+14:52:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:52:35,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:52:35,iPhone de Flo,b'6I\x16cd\xe1',3,6,-91
+14:52:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:52:39,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:52:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:52:39,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-87
+14:52:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:39,iPhone de Flo,b'6I\x16cd\xe1',3,6,-91
+14:52:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:52:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:43,iPhone de Flo,b'6I\x16cd\xe1',3,6,-88
+14:52:43,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:52:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:52:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:47,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-85
+14:52:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:47,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-97
+14:52:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:52:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:52:51,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:52:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:52:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:52:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:52:51,iPhone de Flo,b'6I\x16cd\xe1',3,6,-94
+14:52:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:52:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:55,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:52:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:52:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:52:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:52:55,iPhone de Flo,b'6I\x16cd\xe1',3,6,-94
+14:52:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:52:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:52:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:52:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:52:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:52:59,iPhone de Flo,b'6I\x16cd\xe1',3,6,-91
+14:52:59,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:53:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:53:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:53:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:53:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:53:03,iPhone de Flo,b'6I\x16cd\xe1',3,6,-93
+14:53:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:53:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:53:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:53:07,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:53:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:53:07,iPhone de Flo,b'6I\x16cd\xe1',3,6,-92
+14:53:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:53:11,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:53:11,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:53:11,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:53:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:53:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:53:11,iPhone de Flo,b'6I\x16cd\xe1',3,6,-94
+14:53:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:53:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:53:15,iPhone de Flo,b'6I\x16cd\xe1',3,6,-91
+14:53:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:53:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:19,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:53:19,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:53:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:53:19,iPhone de Flo,b'6I\x16cd\xe1',3,6,-91
+14:53:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:53:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:53:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:53:23,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:53:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:53:23,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:53:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:53:23,iPhone de Flo,b'6I\x16cd\xe1',3,6,-93
+14:53:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:27,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:53:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:53:27,iPhone de Flo,b'6I\x16cd\xe1',3,6,-93
+14:53:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:53:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:53:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:53:31,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:53:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:53:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:53:31,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:53:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:53:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:53:35,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:53:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:53:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:53:35,iPhone de Flo,b'6I\x16cd\xe1',3,6,-93
+14:53:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:53:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:53:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:53:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:53:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:53:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:53:43,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:53:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:53:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:53:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:53:47,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:53:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:53:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:53:47,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:53:47,iPhone de Flo,b'6I\x16cd\xe1',3,6,-93
+14:53:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:53:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:51,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:53:51,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:53:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:53:51,iPhone de Flo,b'6I\x16cd\xe1',3,6,-96
+14:53:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-97
+14:53:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:53:55,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:53:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:53:55,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:53:55,iPhone de Flo,b'6I\x16cd\xe1',3,6,-92
+14:53:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:53:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:53:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:53:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:53:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:53:59,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:53:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:54:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:54:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:54:03,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:54:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:54:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:54:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:54:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:54:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:54:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-98
+14:54:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:54:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:54:11,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+14:54:11,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:54:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:54:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:54:15,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+14:54:15,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:54:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:54:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:54:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+14:54:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:54:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:54:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:54:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:54:18,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:54:18,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:54:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:54:23,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:54:23,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+14:54:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:54:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:54:23,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:54:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:54:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:54:26,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:54:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:54:31,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:54:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:54:31,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:54:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:54:31,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:54:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:54:35,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:54:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:54:35,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:54:35,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:54:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:54:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:54:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:54:39,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:54:39,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+14:54:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:54:39,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:54:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:54:43,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-65
+14:54:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:54:43,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+14:54:43,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:54:43,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:54:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:54:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:54:47,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:54:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:54:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:54:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:54:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:54:51,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:54:51,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:54:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:54:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:54:55,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:54:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:54:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:54:55,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:54:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:54:55,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:54:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:54:59,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:54:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:54:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:54:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:54:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:55:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:55:03,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:55:03,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:55:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:55:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:55:07,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:55:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:55:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:55:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-97
+14:55:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:55:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:55:11,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-90
+14:55:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:55:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-68
+14:55:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:55:14,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:55:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:55:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:55:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:55:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:55:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:55:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:55:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:55:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:55:22,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:55:22,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:55:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:55:22,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+14:55:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:55:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:55:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:55:26,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+14:55:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:55:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-67
+14:55:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:55:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:55:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:55:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:55:34,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+14:55:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:55:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:55:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:55:38,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+14:55:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-71
+14:55:38,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:55:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:55:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:55:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:55:42,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:55:42,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:55:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:55:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:55:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-92
+14:55:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:55:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:55:50,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+14:55:50,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-88
+14:55:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:55:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:55:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:55:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:55:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:55:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:55:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:55:58,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+14:55:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:56:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:56:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:56:02,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:56:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:56:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:56:06,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:56:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:56:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:56:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:56:10,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+14:56:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:56:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:56:14,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:56:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-72
+14:56:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+14:56:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:56:14,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:56:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:18,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:56:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+14:56:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:56:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:56:22,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+14:56:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-66
+14:56:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:56:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:26,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-63
+14:56:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:56:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:56:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:56:26,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+14:56:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:56:30,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-63
+14:56:30,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+14:56:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:56:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:56:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:34,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-62
+14:56:34,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+14:56:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:56:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:38,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-59
+14:56:38,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+14:56:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:56:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:56:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:56:42,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-61
+14:56:42,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+14:56:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:46,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:56:46,iPhone de Melanie,b'\x1a\x07\xe3\xcd\xd0\xe8',3,6,-61
+14:56:46,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+14:56:46,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:56:46,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:56:50,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-54
+14:56:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:50,iPhone de Melanie,b'\x1a\x07\xe3\xcd\xd0\xe8',3,6,-62
+14:56:50,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:56:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:56:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:56:50,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:56:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:56:54,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-60
+14:56:54,iPhone de Melanie,b'\x1a\x07\xe3\xcd\xd0\xe8',3,6,-62
+14:56:54,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:56:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:56:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:56:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:56:58,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:56:58,iPhone de Melanie,b'\x1a\x07\xe3\xcd\xd0\xe8',3,6,-64
+14:56:58,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+14:56:58,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:56:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:57:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:57:02,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-57
+14:57:02,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:57:02,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:57:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:57:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+14:57:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:57:06,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:57:06,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:57:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:57:10,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-55
+14:57:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:57:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:57:14,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-56
+14:57:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+14:57:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:57:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+14:57:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:57:18,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+14:57:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:57:22,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-64
+14:57:22,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:57:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:57:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:57:26,Bosnie Herzegovine,b':\n\x16<4\xd0',3,11,-58
+14:57:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:57:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:57:29,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+14:57:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:57:29,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:57:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:57:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:57:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:57:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:57:37,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+14:57:37,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:57:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:57:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:57:37,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:57:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+14:57:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+14:57:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:57:41,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:57:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:57:45,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+14:57:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:57:45,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:57:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:57:49,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:57:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:57:49,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:57:49,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:57:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:57:53,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-62
+14:57:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:57:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:57:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:57:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:58:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:58:01,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:58:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+14:58:01,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-96
+14:58:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:58:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:58:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:58:05,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:58:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:58:09,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+14:58:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:58:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:58:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:58:13,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:58:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+14:58:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:58:17,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+14:58:17,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:58:17,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:58:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:58:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:58:21,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:58:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:58:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:58:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:58:25,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:58:25,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:58:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:58:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:58:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+14:58:29,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:58:29,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+14:58:29,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:58:29,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:58:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:58:33,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:58:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:58:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+14:58:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:58:37,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+14:58:37,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:58:37,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+14:58:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:58:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+14:58:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:58:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:58:41,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+14:58:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:58:45,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:58:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:58:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:58:45,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-93
+14:58:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:58:49,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+14:58:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:58:49,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:58:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:58:53,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+14:58:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+14:58:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:58:53,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+14:58:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:58:57,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+14:58:57,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:58:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:58:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:58:57,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:59:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:59:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+14:59:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:59:01,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+14:59:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+14:59:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:59:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:59:05,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:59:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:59:09,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:59:09,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-83
+14:59:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:59:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:59:13,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:59:13,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:59:13,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:13,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:59:13,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:59:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:59:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:59:17,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:59:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:59:21,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-85
+14:59:21,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:59:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:59:25,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+14:59:25,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-89
+14:59:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+14:59:28,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+14:59:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:59:28,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+14:59:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+14:59:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:59:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:59:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:59:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:59:36,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+14:59:36,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+14:59:36,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:59:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:59:40,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-82
+14:59:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+14:59:40,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+14:59:40,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+14:59:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:59:44,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:59:44,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+14:59:44,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-90
+14:59:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+14:59:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+14:59:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+14:59:48,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+14:59:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+14:59:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:52,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+14:59:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+14:59:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+14:59:56,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+14:59:56,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+14:59:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:00:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:00,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-82
+15:00:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:00:00,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-96
+15:00:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:04,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+15:00:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:00:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:00:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:00:08,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:00:08,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-84
+15:00:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:00:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:00:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:00:12,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:00:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+15:00:12,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-88
+15:00:12,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:00:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:00:16,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+15:00:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+15:00:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:00:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:00:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:00:20,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+15:00:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-84
+15:00:20,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:00:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:00:24,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:00:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:00:24,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-88
+15:00:24,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+15:00:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:00:28,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+15:00:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:00:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:00:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+15:00:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:00:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:00:36,iPhone de Melanie,b'\xeaZV\x8a\xa1X',3,6,-55
+15:00:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:36,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-86
+15:00:36,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+15:00:36,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:00:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:40,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+15:00:40,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-83
+15:00:40,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:00:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:00:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:44,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-85
+15:00:44,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:00:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:48,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+15:00:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:00:48,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-87
+15:00:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:00:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:00:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:00:52,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-86
+15:00:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:00:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:00:56,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-84
+15:00:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:00:56,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:00:56,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-88
+15:01:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:01:00,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-85
+15:01:00,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:01:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:01:04,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+15:01:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:01:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:01:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:01:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:01:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:12,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:01:12,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:01:12,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:01:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:01:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:01:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:01:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+15:01:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:01:20,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:01:20,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-88
+15:01:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+15:01:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:01:24,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:01:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:24,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:01:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:01:28,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+15:01:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:01:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:01:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:35,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+15:01:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:01:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:01:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:01:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:01:47,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:01:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:01:47,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-86
+15:01:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:01:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:01:51,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+15:01:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:01:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:01:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:01:55,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+15:01:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:01:55,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+15:01:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:01:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:01:59,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+15:01:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:02:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:03,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-83
+15:02:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:02:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:02:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+15:02:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:02:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+15:02:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:02:07,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+15:02:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:11,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:02:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:02:15,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+15:02:15,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+15:02:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:02:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:19,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-81
+15:02:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:02:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:23,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-82
+15:02:23,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:02:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:02:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:02:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:02:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-90
+15:02:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:02:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:02:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:35,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:02:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:02:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:39,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:02:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:02:39,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+15:02:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:43,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:02:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:02:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:02:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:02:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:02:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:02:51,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+15:02:51,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:02:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:02:51,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+15:02:51,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:02:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+15:02:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:02:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:02:55,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:02:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+15:02:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:02:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:03:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+15:03:03,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:03:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:03:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+15:03:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:03:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:03:07,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-97
+15:03:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:11,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+15:03:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:03:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:03:14,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:03:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:03:14,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:03:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:03:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:03:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:03:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:03:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:22,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:03:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:03:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:30,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+15:03:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:03:30,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+15:03:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:34,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:03:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:03:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:03:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:03:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:38,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+15:03:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:03:42,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:03:42,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:03:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:46,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-93
+15:03:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:03:50,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+15:03:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:03:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+15:03:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:03:54,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-64
+15:03:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:03:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:03:54,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:03:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:03:58,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-63
+15:03:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:04:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:04:02,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:04:02,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:04:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:04:02,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:04:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:06,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+15:04:06,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:04:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:04:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:04:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+15:04:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:14,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:04:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:04:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:04:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:04:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:04:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:04:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:04:22,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:04:22,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:04:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:04:26,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+15:04:26,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:04:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:04:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:30,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-77
+15:04:30,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:04:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:34,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:04:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:04:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:38,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:04:38,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:04:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:04:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+15:04:41,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:04:41,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:04:41,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-94
+15:04:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:04:46,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:04:46,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:04:46,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+15:04:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:04:50,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:04:50,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:04:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:04:53,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:04:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:04:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:04:57,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:04:57,iPhone de Flo,b'\xe6#\x8ccB\x0b',3,6,-89
+15:04:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:04:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:05:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:05:01,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:05:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+15:05:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:05:05,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:05:05,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+15:05:05,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:05:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:05:09,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:05:13,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:05:17,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:05:17,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:05:17,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:05:17,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:05:21,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:05:21,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:05:25,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:05:25,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-78
+15:05:25,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:05:29,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:05:33,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:05:33,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:05:33,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:05:33,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:05:37,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+15:05:37,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+15:05:37,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-96
+15:05:41,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-63
+15:05:41,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:05:45,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:05:45,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:05:45,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:05:49,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-53
+15:05:49,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+15:05:53,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:05:53,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:05:53,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:05:57,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:05:57,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+15:05:57,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:05:57,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+15:06:01,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+15:06:01,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:06:01,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:06:05,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:06:05,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:06:09,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:06:09,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+15:06:09,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:06:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:06:12,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:06:12,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:06:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:06:16,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:06:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:06:16,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:06:16,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:06:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:06:20,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:06:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+15:06:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:06:24,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+15:06:24,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:06:24,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:06:24,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:06:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:06:28,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:06:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:06:28,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:06:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:06:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:06:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:06:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:06:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:06:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:06:36,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:06:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:06:40,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+15:06:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:06:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:06:44,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:06:44,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:06:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:06:48,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+15:06:48,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:06:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:06:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+15:06:48,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:06:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:06:52,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:06:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:06:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:06:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:06:56,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:06:56,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:07:00,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:07:00,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:07:00,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:07:00,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-87
+15:07:04,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+15:07:04,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:07:04,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:07:04,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+15:07:04,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:07:04,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-95
+15:07:08,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+15:07:08,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:07:08,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-89
+15:07:08,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:07:12,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-64
+15:07:12,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:07:12,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:07:12,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:07:16,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:07:16,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:07:16,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+15:07:16,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:07:16,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-94
+15:07:20,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:07:20,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:07:20,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:07:20,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+15:07:20,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-97
+15:07:24,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:07:24,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-80
+15:07:24,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-90
+15:07:24,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-93
+15:07:28,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:07:28,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:07:28,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:07:32,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:07:32,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-76
+15:07:32,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:07:32,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:07:32,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:07:36,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:07:36,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-75
+15:07:36,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-90
+15:07:36,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:07:40,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:07:40,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:07:40,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:07:40,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-94
+15:07:44,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:07:44,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-74
+15:07:44,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:07:48,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:07:48,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:07:48,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:07:48,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+15:07:52,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:07:52,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+15:07:52,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:07:52,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:07:52,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-95
+15:07:56,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:07:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:07:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:07:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:08:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+15:08:03,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:08:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:08:03,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-95
+15:08:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:08:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+15:08:07,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:08:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:08:11,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:08:11,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:08:11,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-94
+15:08:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:08:15,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+15:08:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:08:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:08:15,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-93
+15:08:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:08:19,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:08:19,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:08:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:08:23,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-62
+15:08:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+15:08:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:08:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:08:27,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:08:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:08:31,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+15:08:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-83
+15:08:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:08:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:08:35,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:08:35,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-92
+15:08:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-61
+15:08:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:08:39,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-89
+15:08:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:08:43,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-63
+15:08:43,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-94
+15:08:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:08:47,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+15:08:47,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:08:47,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-87
+15:08:47,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:08:51,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:08:51,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:08:51,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87
+15:08:51,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-94
+15:08:55,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:08:55,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:08:55,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:08:55,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-91
+15:08:59,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+15:08:59,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-62
+15:08:59,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:08:59,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:08:59,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-91
+15:08:59,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:09:03,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:03,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:09:03,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:09:03,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-92
+15:09:07,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:09:07,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+15:09:07,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:09:07,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-92
+15:09:11,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-60
+15:09:11,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-63
+15:09:11,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-90
+15:09:11,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+15:09:15,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:15,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+15:09:15,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-86
+15:09:15,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:09:15,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:09:15,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-93
+15:09:19,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:09:19,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:09:19,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:09:19,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:09:19,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-97
+15:09:23,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-62
+15:09:23,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:09:23,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:09:27,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:27,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-84
+15:09:27,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:09:27,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-88
+15:09:27,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:09:27,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-96
+15:09:31,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:31,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-85
+15:09:31,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-88
+15:09:31,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-88
+15:09:35,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:35,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+15:09:35,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-87
+15:09:35,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:09:35,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-93
+15:09:39,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:39,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:09:39,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:09:39,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-92
+15:09:43,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:43,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:09:43,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:09:47,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-59
+15:09:47,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:09:47,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-92
+15:09:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:09:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:09:50,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-96
+15:09:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:09:54,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+15:09:54,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-89
+15:09:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-89
+15:09:54,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-91
+15:09:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+15:09:58,Mauri,b'\xecV#\x0f\x00\x9b',3,11,-91
+15:09:58,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:09:58,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-96
+15:10:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+15:10:02,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:10:02,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:10:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:10:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:10:06,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:10:06,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+15:10:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:10:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:10:10,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:10:10,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+15:10:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-91
+15:10:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:10:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:10:18,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:10:18,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-67
+15:10:18,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:10:18,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-93
+15:10:22,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:10:22,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-66
+15:10:22,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:10:22,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:10:26,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:10:26,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:10:26,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-94
+15:10:30,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-58
+15:10:30,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:10:30,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:10:34,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:10:34,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-86
+15:10:34,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-92
+15:10:34,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:10:38,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:10:38,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+15:10:38,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-95
+15:10:42,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:10:42,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-79
+15:10:42,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-87
+15:10:42,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-87
+15:10:46,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+15:10:46,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-72
+15:10:46,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:10:46,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-93
+15:10:50,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-55
+15:10:50,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-73
+15:10:50,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-91
+15:10:54,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-53
+15:10:54,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:10:54,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:10:58,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:10:58,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-68
+15:10:58,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-93
+15:10:58,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-94
+15:11:02,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-56
+15:11:02,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-69
+15:11:02,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-92
+15:11:06,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-57
+15:11:06,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-71
+15:11:06,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-90
+15:11:06,Nokia 5,b'l\xc4\xd5y\\\x16',3,1,-91
+15:11:06,iPhone de Flo,b'\xae\x19&\x83\x7f\x85',3,6,-91
+15:11:06,Wireless 2.4G,b'D\xd1\xfai\x11l',1,7,-94
+15:11:10,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-51
+15:11:10,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-65
+15:11:10,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-86
+15:11:14,_SNCF_WIFI_INOUI,b'\x04\xf0!dF\x8d',0,6,-54
+15:11:14,Alll,b'\xf2\xcb\x90\xd5\xb1\x8c',3,1,-70
+15:11:14,_SNCF_WIFI_INOUI,b'\x04\xf0!V-\x1c',0,1,-85
+15:11:14,_SNCF_WIFI_INOUI,b'\x04\xf0!!\xf4\xc1',0,11,-87

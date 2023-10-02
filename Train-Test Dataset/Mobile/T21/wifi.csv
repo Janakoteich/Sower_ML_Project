@@ -1,0 +1,2052 @@
+Time,ssid,bssid,sec,channel,rssi
+14:18:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:18:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:18:05,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:18:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:18:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:18:09,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-87
+14:18:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:18:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:18:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:18:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:18:17,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:18:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:18:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:18:21,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:18:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:18:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:18:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:18:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:18:28,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:18:28,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:18:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:18:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:18:32,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-94
+14:18:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:18:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:18:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:18:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:18:40,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-92
+14:18:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:18:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:18:44,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-97
+14:18:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:18:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:18:48,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-92
+14:18:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:18:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:18:52,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:18:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:18:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:18:56,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:19:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:19:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:19:00,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-91
+14:19:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:19:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:19:04,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:19:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:19:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:19:08,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:19:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:19:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:19:12,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-93
+14:19:12,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-95
+14:19:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:19:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:19:16,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:19:16,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-95
+14:19:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:19:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:19:20,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:19:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:19:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:19:24,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:19:24,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-93
+14:19:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:19:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:19:28,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-94
+14:19:28,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-96
+14:19:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:19:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:19:32,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-95
+14:19:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:19:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:19:36,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:19:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:19:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+14:19:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:19:43,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:19:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:19:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:19:47,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-94
+14:19:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+14:19:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:19:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:19:55,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:19:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:19:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+14:19:59,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:19:59,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-93
+14:20:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:20:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:20:03,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-87
+14:20:03,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-94
+14:20:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:20:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:20:07,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-93
+14:20:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:20:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:20:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:20:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:20:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:20:15,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-90
+14:20:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:20:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:20:19,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-92
+14:20:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:20:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:20:23,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:20:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:20:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:20:27,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-94
+14:20:27,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:20:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:20:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:20:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:20:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:20:35,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:20:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+14:20:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:20:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:20:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:20:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:20:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:20:47,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:20:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:20:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:20:51,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:20:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:20:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:20:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:20:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:20:58,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:20:58,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-92
+14:21:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:21:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:21:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:21:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:21:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:21:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:21:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:21:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:21:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:21:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:21:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:21:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:21:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:21:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:21:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:21:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:21:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:21:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:21:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:21:34,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:21:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:21:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:21:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:21:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:21:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:21:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:21:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:21:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:21:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:21:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:21:54,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-96
+14:21:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:21:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:21:58,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:22:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:22:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:22:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:22:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:22:05,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:22:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:22:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:22:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:22:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:22:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:22:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:22:17,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:22:17,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-95
+14:22:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:22:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:22:21,AndroidAPEFCA,b'\xb61\xae\xb1\x8b\xee',3,6,-91
+14:22:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:22:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:22:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:22:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:22:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:22:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:22:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:22:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:22:37,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:22:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:22:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:22:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:22:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:22:45,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:22:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:22:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:22:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:22:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:22:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:22:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:22:57,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:23:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:23:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:23:01,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:23:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:23:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:23:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:23:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:23:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:23:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:23:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:23:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:23:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:23:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:23:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:23:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:23:24,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:23:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:23:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:23:28,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:23:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:23:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:23:32,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:23:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:23:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:23:36,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-93
+14:23:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:23:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:23:40,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:23:40,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-98
+14:23:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:23:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:23:44,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:23:44,iPhone de Camille,b'\x06\x011\t\xe4\xf2',3,6,-94
+14:23:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:23:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:23:48,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:23:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:23:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:23:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:23:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:23:56,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:24:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:24:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:24:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:24:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:24:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:24:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:24:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:24:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:24:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:24:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:24:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:24:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:24:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:24:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:24:23,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-96
+14:24:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:24:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:24:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:24:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:24:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:24:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:24:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:24:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:24:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:24:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:24:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:24:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:24:47,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:24:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:24:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:24:51,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:24:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:24:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:24:55,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:24:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:24:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:24:59,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-92
+14:25:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:25:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:25:03,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:25:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:25:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:25:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:25:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:25:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:25:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:25:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:25:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:25:19,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-84
+14:25:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:25:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:25:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:25:23,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-86
+14:25:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:25:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:25:26,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-90
+14:25:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:25:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:25:30,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-89
+14:25:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:25:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:25:34,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-88
+14:25:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:25:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:25:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:25:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:25:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:25:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:25:46,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:25:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:25:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:25:50,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-89
+14:25:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:25:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:25:54,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-92
+14:25:54,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:25:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:25:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:25:58,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-90
+14:26:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:26:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:26:02,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-93
+14:26:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:26:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:26:06,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-85
+14:26:06,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:26:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-49
+14:26:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:26:10,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-91
+14:26:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:26:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:26:14,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-90
+14:26:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+14:26:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:26:18,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-92
+14:26:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:26:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:26:22,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-91
+14:26:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:26:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:26:26,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:26:26,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-95
+14:26:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:26:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+14:26:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:26:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:26:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:26:34,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:26:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:26:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:26:38,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:26:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:26:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:26:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:26:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:26:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:26:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:26:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:26:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:26:53,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:26:53,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-90
+14:26:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:26:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:26:57,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-94
+14:27:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:27:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:27:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:27:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:27:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:27:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:27:09,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-94
+14:27:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:27:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:27:13,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-90
+14:27:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:27:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:27:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:27:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:27:21,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:27:21,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-95
+14:27:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:27:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:27:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:27:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:27:29,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:27:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:27:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:27:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:27:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:27:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:27:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:27:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:27:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:27:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:27:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:27:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:27:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:27:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:27:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:27:56,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-92
+14:28:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:28:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:28:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:28:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:28:04,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:28:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:28:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:28:08,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:28:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:28:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:28:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:28:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:28:16,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:28:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:28:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:28:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:28:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:28:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:28:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:28:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:28:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:28:32,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-93
+14:28:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:28:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:28:36,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-96
+14:28:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:28:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:28:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:28:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:28:44,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:28:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:28:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:28:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:28:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:28:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:28:55,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-95
+14:28:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:28:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:28:59,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:29:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:29:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:29:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:29:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:29:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:29:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:29:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:29:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:29:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:29:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:29:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:29:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:29:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:29:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:29:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:29:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:29:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:29:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+14:29:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:29:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:29:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:29:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:29:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:29:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:29:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:29:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:29:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:29:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:29:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:29:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:30:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:30:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:30:02,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-93
+14:30:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:30:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+14:30:06,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:30:06,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:30:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:30:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:30:10,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:30:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:30:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:30:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:30:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:30:18,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:30:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:30:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:30:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:30:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:30:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:30:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:30:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-94
+14:30:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:30:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+14:30:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:30:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:30:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:30:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:30:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:30:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:30:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:30:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+14:30:50,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:30:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:30:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:30:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:30:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:30:58,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+14:31:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:31:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+14:31:01,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-96
+14:31:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:31:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-90
+14:31:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:31:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:31:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:31:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:31:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:31:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:31:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:31:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:31:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:31:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:31:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:31:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:31:29,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:31:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:31:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:31:33,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:31:33,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-93
+14:31:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:31:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:31:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:31:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:31:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:31:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:31:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:31:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:31:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:31:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:31:53,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:31:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:31:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:31:57,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-84
+14:32:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:32:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:32:01,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:32:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:32:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:32:05,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:32:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:32:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:32:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:32:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:32:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:32:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:32:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:32:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:32:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:32:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:32:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:32:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:32:28,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:32:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:32:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:32:32,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:32:32,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:32:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:32:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:32:36,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:32:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:32:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:32:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:32:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:32:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:32:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-91
+14:32:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:32:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:32:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:32:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:32:56,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:32:56,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:33:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:33:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:33:00,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:33:00,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+14:33:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:33:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:33:04,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:33:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:33:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:33:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:33:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:33:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:33:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:33:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:33:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:33:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:33:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:33:23,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:33:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:33:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:33:27,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+14:33:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:33:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:33:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:33:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-90
+14:33:35,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:33:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:33:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:33:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:33:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:33:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:33:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:33:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:33:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:33:51,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-93
+14:33:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:33:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:33:55,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-97
+14:33:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:33:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+14:34:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:34:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:34:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:34:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:34:07,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:34:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:34:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:34:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:34:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:34:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:34:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:34:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:34:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:34:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:34:22,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:34:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:34:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:34:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:34:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:34:30,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:34:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:34:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:34:34,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:34:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:34:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:34:38,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:34:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:34:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:34:42,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:34:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:34:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:34:46,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:34:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:34:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:34:50,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:34:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:34:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:34:54,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:34:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:34:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:35:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:35:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:35:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:35:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:35:06,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:35:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:35:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:35:10,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:35:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:35:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:35:14,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:35:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:35:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:35:18,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:35:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:35:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:35:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:35:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:35:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:35:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+14:35:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:35:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:35:33,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:35:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:35:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:35:37,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:35:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:35:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:35:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:35:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:35:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:35:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:35:49,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:35:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:35:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:35:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:35:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:35:57,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:36:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:36:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:36:01,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:36:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:36:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:36:05,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-91
+14:36:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:36:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:36:09,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-94
+14:36:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:36:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:36:13,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:36:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:36:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:36:17,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:36:17,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:36:17,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-93
+14:36:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:36:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:36:21,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:36:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+14:36:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:36:25,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:36:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:36:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:36:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:36:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:36:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:36:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:36:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:36:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:36:40,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:36:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:36:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:36:44,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:36:44,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,6,-94
+14:36:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:36:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:36:48,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:36:48,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:36:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:36:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:36:52,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-95
+14:36:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:36:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:36:56,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:36:56,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:36:56,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-96
+14:37:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:37:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:37:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:37:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:37:04,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:37:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:37:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:37:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:37:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:37:12,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:37:12,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:37:12,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-95
+14:37:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:37:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:37:16,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:37:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:37:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:37:20,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-93
+14:37:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:37:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:37:24,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-94
+14:37:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:37:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:37:28,Le Z,b'\x12M\x13\x87\x00\x0c',3,6,-92
+14:37:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:37:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:37:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:37:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:37:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:37:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:37:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:37:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:37:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:37:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:37:48,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:37:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:37:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:37:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:37:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:37:55,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:37:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:37:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:38:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:38:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:38:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:38:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:38:07,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:38:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:38:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:38:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:38:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:38:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:38:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:38:19,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:38:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:38:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:38:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:38:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:38:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:38:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:38:31,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-99
+14:38:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:38:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:38:35,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:38:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:38:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:38:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:38:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:38:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:38:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:38:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:38:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:38:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:38:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:38:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:38:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:39:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:39:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:39:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:39:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:39:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:39:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:39:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:39:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:39:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:39:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:39:18,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:39:18,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-97
+14:39:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:39:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:39:22,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-93
+14:39:22,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-98
+14:39:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:39:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:39:26,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:39:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:39:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:39:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:39:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:39:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:39:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:39:38,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:39:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:39:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:39:42,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-86
+14:39:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:39:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:39:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:39:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:39:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:39:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:39:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:39:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:39:58,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:40:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+14:40:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:40:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:40:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:40:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:40:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:40:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:40:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:40:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:40:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:40:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:40:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:40:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:40:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:40:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:40:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:40:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:40:33,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:40:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:40:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:40:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:40:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:40:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:40:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:40:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:40:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:40:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:40:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:40:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:40:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:41:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+14:41:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:41:01,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:41:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:41:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:41:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:41:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:41:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:41:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:41:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:41:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:41:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:41:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:41:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:41:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:41:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:41:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:41:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:41:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:41:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:41:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:41:36,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:41:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:41:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:41:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:41:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:41:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:41:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:41:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:41:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:41:52,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:41:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-61
+14:41:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:41:56,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:42:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-70
+14:42:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:42:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-69
+14:42:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:42:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-65
+14:42:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:42:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-55
+14:42:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:42:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:42:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-53
+14:42:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:42:15,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:42:15,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:42:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:42:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:42:19,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:42:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:42:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:42:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:42:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:42:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:42:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:42:31,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:42:31,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:42:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:42:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:42:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:42:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:42:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:42:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:42:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:42:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:42:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:42:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:42:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:42:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:42:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:42:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:43:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:43:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:43:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:43:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:43:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:43:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:43:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:43:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:43:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:43:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:43:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:43:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:43:22,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:43:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-51
+14:43:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:43:26,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-91
+14:43:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:43:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:43:30,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-85
+14:43:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:43:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:43:34,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-75
+14:43:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:43:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:43:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:43:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:43:42,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-77
+14:43:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:43:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:43:46,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-56
+14:43:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:43:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:43:50,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-69
+14:43:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:43:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:43:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:43:54,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-85
+14:43:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:43:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:43:58,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-87
+14:44:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:44:02,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-80
+14:44:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:44:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:44:06,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-81
+14:44:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:44:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+14:44:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:44:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:44:14,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-57
+14:44:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:44:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:44:18,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-67
+14:44:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:44:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:44:22,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-78
+14:44:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:44:22,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:44:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:44:25,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-80
+14:44:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:44:25,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:44:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-61
+14:44:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:44:29,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-90
+14:44:29,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+14:44:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:44:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:44:33,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-94
+14:44:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:44:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:44:37,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-90
+14:44:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:44:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:44:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:44:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:44:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:44:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:44:49,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-94
+14:44:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:44:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:44:53,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:44:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:44:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:45:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:45:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:45:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:45:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:45:05,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:45:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+14:45:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:45:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:45:13,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:45:13,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:45:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:45:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:45:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:45:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:45:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:45:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+14:45:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:45:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:45:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:45:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:45:40,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:45:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:45:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:45:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:45:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:45:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:45:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:45:56,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:46:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:46:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:46:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:46:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:46:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:46:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:46:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:46:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:46:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:46:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:46:16,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:46:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:46:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:46:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:46:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:46:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:46:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:46:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:46:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:46:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:46:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:46:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:46:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:46:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:46:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:46:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:46:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:46:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:46:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:46:51,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:46:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:46:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:46:55,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:46:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:46:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:46:59,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:47:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:47:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:47:03,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:47:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:47:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:47:07,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:47:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:47:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:47:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:47:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+14:47:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:47:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:47:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:47:19,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:47:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:47:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:47:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:47:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:47:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:47:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:47:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:47:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:47:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:47:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:47:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:47:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:47:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:47:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:47:46,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:47:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:47:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:47:50,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:47:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:47:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:47:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:47:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:47:58,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:48:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:48:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:48:02,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:48:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:48:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:48:06,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:48:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:48:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:48:10,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:48:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:48:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:48:14,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:48:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:48:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:48:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:48:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:48:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:48:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:48:25,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:48:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:48:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:48:29,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:48:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:48:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:48:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:48:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:48:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:48:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:48:41,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:48:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:48:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:48:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:48:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:48:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:48:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:48:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:48:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:49:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:49:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:49:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:49:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:49:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:49:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:49:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:49:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:49:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:49:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:49:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:49:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:49:21,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:49:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:49:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:49:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:49:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:49:29,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:49:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:49:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:49:33,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:49:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:49:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:49:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:49:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:49:41,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:49:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:49:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:49:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:49:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:49:49,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:49:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:49:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:49:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:49:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:50:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:50:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:50:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:50:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:50:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:50:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:16,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:50:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:20,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:50:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:50:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:50:24,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:50:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:50:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:50:28,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+14:50:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:50:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:50:32,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:50:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:50:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:50:36,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:50:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:50:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:50:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:50:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:50:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:50:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:50:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:50:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:50:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:50:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:50:55,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:50:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:50:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:51:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+14:51:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:51:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:51:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:51:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:51:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:51:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:51:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:51:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:51:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:51:19,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:51:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:51:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:51:23,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:51:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:51:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:51:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:51:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:51:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:51:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:51:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-49
+14:51:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:51:39,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:51:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:51:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:51:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:51:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:51:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-51
+14:51:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:51:51,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:51:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:51:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:51:55,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:51:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:51:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:52:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:52:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:52:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-53
+14:52:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:52:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-52
+14:52:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:52:10,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:52:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-57
+14:52:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:52:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:52:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:52:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-56
+14:52:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:52:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:52:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:52:26,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:52:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:52:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:52:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-51
+14:52:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:52:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:52:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:52:38,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:52:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-57
+14:52:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:52:42,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+14:52:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:52:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:52:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:52:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:52:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:52:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:52:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:52:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:53:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:53:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:53:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:53:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:53:06,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:53:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:53:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:53:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:53:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+14:53:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:53:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:53:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-61
+14:53:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:53:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:53:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:53:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:53:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:53:29,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+14:53:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:53:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:53:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:53:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:53:37,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:53:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:53:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:53:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:53:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:53:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:53:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:53:49,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:53:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-49
+14:53:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:53:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-52
+14:53:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:53:57,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:54:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:54:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:54:00,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-93
+14:54:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:54:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:54:04,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:54:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:54:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:54:08,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-88
+14:54:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:54:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:54:11,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+14:54:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-52
+14:54:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:54:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:54:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:54:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:54:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:54:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:54:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:54:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:54:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:54:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:54:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:54:36,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:54:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:54:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:54:40,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:54:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:54:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:54:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:54:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:54:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:54:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:54:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-52
+14:54:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:55:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:55:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:55:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+14:55:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:55:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:55:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:55:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:55:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:55:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:55:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:55:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:55:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:55:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-51
+14:55:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:55:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-53
+14:55:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:55:27,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:55:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-51
+14:55:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:55:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-52
+14:55:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:55:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-49
+14:55:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:55:39,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:55:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+14:55:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+14:55:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:55:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:55:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:55:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+14:55:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:55:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:55:55,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:55:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:55:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:56:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:56:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:56:03,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:56:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:56:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:56:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:56:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:56:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:56:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:56:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:56:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:56:19,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:56:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:56:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:56:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:56:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:56:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:56:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:56:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:56:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:56:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:56:34,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:56:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:56:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:56:38,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:56:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:56:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:56:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:56:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:56:46,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:56:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:56:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:56:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:56:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:56:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+14:56:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:56:58,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-86
+14:57:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:57:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:57:02,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:57:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+14:57:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:57:06,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-91
+14:57:06,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:57:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:57:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:57:10,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:57:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:57:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:57:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:57:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:57:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:57:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:57:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:57:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+14:57:26,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:57:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:57:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:57:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:57:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:57:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:57:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:57:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:57:38,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-86
+14:57:38,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:57:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:57:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:57:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:57:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:57:45,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:57:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:57:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:57:49,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:57:49,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+14:57:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:57:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:57:53,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:57:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:57:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:57:57,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:58:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:58:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:58:01,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:58:01,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+14:58:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:58:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+14:58:05,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:58:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:58:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:58:09,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:58:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:58:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+14:58:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:58:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:58:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:58:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:58:21,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+14:58:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+14:58:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:58:25,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:58:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+14:58:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:58:29,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+14:58:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:58:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:58:33,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-87
+14:58:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+14:58:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:58:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:58:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:58:41,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:58:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+14:58:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:58:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:58:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:58:49,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:58:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+14:58:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:58:52,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+14:58:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:58:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:58:56,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+14:59:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+14:59:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:59:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:59:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:59:08,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:59:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:59:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:59:12,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:59:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:59:16,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+14:59:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:59:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:59:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:59:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+14:59:28,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:59:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:59:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:59:32,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:59:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+14:59:36,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:59:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+14:59:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+14:59:40,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+14:59:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+14:59:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:59:44,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+14:59:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+14:59:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+14:59:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-52
+14:59:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+14:59:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+14:59:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:00:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:00:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:00:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:00:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:00:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:00:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:00:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:00:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:00:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:00:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:00:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+15:00:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:00:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:00:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:00:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:00:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:00:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:00:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:00:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:00:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:00:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:00:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:00:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:00:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:00:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:00:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:00:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:00:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:00:51,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+15:00:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:00:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:00:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:00:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:00:59,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:01:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:01:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:01:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:01:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:01:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:01:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:01:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:01:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:01:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:01:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:01:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:01:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:01:22,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:01:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+15:01:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:01:26,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+15:01:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:01:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+15:01:30,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:01:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:01:34,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:01:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:01:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:01:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:01:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:01:42,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+15:01:42,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:01:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:01:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:01:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:01:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:01:50,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-94
+15:01:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:01:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:01:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:01:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:02:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:02:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:02:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:02:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:02:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:02:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:02:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:02:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:02:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:02:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:02:17,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:02:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:02:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:02:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:02:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:02:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:02:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:02:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:02:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:02:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:02:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:02:37,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:02:37,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-90
+15:02:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:02:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:02:41,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-84
+15:02:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:02:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+15:02:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:02:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:02:49,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:02:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:02:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:02:53,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:02:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:02:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:02:57,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+15:03:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:03:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:03:01,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:03:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:03:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:03:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:03:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:03:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:03:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:03:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:03:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:03:17,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,11,-97
+15:03:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:03:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:03:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:03:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:03:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:03:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:03:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-79
+15:03:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:03:32,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+15:03:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:03:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:03:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:03:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:03:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:03:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:03:48,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:03:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:03:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:03:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:03:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:03:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:04:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:04:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:04:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:04:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:04:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:04:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:04:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:04:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:04:12,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:04:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:04:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:04:16,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:04:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:04:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:04:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:04:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+15:04:23,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+15:04:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:04:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:04:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:04:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+15:04:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:04:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:04:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:04:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:04:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:04:43,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:04:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-40
+15:04:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:04:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:04:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:04:51,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+15:04:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:04:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:04:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:04:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:05:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:05:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:05:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:05:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:05:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:05:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:05:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:05:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:05:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:05:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:05:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:05:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:05:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:05:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:05:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:05:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:05:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:05:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:05:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:05:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:05:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:05:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:05:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+15:05:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:05:46,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:05:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:05:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:05:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:05:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:05:54,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:05:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:06:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:06:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:06:02,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:06:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:06:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:06:06,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+15:06:06,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+15:06:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:06:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:06:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:06:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:06:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:06:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:06:18,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:06:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:06:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:06:22,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:06:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:06:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:06:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:06:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:06:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:06:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:06:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+15:06:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:06:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:06:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:06:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:06:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:06:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:06:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:06:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:06:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:06:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:06:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:06:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:07:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:07:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:07:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:07:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+15:07:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:07:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+15:07:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:07:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:07:17,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:07:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:07:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:07:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:07:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-84
+15:07:29,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-91
+15:07:29,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+15:07:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:07:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:07:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:07:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:07:36,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-92
+15:07:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:07:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-81
+15:07:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:07:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:48,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:07:52,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+15:07:52,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:52,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:07:56,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:07:56,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-85
+15:07:56,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:07:56,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-98
+15:08:00,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:00,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+15:08:04,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:08:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:08,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:08:08,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:08:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-89
+15:08:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:08:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+15:08:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:08:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-87
+15:08:20,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:08:20,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-95
+15:08:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+15:08:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-86
+15:08:24,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:08:24,JavaMiFi_8008108,b'|\xba\xcc\x02\xf8j',3,1,-92
+15:08:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:08:28,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+15:08:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:08:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:08:32,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-88
+15:08:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:08:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:08:36,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:08:40,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:08:40,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-83
+15:08:44,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:08:44,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:08:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-30
+15:08:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:08:47,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:08:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-42
+15:08:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-82
+15:08:55,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:08:55,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:08:59,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:08:59,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:08:59,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-90
+15:09:03,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:09:03,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:09:03,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-94
+15:09:07,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:09:07,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:09:11,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:09:11,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:09:11,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:09:15,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:09:15,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:09:19,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:09:19,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:09:23,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-51
+15:09:23,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:09:23,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-93
+15:09:27,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+15:09:27,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:09:27,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-89
+15:09:31,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+15:09:31,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:09:31,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-87
+15:09:35,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-47
+15:09:35,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:09:39,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-48
+15:09:39,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:09:43,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:09:43,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-74
+15:09:47,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+15:09:47,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-74
+15:09:51,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:09:51,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:09:51,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+15:09:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:09:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-74
+15:09:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+15:09:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-74
+15:10:02,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:10:02,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:10:06,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+15:10:06,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:10:10,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-31
+15:10:10,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-74
+15:10:10,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+15:10:14,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-30
+15:10:14,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:10:14,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:10:18,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+15:10:18,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:10:22,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:10:22,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:10:26,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:10:26,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:10:26,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+15:10:30,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:10:30,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-75
+15:10:30,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-91
+15:10:34,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:10:34,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:10:34,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-95
+15:10:38,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-39
+15:10:38,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:10:42,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:10:42,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:10:42,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+15:10:46,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+15:10:46,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-80
+15:10:50,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-41
+15:10:50,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:10:54,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-37
+15:10:54,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:10:54,Redmi Note 11,b'\xea\x88\xaa\x0c2\xcd',3,1,-89
+15:10:58,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:10:58,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:11:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+15:11:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-75
+15:11:05,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:11:05,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:11:09,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+15:11:09,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:11:13,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+15:11:13,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:11:17,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+15:11:17,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:11:17,_SNCF_WIFI_INOUI,b'\x04\xf0!\x9ei\xe4',0,1,-92
+15:11:21,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-35
+15:11:21,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:11:25,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-30
+15:11:25,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-88
+15:11:29,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+15:11:29,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:11:29,Wireless 2.4G,b'D\xd1\xfai\x11l',1,7,-95
+15:11:33,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-36
+15:11:33,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:11:37,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+15:11:37,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:11:41,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:11:41,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:11:45,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-34
+15:11:45,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:11:49,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-33
+15:11:49,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-74
+15:11:53,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+15:11:53,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-76
+15:11:57,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-30
+15:11:57,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:12:01,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-32
+15:12:01,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:12:04,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:12:08,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+15:12:08,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:12:12,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-50
+15:12:12,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:12:16,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-45
+15:12:16,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:12:20,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:12:20,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:12:24,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-43
+15:12:24,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-77
+15:12:28,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-46
+15:12:28,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78
+15:12:32,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-38
+15:12:32,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-79
+15:12:36,Jana :p,b'~!\x97\xc8\x84\xfc',3,6,-44
+15:12:36,_SNCF_WIFI_INOUI,b'\x04\xf0!19\xe4',0,6,-78

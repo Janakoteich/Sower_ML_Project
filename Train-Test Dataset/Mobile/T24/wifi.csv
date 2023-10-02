@@ -1,0 +1,2658 @@
+Time,ssid,bssid,sec,channel,rssi
+21:45:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-47
+21:45:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:45:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+21:45:47,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-88
+21:45:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+21:45:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-56
+21:45:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+21:45:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:45:51,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:45:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:45:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:45:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:45:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:45:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:45:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:45:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:45:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:46:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:46:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:46:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:46:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:46:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:46:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:46:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:46:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:46:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:46:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+21:46:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:46:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:46:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:46:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:46:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:46:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:46:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:46:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:46:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:46:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:46:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:46:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:46:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:46:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:46:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+21:46:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:46:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+21:46:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:46:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:46:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+21:46:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:46:31,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-95
+21:46:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:46:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:46:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:46:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:46:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:46:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:46:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:46:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:46:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:46:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:46:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:46:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:46:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:46:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:46:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+21:46:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+21:46:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:46:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:46:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:46:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:46:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:46:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:46:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:46:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:46:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:46:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:46:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+21:46:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:47:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:47:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:47:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+21:47:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:47:03,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:47:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:47:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:47:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:47:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+21:47:07,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:47:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:47:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:47:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:47:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:47:11,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:47:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:47:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:47:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:47:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-76
+21:47:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:47:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:47:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:47:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-79
+21:47:22,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:47:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:47:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+21:47:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:47:26,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:47:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:47:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+21:47:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:47:26,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:47:30,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:47:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:47:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+21:47:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:47:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:47:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:47:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:47:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:47:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:47:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+21:47:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:47:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-77
+21:47:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:47:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:47:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+21:47:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-75
+21:47:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:47:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:47:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+21:47:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:47:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:47:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+21:47:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:47:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+21:47:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:47:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:47:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:47:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:47:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:47:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+21:47:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:48:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:48:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:48:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:48:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:48:02,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:48:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:48:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:48:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:48:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:48:10,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:48:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:48:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:48:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+21:48:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:48:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:48:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:48:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:48:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:48:18,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:48:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:48:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:48:22,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:48:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:48:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:48:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:48:26,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:48:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:48:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:48:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:48:30,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:48:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:48:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:48:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:48:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:48:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:48:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+21:48:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:48:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:48:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:48:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:48:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-72
+21:48:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:48:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:48:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:48:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:48:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:48:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:48:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+21:48:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:48:46,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-95
+21:48:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:48:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:48:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+21:48:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:48:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+21:48:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:48:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+21:48:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:48:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:48:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:48:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:48:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:48:58,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-94
+21:49:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:49:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:49:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:49:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:49:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:49:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+21:49:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:49:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:49:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:49:09,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:49:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:49:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:49:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-52
+21:49:13,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+21:49:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:49:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:49:17,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:49:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:49:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:49:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:49:17,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-93
+21:49:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:49:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:49:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:49:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:49:21,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-89
+21:49:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:49:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:49:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:49:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:49:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:49:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:49:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:49:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:49:29,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-94
+21:49:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:49:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:49:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:49:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+21:49:33,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-88
+21:49:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:49:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:49:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:49:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:49:37,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-89
+21:49:41,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:49:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:49:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:49:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:49:41,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-84
+21:49:41,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-94
+21:49:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:49:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:49:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:49:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:49:45,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:49:49,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:49:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:49:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:49:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:49:53,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:49:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:49:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:49:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:49:53,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-92
+21:49:53,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:49:57,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:49:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:49:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:49:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:50:01,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:50:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:50:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:50:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:50:05,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-49
+21:50:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:50:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+21:50:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:50:09,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:50:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:50:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:50:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:50:13,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:50:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:50:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+21:50:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:50:17,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+21:50:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:50:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+21:50:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:50:17,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-94
+21:50:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+21:50:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:50:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:50:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:50:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+21:50:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:50:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+21:50:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:50:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:50:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:50:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:50:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:50:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:50:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:50:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:50:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:50:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:50:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:50:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:50:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:50:41,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:50:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:50:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:50:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:50:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:50:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:50:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:50:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+21:50:49,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:50:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:50:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:50:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:50:53,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:50:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+21:50:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:50:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:50:53,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-94
+21:50:57,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:50:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:50:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:50:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:51:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:51:01,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+21:51:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:51:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:51:01,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-94
+21:51:05,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:51:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:51:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:51:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:51:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:51:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:51:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:51:08,iPhone de Arnaud,b'\xc2\t\xb7y~1',3,6,-91
+21:51:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:51:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:51:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:51:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:51:12,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:51:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:51:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:51:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:51:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:51:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:51:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:51:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+21:51:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:51:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+21:51:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:51:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:51:24,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-95
+21:51:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:51:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:51:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:51:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+21:51:32,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:51:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:51:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:51:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+21:51:32,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:51:36,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:51:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:51:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:51:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:51:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:51:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:51:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:51:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:51:40,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-94
+21:51:44,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:51:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:51:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:51:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:51:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:51:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:51:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:51:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:51:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:51:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:51:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:51:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:51:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:51:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:51:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:51:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:52:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+21:52:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:52:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:52:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:52:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-50
+21:52:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:52:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:52:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:52:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:52:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+21:52:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:52:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+21:52:08,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:52:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:52:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:52:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:52:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+21:52:12,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:52:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:52:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:52:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:52:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-76
+21:52:16,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:52:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:52:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:52:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:52:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:52:20,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:52:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+21:52:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:52:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:52:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:52:24,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:52:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:52:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:52:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:52:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:52:32,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:52:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:52:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:52:36,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:52:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:52:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:52:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:52:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:52:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:52:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+21:52:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:52:40,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-89
+21:52:44,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:52:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:52:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:52:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:52:44,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:52:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:52:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:52:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:52:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+21:52:48,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:52:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+21:52:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:52:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:52:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:52:52,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:52:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:52:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:52:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:52:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:52:56,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:53:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+21:53:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+21:53:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:53:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:53:00,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:53:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:53:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:53:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:53:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+21:53:04,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:53:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:53:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:53:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:53:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:53:08,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:53:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:53:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:53:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:53:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:53:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:53:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:53:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:53:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:53:15,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-84
+21:53:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:53:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:53:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:53:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:53:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:53:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:53:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:53:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:53:23,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:53:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:53:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:53:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+21:53:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:53:27,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-96
+21:53:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:53:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:53:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:53:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:53:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:53:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:53:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+21:53:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:53:35,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:53:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+21:53:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:53:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+21:53:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:53:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:53:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:53:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:53:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:53:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:53:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:53:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:53:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:53:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+21:53:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:53:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:53:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:53:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-50
+21:53:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:53:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:53:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:53:55,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-88
+21:53:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-49
+21:53:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:53:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:53:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:53:59,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:54:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+21:54:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:54:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:54:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:54:03,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:54:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:54:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:54:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:54:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+21:54:07,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-87
+21:54:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:54:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:54:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+21:54:11,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:54:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:54:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:54:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:54:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:54:15,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:54:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:54:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:54:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:54:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:54:19,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:54:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+21:54:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:54:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:54:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:54:23,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:54:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:54:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+21:54:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:54:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:54:27,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-89
+21:54:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:54:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:54:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:54:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:54:31,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+21:54:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:54:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:54:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+21:54:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:54:35,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-89
+21:54:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:54:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:54:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:54:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-77
+21:54:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:54:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:54:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:54:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:54:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:54:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:54:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:54:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:54:47,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-96
+21:54:51,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:54:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:54:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:54:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+21:54:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-77
+21:54:55,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:54:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+21:54:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:54:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+21:54:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:54:59,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+21:54:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:54:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+21:54:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+21:54:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:54:59,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:55:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:55:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:55:03,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+21:55:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:55:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+21:55:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-53
+21:55:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:55:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:55:07,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+21:55:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:55:07,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-95
+21:55:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+21:55:11,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:55:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+21:55:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:55:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+21:55:15,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+21:55:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:55:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:55:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+21:55:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-54
+21:55:19,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:55:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:55:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+21:55:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:55:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:55:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:55:23,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-67
+21:55:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:55:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:55:27,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+21:55:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:55:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:55:31,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+21:55:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+21:55:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:31,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+21:55:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+21:55:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+21:55:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:55:34,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-71
+21:55:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:55:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+21:55:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:55:38,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+21:55:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+21:55:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:55:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:55:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:55:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:55:42,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-71
+21:55:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:55:42,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:55:46,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-58
+21:55:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:55:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:55:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:46,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:55:50,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:55:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:55:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:55:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+21:55:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:55:54,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:55:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:55:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:55:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:55:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:55:58,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:55:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:55:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:55:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:55:58,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:56:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-53
+21:56:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:56:02,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:56:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:56:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:56:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-49
+21:56:06,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:56:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:56:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+21:56:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:56:10,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+21:56:10,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:56:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:56:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:56:10,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:56:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+21:56:14,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:56:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:56:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:56:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:56:14,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:56:18,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:56:18,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:56:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:56:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:56:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:56:18,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-88
+21:56:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:56:22,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+21:56:22,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+21:56:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:56:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:56:22,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-93
+21:56:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:56:26,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:56:26,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:56:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:56:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+21:56:26,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-96
+21:56:30,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:56:30,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:56:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:56:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:56:30,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-95
+21:56:34,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-58
+21:56:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:56:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:56:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:56:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+21:56:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:56:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:56:38,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-69
+21:56:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:56:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+21:56:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:56:42,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+21:56:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:56:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:56:46,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:56:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:56:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:56:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:56:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+21:56:50,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:56:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:56:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:56:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:56:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-84
+21:56:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:56:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:56:54,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:56:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:56:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-81
+21:56:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:56:58,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:56:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+21:56:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:56:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+21:57:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:57:02,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:57:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:57:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:57:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:57:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:57:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:57:06,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:57:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:57:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:57:10,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:57:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+21:57:10,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+21:57:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:57:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+21:57:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:57:14,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:57:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:57:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:57:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+21:57:18,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:57:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:57:18,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:57:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+21:57:18,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+21:57:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:57:22,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:57:22,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:57:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:57:26,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:57:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:57:26,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:57:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+21:57:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:57:30,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:57:30,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:57:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:57:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:57:34,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-54
+21:57:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:57:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:57:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+21:57:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:57:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:57:38,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+21:57:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:57:42,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-56
+21:57:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:57:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+21:57:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:57:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+21:57:46,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-55
+21:57:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:57:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:57:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:57:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-82
+21:57:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:57:50,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+21:57:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+21:57:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:57:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+21:57:54,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:57:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:57:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:57:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:57:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+21:57:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:57:58,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:57:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:57:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:57:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+21:58:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:58:02,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:58:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:58:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:58:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+21:58:05,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:58:05,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:58:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:58:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:58:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+21:58:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:58:09,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:58:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:58:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-88
+21:58:13,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-56
+21:58:13,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+21:58:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+21:58:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:58:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:58:17,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:58:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:58:17,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:58:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:58:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:58:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:58:21,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+21:58:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:58:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+21:58:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:58:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:58:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:58:25,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+21:58:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:58:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+21:58:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:58:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:58:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:58:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:58:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+21:58:33,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:58:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:58:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:58:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:58:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:58:37,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+21:58:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:58:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+21:58:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:58:41,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:58:41,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:58:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+21:58:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+21:58:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:58:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:58:45,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:58:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:58:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:58:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:58:49,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+21:58:49,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+21:58:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:58:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+21:58:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:58:53,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+21:58:53,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+21:58:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:58:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+21:58:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:58:57,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:58:57,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+21:58:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+21:58:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+21:58:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+21:59:01,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:59:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:59:01,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-67
+21:59:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:59:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:59:05,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+21:59:05,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:59:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+21:59:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:59:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+21:59:09,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+21:59:09,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+21:59:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:59:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+21:59:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:59:13,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+21:59:13,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:59:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+21:59:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:59:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-84
+21:59:17,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+21:59:17,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+21:59:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:59:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:59:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:59:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:59:21,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+21:59:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+21:59:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+21:59:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:59:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+21:59:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:59:25,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+21:59:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+21:59:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+21:59:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+21:59:29,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+21:59:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+21:59:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:59:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+21:59:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+21:59:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+21:59:33,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+21:59:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+21:59:37,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+21:59:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+21:59:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-59
+21:59:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+21:59:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+21:59:41,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+21:59:41,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+21:59:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:59:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+21:59:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+21:59:45,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+21:59:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:59:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:59:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+21:59:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-81
+21:59:49,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+21:59:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+21:59:49,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+21:59:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+21:59:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+21:59:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+21:59:53,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+21:59:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:59:53,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-68
+21:59:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+21:59:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+21:59:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+21:59:57,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+21:59:57,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+21:59:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:00:01,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+22:00:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:00:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:00:01,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-78
+22:00:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:00:05,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+22:00:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:00:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:00:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:00:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:00:06,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-65
+22:00:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:00:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:00:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:00:10,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+22:00:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:00:10,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:00:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:00:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:00:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:00:14,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+22:00:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:00:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:00:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:00:21,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+22:00:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:00:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:00:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:00:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:00:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:00:25,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-59
+22:00:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:00:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:00:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:00:29,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-62
+22:00:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:00:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:00:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:00:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:00:29,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-96
+22:00:33,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+22:00:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:00:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:00:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:00:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:00:37,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+22:00:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:00:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:00:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:00:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:00:37,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:00:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:00:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:00:40,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+22:00:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:00:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:00:44,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+22:00:44,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:00:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:00:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:00:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:00:48,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-52
+22:00:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:00:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:00:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:00:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:00:52,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+22:00:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:00:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:00:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-77
+22:00:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+22:00:56,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-54
+22:00:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:00:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:00:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+22:00:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+22:00:56,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:01:00,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+22:01:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:01:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-79
+22:01:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-81
+22:01:00,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:01:04,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-55
+22:01:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:01:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:01:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:01:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:01:08,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+22:01:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+22:01:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:01:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:01:08,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:01:12,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-56
+22:01:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:01:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:01:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:01:12,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:01:16,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-55
+22:01:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-57
+22:01:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:01:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:01:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:01:16,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:01:20,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-59
+22:01:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:01:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:01:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:01:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:01:20,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:01:24,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-59
+22:01:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:01:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+22:01:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:01:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-82
+22:01:24,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:01:28,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-60
+22:01:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:01:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:01:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:01:28,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:01:32,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:01:32,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+22:01:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:01:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:01:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:01:36,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:01:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:01:36,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-66
+22:01:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:01:36,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:01:40,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-55
+22:01:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:01:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:01:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:01:40,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:01:44,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+22:01:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:44,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:01:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:01:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:01:44,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:01:48,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+22:01:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:01:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:01:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:01:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:01:48,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:01:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:01:52,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+22:01:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:01:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:01:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:01:56,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-54
+22:01:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:01:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:01:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:01:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:01:56,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:02:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-58
+22:02:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:02:00,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+22:02:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:02:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:02:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-58
+22:02:04,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-64
+22:02:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:02:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:02:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:02:08,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-53
+22:02:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:02:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+22:02:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:02:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:02:12,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-63
+22:02:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+22:02:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:02:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:02:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:02:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:02:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:02:16,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-69
+22:02:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:02:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+22:02:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:02:20,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-73
+22:02:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:02:20,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-97
+22:02:24,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-59
+22:02:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:02:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:02:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:02:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:02:28,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-55
+22:02:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:02:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:02:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:02:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:02:28,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:02:32,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+22:02:32,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:02:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:02:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:02:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:02:32,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:02:36,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:02:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:02:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:02:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:02:36,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:02:40,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+22:02:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:02:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:02:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:02:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:02:40,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:02:44,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-59
+22:02:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:02:44,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-72
+22:02:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:02:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:02:48,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+22:02:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:02:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:02:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:02:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:02:48,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:02:52,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-61
+22:02:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:02:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:02:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:02:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:02:56,AndroidAP8034,b'\xfaP\x03\xaeXI',3,1,-57
+22:02:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:02:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:02:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:03:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:03:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:03:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-72
+22:03:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:03:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:03:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:03:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:03:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:03:04,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:03:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:03:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:03:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-75
+22:03:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:03:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:03:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:03:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:03:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-75
+22:03:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:03:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:03:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-73
+22:03:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:03:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:03:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:03:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+22:03:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:03:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:03:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:03:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+22:03:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:03:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:03:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:03:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:03:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:03:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:03:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:03:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:03:31,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:03:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:03:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+22:03:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:03:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:03:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:03:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:03:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:03:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:03:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:03:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:03:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-73
+22:03:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:03:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:03:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:03:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:03:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:03:47,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:03:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:03:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:03:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:03:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:03:51,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:03:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:03:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:03:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:03:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:03:55,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:03:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:03:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:03:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:03:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:03:59,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:04:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:04:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:04:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:04:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:04:03,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-96
+22:04:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:04:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-72
+22:04:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:04:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:04:07,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:04:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:04:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:04:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+22:04:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:04:11,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:04:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:04:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:04:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:04:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:04:15,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:04:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:04:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:04:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:04:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:04:19,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:04:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:04:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:04:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:04:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:04:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:04:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:04:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:04:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:04:27,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:04:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:04:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:04:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:04:31,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:04:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:04:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:04:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:04:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:04:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:04:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:04:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:04:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:04:39,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:04:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:04:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:04:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:04:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:04:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:04:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:04:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:04:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:04:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:04:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:04:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-73
+22:04:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:04:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:04:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:04:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-76
+22:04:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:04:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:04:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:04:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:04:59,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:05:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:05:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:05:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:05:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-80
+22:05:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:05:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:05:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:05:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:05:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:05:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:05:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+22:05:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:05:11,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-96
+22:05:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:05:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:05:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:05:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-80
+22:05:15,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:05:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:05:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:05:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:05:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:05:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:05:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:05:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:05:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:05:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:05:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:05:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:05:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:05:27,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:05:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:05:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:05:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-75
+22:05:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-81
+22:05:31,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:05:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:05:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:05:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:05:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:05:35,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:05:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+22:05:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:05:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:05:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:05:39,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:05:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:05:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:05:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:05:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:05:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:05:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:05:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:05:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-91
+22:05:46,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:05:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+22:05:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:05:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:05:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:05:50,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:05:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:05:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:05:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:05:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:05:54,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:05:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+22:05:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:05:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:05:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+22:05:58,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-95
+22:06:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:06:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:06:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:06:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:06:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:06:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:06:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:06:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:06:06,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:06:10,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+22:06:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:06:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:06:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:06:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:06:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:06:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:06:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-79
+22:06:14,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-96
+22:06:18,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:06:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:06:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:06:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-81
+22:06:18,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:06:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:06:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:06:22,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-77
+22:06:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-87
+22:06:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:06:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:06:26,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-69
+22:06:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:06:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:06:30,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+22:06:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:06:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:06:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:06:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:06:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-74
+22:06:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:06:34,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:06:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:06:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:06:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-74
+22:06:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:06:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:06:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:06:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+22:06:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-85
+22:06:42,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:06:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:06:46,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-72
+22:06:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-82
+22:06:46,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:06:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:06:50,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+22:06:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:06:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-81
+22:06:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:06:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:06:54,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-72
+22:06:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:06:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:06:58,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:06:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:06:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:07:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:07:02,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:07:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:07:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:07:06,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:07:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:07:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:07:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:07:10,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:07:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:07:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:07:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:07:10,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-95
+22:07:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:07:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:07:14,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-76
+22:07:14,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:07:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:07:18,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:07:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:07:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:07:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:07:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:07:22,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-76
+22:07:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:07:26,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:07:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:07:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-82
+22:07:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:07:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:07:30,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:07:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:07:30,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:07:34,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+22:07:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:07:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:07:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:07:38,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-49
+22:07:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:07:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:07:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:07:42,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-50
+22:07:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-67
+22:07:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-76
+22:07:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-89
+22:07:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-48
+22:07:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:07:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:07:49,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:07:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:07:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:07:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:07:49,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:07:53,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:07:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:07:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:07:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:07:53,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-89
+22:07:57,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:07:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:07:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:07:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:08:01,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:08:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-63
+22:08:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:08:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-78
+22:08:01,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-89
+22:08:05,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:08:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:08:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:08:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-67
+22:08:09,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:08:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:08:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:08:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:08:09,_SNCF_WIFI_INOUI,b'\x04\xf0!3[\xaa',0,1,-86
+22:08:13,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:08:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:08:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:08:13,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:08:17,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-50
+22:08:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:08:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-65
+22:08:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:08:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:08:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:08:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:08:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+22:08:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:08:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:08:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:08:25,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-84
+22:08:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:08:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:08:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:08:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:08:29,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:08:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-50
+22:08:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:08:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:08:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:08:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:08:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:08:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:08:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:08:37,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:08:41,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-50
+22:08:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:08:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:08:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:08:41,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-83
+22:08:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:08:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:08:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:08:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-66
+22:08:45,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:08:49,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:08:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:08:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:08:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-67
+22:08:53,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:08:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:08:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:08:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:08:53,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:08:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:08:57,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:08:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:08:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:08:57,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:09:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-53
+22:09:01,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:09:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:09:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:09:05,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:09:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:09:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:09,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:09:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:09:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:09:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:09:09,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:09:13,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:09:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:09:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:09:13,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:09:17,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:09:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:09:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:09:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:21,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:09:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:09:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:09:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:09:21,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:09:25,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:09:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:09:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:25,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:09:29,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:09:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:09:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:09:33,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:09:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:09:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:09:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:09:33,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:09:37,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-51
+22:09:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:09:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:09:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:09:41,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+22:09:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:09:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:09:41,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:09:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:09:45,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:09:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:09:45,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:09:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:09:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:09:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:09:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:09:48,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-84
+22:09:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:09:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:09:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:09:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:09:52,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:09:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:09:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:09:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:09:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:09:56,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:10:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+22:10:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:10:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:10:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:10:00,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:10:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-54
+22:10:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:10:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:10:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:10:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+22:10:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:10:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:10:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:10:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:10:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:10:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:10:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:10:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:10:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:10:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:10:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:10:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:10:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:10:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:10:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:10:20,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:10:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:10:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:10:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:10:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:10:24,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:10:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:10:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:10:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:10:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:10:32,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+22:10:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:10:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:10:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:10:36,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:10:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:10:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:10:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:10:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-53
+22:10:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:10:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:10:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:10:44,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:10:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:10:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:10:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:10:48,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:10:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:10:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:10:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:10:52,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:10:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:10:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:10:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:10:56,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:10:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:10:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:10:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:10:56,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-85
+22:11:00,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:11:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:11:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:11:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:11:04,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:11:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:11:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:11:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:11:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:11:08,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:11:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:11:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:11:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:11:12,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:11:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-70
+22:11:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:11:12,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-83
+22:11:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:11:16,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-59
+22:11:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:11:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:11:20,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:11:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:11:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:11:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:11:24,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:11:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:11:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:11:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:11:28,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-62
+22:11:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:11:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:11:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:11:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:11:32,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:11:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:11:36,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:11:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:11:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:11:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:11:40,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-57
+22:11:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:11:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:11:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-55
+22:11:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:11:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:11:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:11:43,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:11:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-54
+22:11:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:11:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:11:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:11:47,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:11:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:11:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:11:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:11:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:11:51,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:11:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-58
+22:11:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-60
+22:11:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:11:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+22:11:55,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-85
+22:11:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:11:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:11:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:11:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:11:59,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:12:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:12:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:12:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:12:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:12:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:12:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:12:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:12:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:12:07,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:12:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-61
+22:12:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-63
+22:12:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:12:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+22:12:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:12:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:12:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:12:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:12:15,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:12:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:12:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:12:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:12:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:12:19,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:12:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:12:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:12:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:12:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:12:23,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:12:27,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:12:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:12:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:12:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:12:27,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-83
+22:12:31,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:12:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:12:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:12:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:12:31,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:12:35,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:12:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:12:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:12:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:12:35,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:12:39,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-56
+22:12:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:12:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:12:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:12:39,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:12:43,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-52
+22:12:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:12:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:12:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:12:43,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-84
+22:12:47,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-60
+22:12:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:12:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:12:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:12:47,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:12:51,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-61
+22:12:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:12:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:12:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:12:51,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:12:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:12:55,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-66
+22:12:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:12:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:12:55,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:12:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:12:59,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-65
+22:12:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:12:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:12:59,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:13:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:13:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:13:03,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-68
+22:13:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:13:03,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:13:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:13:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:13:07,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-67
+22:13:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:13:07,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:13:11,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-71
+22:13:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:13:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:13:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-80
+22:13:11,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:13:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:13:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:13:15,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-73
+22:13:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-80
+22:13:15,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:13:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:13:19,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-70
+22:13:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:13:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:13:19,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:13:23,Jana :p,b'\xa2\x84D\xe9\xdd\xed',3,6,-64
+22:13:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:13:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:13:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-79
+22:13:23,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-85
+22:13:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:13:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:13:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+22:13:31,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:13:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:13:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-74
+22:13:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:13:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:13:35,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-69
+22:13:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:13:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+22:13:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:13:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:13:39,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:13:39,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:13:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:13:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:13:42,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:13:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:13:42,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:13:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:13:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:13:46,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:13:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:13:46,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:13:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:13:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:13:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:13:50,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-76
+22:13:50,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-83
+22:13:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:13:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:13:54,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:13:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:13:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:13:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:13:58,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:13:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:14:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:14:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:14:02,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:14:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:14:02,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-80
+22:14:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:14:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:14:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:14:06,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-76
+22:14:06,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:14:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:14:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:14:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:14:10,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-75
+22:14:10,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:14:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:14:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:14:14,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-85
+22:14:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:14:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:14:18,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:14:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:14:18,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:14:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:14:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:14:22,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:14:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:14:22,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:14:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:14:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:14:26,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:14:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:14:26,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:14:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:14:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:14:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:14:30,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-77
+22:14:30,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:14:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:14:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:14:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:14:34,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:14:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:14:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:14:38,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:14:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:14:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:14:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:14:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:14:42,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:14:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:14:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:14:46,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:14:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:14:46,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:14:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:14:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:14:50,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:14:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:14:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:14:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-68
+22:14:54,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:14:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:14:54,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-84
+22:14:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-62
+22:14:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:14:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:14:58,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:14:58,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:15:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:15:02,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:15:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:15:06,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:15:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:15:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:15:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-79
+22:15:10,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:15:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:15:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:15:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:15:14,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:15:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:15:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:15:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-79
+22:15:18,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:15:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:15:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-75
+22:15:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:15:18,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:15:22,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-62
+22:15:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:15:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-73
+22:15:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:15:22,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:15:26,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:15:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:15:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:15:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-76
+22:15:30,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:15:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-66
+22:15:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:15:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:15:34,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-68
+22:15:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:15:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:15:34,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:15:38,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:15:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:15:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:15:38,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:15:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:15:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:15:42,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-81
+22:15:42,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-86
+22:15:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:15:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:15:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:15:46,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-81
+22:15:46,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:15:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:15:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:15:50,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:15:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:15:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:15:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:15:53,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-86
+22:15:53,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:15:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:15:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:15:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:15:57,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-86
+22:15:57,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:16:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:16:01,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:16:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:16:01,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-82
+22:16:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:16:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:16:05,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-80
+22:16:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:16:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:16:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:16:09,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-91
+22:16:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:16:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:16:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:16:13,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-87
+22:16:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:16:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:16:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:16:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:16:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:16:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:16:21,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-77
+22:16:21,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:16:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:16:25,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:16:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:16:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:16:25,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:16:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:16:29,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-68
+22:16:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:16:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:16:33,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-61
+22:16:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:16:33,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:16:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:16:37,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:16:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:16:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:16:37,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:16:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:16:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:16:41,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:16:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:16:41,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:16:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:16:45,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:16:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:16:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:16:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:16:49,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:16:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:16:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:16:49,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:16:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:16:53,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:16:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:16:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:16:53,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:16:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:16:57,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:16:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:17:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:17:01,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:17:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:17:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:17:05,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:17:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:17:05,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-95
+22:17:09,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:17:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:17:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-84
+22:17:09,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:17:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:17:13,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:17:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:17:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:17:17,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:17:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:17:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-82
+22:17:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:17:21,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:17:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:17:21,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:17:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:17:25,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:17:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:17:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:17:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:17:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:17:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:17:29,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:17:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:17:33,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:17:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:17:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:17:37,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:17:37,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:17:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:17:37,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:17:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:17:41,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:17:41,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:17:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:17:41,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-87
+22:17:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:17:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:17:45,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:17:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:17:45,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-81
+22:17:45,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:17:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:17:49,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:17:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:17:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:17:49,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-75
+22:17:49,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-83
+22:17:53,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-62
+22:17:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:17:53,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:17:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:17:53,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:17:53,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-91
+22:17:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:17:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:17:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:17:57,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:18:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:18:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:18:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:18:00,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-78
+22:18:00,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-81
+22:18:00,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-89
+22:18:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:18:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:18:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:18:04,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-84
+22:18:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:18:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:18:08,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-89
+22:18:08,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:18:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:18:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:18:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:18:12,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-81
+22:18:12,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-93
+22:18:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:18:16,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:18:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:18:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-78
+22:18:16,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-90
+22:18:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:18:20,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:18:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:18:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:18:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:18:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:18:24,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:18:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-83
+22:18:24,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-87
+22:18:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:18:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:18:28,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:18:28,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-88
+22:18:28,L0uis,b'\xde\xf2\xde\x99#\x0f',3,6,-92
+22:18:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:18:32,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:18:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:18:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-80
+22:18:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:18:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:18:36,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:18:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:18:40,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:18:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:18:40,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-76
+22:18:40,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:18:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-67
+22:18:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:18:44,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:18:44,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:18:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:18:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:18:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-71
+22:18:48,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:18:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:18:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:18:52,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-79
+22:18:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:18:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:18:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:18:56,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:19:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:19:00,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:19:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:19:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:19:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:19:04,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:19:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:19:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-81
+22:19:08,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:19:08,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:19:08,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-72
+22:19:08,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:19:08,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:19:12,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:19:12,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-75
+22:19:12,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:19:12,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+22:19:12,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-84
+22:19:16,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:19:16,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:19:16,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:19:16,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-84
+22:19:20,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:19:20,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:19:20,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:19:20,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-75
+22:19:24,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:19:24,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:19:24,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:19:24,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:19:24,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-83
+22:19:28,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:19:28,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:19:28,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:19:28,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:19:32,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:19:32,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:19:32,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-76
+22:19:32,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-89
+22:19:32,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:19:36,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:19:36,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:19:36,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-69
+22:19:36,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:19:36,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-85
+22:19:40,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:19:40,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:19:40,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:19:44,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:19:44,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:19:44,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:19:44,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:19:48,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:19:48,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:19:48,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:19:48,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:19:52,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:19:52,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:19:52,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:19:52,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:19:56,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:19:56,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:19:56,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:19:56,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:19:56,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-86
+22:20:00,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:20:00,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-60
+22:20:00,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:20:00,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:20:00,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:20:04,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:20:04,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:20:04,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:20:04,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:20:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:20:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:20:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:20:07,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-75
+22:20:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:20:11,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:20:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-63
+22:20:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:20:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:20:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:20:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:20:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:20:19,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-62
+22:20:19,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:20:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:20:19,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:20:23,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-56
+22:20:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:20:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:20:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:20:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:20:27,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:20:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-78
+22:20:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-85
+22:20:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-54
+22:20:31,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:20:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:20:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:20:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:20:35,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:20:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+22:20:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:20:39,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:20:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:20:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-84
+22:20:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:20:43,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-69
+22:20:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:20:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:20:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:20:47,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:20:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:20:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-80
+22:20:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:20:51,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:20:51,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:20:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-83
+22:20:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:20:55,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-74
+22:20:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:20:59,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:20:59,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:20:59,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:20:59,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:20:59,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-96
+22:21:03,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-65
+22:21:03,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:21:03,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:21:03,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-79
+22:21:07,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:21:07,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:21:07,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:21:07,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-77
+22:21:07,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-92
+22:21:11,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:21:11,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:21:11,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:21:11,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:21:15,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:21:15,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-69
+22:21:15,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:21:15,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:21:19,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:21:19,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:21:19,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-78
+22:21:23,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:21:23,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:21:23,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-75
+22:21:23,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:21:23,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-90
+22:21:27,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:21:27,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-71
+22:21:27,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:21:27,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-81
+22:21:31,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-64
+22:21:31,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:21:31,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:21:31,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:21:35,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:21:35,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:21:35,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:21:35,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:21:39,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-58
+22:21:39,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:21:39,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:21:39,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:21:43,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:21:43,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:21:43,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:21:43,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:21:47,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-59
+22:21:47,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:21:47,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:21:47,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:21:47,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-95
+22:21:51,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:21:51,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:21:51,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:21:51,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-94
+22:21:55,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:21:55,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-70
+22:21:55,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:21:55,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:21:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:21:58,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:21:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:21:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:22:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:22:02,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:22:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-64
+22:22:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:22:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-63
+22:22:06,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-66
+22:22:06,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-68
+22:22:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-76
+22:22:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:22:10,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:22:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-65
+22:22:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:22:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:22:14,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:22:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-73
+22:22:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:22:18,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:22:18,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-71
+22:22:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-74
+22:22:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:22:22,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:22:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-68
+22:22:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:22:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:22:26,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:22:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:22:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-86
+22:22:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:22:30,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-62
+22:22:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:22:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-79
+22:22:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:22:34,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:22:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:22:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:22:38,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:22:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:22:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:22:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:22:42,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:22:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:22:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-72
+22:22:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:22:46,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:22:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:22:46,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+22:22:50,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:22:50,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:22:50,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-75
+22:22:50,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:22:54,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:22:54,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:22:54,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:22:54,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-81
+22:22:58,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:22:58,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:22:58,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:22:58,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-80
+22:23:02,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:23:02,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:23:02,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:23:02,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-78
+22:23:06,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:23:06,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:23:06,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:23:10,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-56
+22:23:10,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:23:10,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:23:10,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:23:14,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:23:14,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-68
+22:23:14,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:23:14,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-78
+22:23:18,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:23:18,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-69
+22:23:18,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:23:22,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:23:22,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:23:22,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:23:22,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-82
+22:23:26,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:23:26,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:23:26,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:23:26,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-80
+22:23:30,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:23:30,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:23:30,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:23:30,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-76
+22:23:30,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-95
+22:23:34,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:23:34,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:23:34,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:23:34,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-81
+22:23:38,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-59
+22:23:38,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:23:38,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:23:38,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-80
+22:23:42,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:23:42,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:23:42,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72
+22:23:42,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-78
+22:23:46,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-61
+22:23:46,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:23:46,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:23:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-61
+22:23:49,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:23:49,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:23:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-85
+22:23:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:23:53,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:23:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:23:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:23:57,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:23:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-70
+22:23:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-88
+22:24:01,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:24:01,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:24:01,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:24:05,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-57
+22:24:05,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:24:05,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:24:05,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-73
+22:24:05,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:24:09,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:24:09,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-68
+22:24:09,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:24:09,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:24:13,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:24:13,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-62
+22:24:13,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:24:13,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-81
+22:24:17,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:24:17,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-64
+22:24:17,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:24:17,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:24:21,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-59
+22:24:21,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:24:21,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:24:21,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:24:25,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:24:25,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:24:25,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:24:25,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-77
+22:24:25,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-91
+22:24:29,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:24:29,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:24:29,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-72
+22:24:29,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-74
+22:24:33,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:24:33,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:24:33,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-70
+22:24:33,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-75
+22:24:37,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-58
+22:24:37,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-63
+22:24:37,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-68
+22:24:41,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:24:41,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-67
+22:24:41,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-69
+22:24:45,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-62
+22:24:45,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-65
+22:24:45,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-71
+22:24:45,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-78
+22:24:49,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-60
+22:24:49,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-67
+22:24:49,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-69
+22:24:53,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-55
+22:24:53,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-73
+22:24:53,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-77
+22:24:53,iPhone {2},b'F\xd0\x00\xf7\xb2\x1e',3,6,-77
+22:24:57,Galaxy S9,b'*\xa0F\x7f\xae\t',3,6,-52
+22:24:57,iPhone de Cynthia,b'\x1a\x0b\xd0N\x06\x08',3,6,-66
+22:24:57,AndroidAP68dc,b'\n\xc5\xe1\x0ch\xdc',3,11,-69
+22:24:57,_SNCF_WIFI_INOUI,"b'\x04\xf0!2E""'",0,6,-72

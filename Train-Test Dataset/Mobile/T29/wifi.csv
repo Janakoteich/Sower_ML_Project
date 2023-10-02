@@ -1,0 +1,304 @@
+Time,ssid,bssid,sec,channel,rssi
+19:04:00,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-36
+19:04:00,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:04:03,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-54
+19:04:03,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-82
+19:04:07,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-39
+19:04:07,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:04:11,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-33
+19:04:15,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-33
+19:04:15,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:04:19,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-41
+19:04:19,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:04:23,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-43
+19:04:27,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-43
+19:04:27,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:04:31,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-37
+19:04:31,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:04:35,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-35
+19:04:35,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:04:39,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-36
+19:04:39,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:04:43,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-34
+19:04:43,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:04:47,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-38
+19:04:47,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:04:51,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-34
+19:04:51,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:04:55,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-36
+19:04:55,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:04:59,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-35
+19:04:59,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:05:03,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-35
+19:05:03,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:05:06,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-28
+19:05:06,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:05:10,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-33
+19:05:10,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:05:14,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-33
+19:05:14,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:05:18,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-35
+19:05:18,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:05:22,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-34
+19:05:22,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:05:26,Jana :p,"b'\xe6\xc5""\x9b%\x1b'",3,6,-37
+19:05:26,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:05:30,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:05:34,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:05:34,WIFI_VEOLIA,b'\x88\xdc\x96\x137\xdc',0,6,-91
+19:05:38,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:05:42,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:05:46,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:05:50,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:05:58,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-68
+19:06:02,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:06:05,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:06:17,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:06:25,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:06:29,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:06:33,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-82
+19:06:37,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:06:53,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:06:57,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-85
+19:07:00,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:07:04,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-87
+19:07:08,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-87
+19:07:32,TVMPONTRADIO2,b'^\xd1\xfa\x9d\xbf\xf9',0,9,-85
+19:07:36,TVMPONTRADIO2,b'^\xd1\xfa\x9d\xbf\xf9',0,9,-87
+19:07:44,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:07:51,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:07:55,Familypre,b'p\xfc\x8f\xe9O ',3,6,-91
+19:08:03,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:08:07,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:08:11,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:08:11,FreeWifi_secure,"b""4'\x92\xc3\xda\xa9""",5,1,-89
+19:08:11,Freebox-475657,"b""4'\x92\xe8\xbc\xcc""",3,1,-92
+19:08:15,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:08:23,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-85
+19:08:27,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:08:31,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:08:35,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-79
+19:08:35,FreeWifi_secure,b'\xe4\x9e\x12\xaa\x0e\xa9',5,11,-95
+19:08:39,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:08:43,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-85
+19:08:47,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:08:50,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-85
+19:08:54,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:08:54,FreeWifi_secure,"b""4'\x92\xa8P\xc9""",5,1,-91
+19:08:58,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:09:02,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:09:06,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:09:18,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-84
+19:09:22,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:09:30,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:09:34,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-88
+19:09:38,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-82
+19:09:42,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:09:45,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-88
+19:10:01,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-88
+19:10:09,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-86
+19:10:17,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-87
+19:10:21,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:10:25,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-84
+19:10:29,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:10:40,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-82
+19:10:44,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-85
+19:10:52,FERINOX_CHT,b'\xe4\xbe\xedKH\x16',4,9,-91
+19:10:56,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-82
+19:11:00,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-85
+19:11:04,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:11:16,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-87
+19:11:24,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:11:27,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:11:35,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-84
+19:11:39,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:11:43,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-84
+19:11:51,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:11:55,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-87
+19:12:03,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:12:15,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:12:26,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-86
+19:12:30,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:12:34,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:12:38,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-95
+19:12:46,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:12:54,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:13:02,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:13:13,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-68
+19:13:17,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:13:21,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:13:25,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:13:29,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:13:33,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:13:37,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:13:41,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:13:45,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:13:49,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:13:53,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:13:57,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:14:01,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:14:05,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:14:09,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:14:16,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:14:24,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:14:32,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:14:36,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:14:40,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:14:44,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-65
+19:14:48,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:14:52,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:14:56,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:15:00,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:15:07,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:15:15,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:15:19,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:15:27,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:15:31,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:15:35,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:15:43,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:15:47,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:15:51,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:15:55,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:15:59,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:16:02,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:16:06,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:16:10,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:16:14,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:16:18,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:16:22,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:16:30,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:16:34,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:16:38,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-65
+19:16:42,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:16:50,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:16:54,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:16:57,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:17:01,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:17:05,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:17:09,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:17:13,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:17:17,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:17:21,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:17:33,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:17:37,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:17:41,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:17:45,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:17:49,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:17:52,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:18:00,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:18:08,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-79
+19:18:16,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-79
+19:18:20,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:18:28,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:18:32,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:18:40,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:18:43,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:18:47,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:18:51,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:18:55,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:18:59,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:19:03,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:19:07,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-80
+19:19:07,Bbox-9AF42976,b'\x08>]{\xdc\xc0',4,6,-92
+19:19:15,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:19:23,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:19:31,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:19:35,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:19:38,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:19:46,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-78
+19:19:50,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:19:54,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:19:58,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:20:02,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:20:06,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:20:10,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-68
+19:20:14,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:20:22,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:20:25,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:20:30,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:20:33,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-68
+19:20:37,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:20:45,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:20:49,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-75
+19:20:53,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:20:57,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:21:01,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:21:05,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:21:13,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-61
+19:21:17,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:21:21,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-70
+19:21:25,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:21:29,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-73
+19:21:32,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-68
+19:21:36,KIDF-SAE,b'\xa8c}1Q\x90',4,5,-93
+19:21:40,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:21:44,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:21:48,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-74
+19:21:52,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-72
+19:21:56,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-63
+19:22:00,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:22:04,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-65
+19:22:08,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-66
+19:22:12,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-65
+19:22:16,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-66
+19:22:20,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-63
+19:22:24,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-65
+19:22:31,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-65
+19:22:35,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:22:39,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:22:47,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-66
+19:22:51,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:22:55,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:23:03,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-69
+19:23:07,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-67
+19:23:15,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:23:15,FreeWifi_secure,b'\x14\x0cv\xfbnu',5,11,-92
+19:23:19,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-63
+19:23:22,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-71
+19:23:22,Bbox-1722F93A,b'\xf4\x17\xb8\xbe8^',3,6,-91
+19:23:26,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:23:30,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-79
+19:23:34,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-81
+19:23:42,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-77
+19:23:50,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-83
+19:23:54,AndroidAP3C84,b'\xce!\x19/<\x84',3,1,-76
+19:24:02,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-93
+19:24:06,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-91
+19:24:21,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-94
+19:24:33,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-91
+19:24:45,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-92
+19:24:49,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-93
+19:24:53,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-94
+19:25:05,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-94
+19:25:08,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-92
+19:25:40,Coeurdeshommes,"b""4\x8f'\x12\x01x""",3,4,-90
+19:25:44,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-94
+19:25:48,FreeWifi_secure,b'\xf4\xca\xe5\xe0\xdcu',5,6,-82
+19:25:52,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-90
+19:25:59,Freebox-426035,"b""4'\x92\xc8@\x10""",3,6,-88
+19:27:30,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-96
+19:27:49,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-96
+19:28:09,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-93
+19:28:13,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-93
+19:28:21,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-92
+19:28:25,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-97
+19:28:32,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-95
+19:28:48,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-91
+19:29:00,IPhone X de Son,b'6\x94Zo\xf8\xab',3,6,-93
+19:33:26,SFR WiFi Mobile,b'r\xce}\xa1\x92\x85',5,6,-93
+19:33:46,Freebox-02DF4B,b'\xe4\x9e\x12\x02\xdfL',3,11,-94
+19:33:54,FreeWifi_secure,b'\xe4\x9e\x12\xa5\xdam',5,11,-93
+19:33:54,freebox_TAALBI,b'h\xa3x_$\xd8',4,11,-97
+19:38:59,Freebox-787FB6,b'h\xa3x\xcc{\x88',3,6,-95
+19:39:07,Freebox-5B4393,b'p\xfc\x8f\xea\xdd4',3,11,-94
+19:39:11,NOVA_4CC8,b'\x04\x95\xe6\xa6L\xc9',4,6,-90
+19:39:35,Freebox-025E86,b'\x8c\x97\xea\x02^\x87',3,6,-91
+19:39:50,Bbox-AF056202,b'4S\xd2\x02\xbaP',4,6,-92
+19:39:50,toufou,b'h\xa3x\x7f\x18\x8e',1,11,-92
+19:39:50,FreeWifi_secure,b'h\xa3x\x7f\x18\x8f',5,11,-97
+19:39:54,Freebox-06C89A,b'h\xa3x\x06\xc8\x9b',3,11,-95
+19:39:54,NOTATOR,"b""4'\x92\xb3:\xb0""",3,11,-99
+19:41:09,FreeWifi_secure,b'\x14\x0cvT\xd47',5,6,-93
+19:41:21,tours,b'\xe4\x9e\x12\nt\xe1',1,5,-93
+19:41:56,FreeWifi_secure,b'h\xa3xn\x86r',5,6,-94
+19:42:19,Freebox-31902C,b'\x8c\x97\xea\xd5\n\x00',3,6,-93
