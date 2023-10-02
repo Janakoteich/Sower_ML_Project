@@ -1,0 +1,193 @@
+Time,ssid,bssid,sec,channel,rssi
+21:09:31,Jana :p,b'\xf6GA\\\xd3s',3,6,-41
+21:09:31,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:09:33,Jana :p,b'\xf6GA\\\xd3s',3,6,-41
+21:09:33,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:09:35,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:09:38,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:09:42,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-89
+21:09:46,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:09:48,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:09:51,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-93
+21:09:53,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:09:55,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:09:57,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:09:59,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:10:01,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:10:05,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:10:06,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:10:08,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:10:10,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:10:14,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-89
+21:10:16,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:10:21,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:10:25,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-90
+21:10:33,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-89
+21:10:36,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:10:38,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:10:40,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:10:44,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:10:49,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:10:55,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-88
+21:11:01,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:11:01,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-94
+21:11:03,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:11:08,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-78
+21:11:10,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:11:14,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:11:16,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:11:17,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:11:17,HotspotC857,b'\x00T\xafS\xc8W',4,1,-95
+21:11:21,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:11:27,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:11:29,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-80
+21:11:31,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:11:32,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:11:32,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-93
+21:11:36,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:11:40,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-79
+21:11:44,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:11:51,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-79
+21:11:57,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-88
+21:12:00,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:12:04,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:12:06,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:12:08,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:12:10,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:12:12,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:12:14,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-80
+21:12:17,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:12:19,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:12:21,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:12:23,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:12:29,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:12:32,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-88
+21:12:34,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:12:38,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-91
+21:12:42,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:12:45,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-88
+21:12:51,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:12:53,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:12:55,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:12:58,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:13:02,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:13:06,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:13:06,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-93
+21:13:10,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:13:12,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:13:15,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:13:17,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:13:19,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:13:21,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:13:27,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-93
+21:13:28,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:13:34,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:13:40,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:13:43,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-91
+21:13:45,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:13:56,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:14:00,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:14:04,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:14:08,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-88
+21:14:09,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:14:13,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:14:17,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:14:23,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:14:26,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:14:30,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-80
+21:14:32,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:14:34,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:14:36,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:14:38,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:14:38,500005b3a,b'\x00\x1f\xdf\xa5b\xb9',3,1,-93
+21:14:45,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:14:54,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:14:54,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-88
+21:14:56,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-82
+21:14:58,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:15:02,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-90
+21:15:06,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-81
+21:15:06,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:15:09,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-81
+21:15:09,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-84
+21:15:09,Q8_freeWIFI,b'\x00\x1a\xddR\x1a\x01',0,2,-86
+21:15:15,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-77
+21:15:15,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-79
+21:15:15,Q8_freeWIFI,b'\x00\x1a\xddR\x1a\x01',0,2,-90
+21:15:22,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-81
+21:15:22,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-83
+21:15:24,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-76
+21:15:24,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-87
+21:15:28,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:15:32,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-80
+21:15:32,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-84
+21:15:36,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-74
+21:15:37,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:15:39,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-76
+21:15:41,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-82
+21:15:41,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-85
+21:15:41,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-90
+21:15:45,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-85
+21:15:45,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-86
+21:15:45,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-88
+21:15:47,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-79
+21:15:49,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-70
+21:15:49,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-81
+21:15:49,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-86
+21:15:51,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-73
+21:15:51,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-80
+21:15:53,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-89
+21:15:54,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-74
+21:15:54,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-85
+21:15:56,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-76
+21:15:58,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-77
+21:16:00,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-78
+21:16:02,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-86
+21:16:04,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-67
+21:16:08,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-75
+21:16:08,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-83
+21:16:09,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-69
+21:16:09,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-84
+21:16:11,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-79
+21:16:11,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-79
+21:16:11,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-90
+21:16:13,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-70
+21:16:15,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-82
+21:16:15,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-84
+21:16:17,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-72
+21:16:21,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-89
+21:16:23,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-81
+21:16:23,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-92
+21:16:25,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-80
+21:16:26,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-78
+21:16:26,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-90
+21:16:28,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-91
+21:16:30,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-89
+21:16:32,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-80
+21:16:32,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-90
+21:16:34,Q8_freeWIFI,b'\x00\x1a\xddR\x1a\x01',0,2,-84
+21:16:34,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-91
+21:16:36,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-79
+21:16:36,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-81
+21:16:38,Q8_freeWIFI,b'\x00\x1a\xddR\x1a\x01',0,2,-86
+21:16:38,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-93
+21:16:40,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-78
+21:16:40,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-78
+21:16:40,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-83
+21:16:40,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-86
+21:16:42,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-77
+21:16:43,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-78
+21:16:43,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-88
+21:16:45,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-79
+21:16:45,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-85
+21:16:47,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-81
+21:16:47,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-95
+21:16:49,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-76
+21:16:49,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-81
+21:16:51,FRITZ!Box 7430 VX,b'\xe8\xdfp\xfd\xee3',3,11,-77
+21:16:51,FRITZ!Box 7430 KI,b'\xe8\xdfp\xfe}\x84',3,6,-80
+21:16:51,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-81
+21:16:51,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-85
+21:16:53,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-86
+21:16:55,iPhone di Vanessa,b'\xd6\x9f<rn\xa8',3,6,-84
+21:16:55,AndroidAPACEF,b'\xaa\x87\xb3\x97\xac\xef',3,11,-92

@@ -1,0 +1,568 @@
+Time,ssid,bssid,sec,channel,rssi
+17:00:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-31
+17:00:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:00:48,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:00:50,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:00:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:00:54,Freebox-40EAA1,b'\xe4\x9e\x12n\xf1\xe4',3,11,-97
+17:00:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:00:56,Y62,b'\x92\xfbY\xe3T\x8f',3,1,-93
+17:00:56,freebox_Gans,b'p\xfc\x8f\xee6\xa8',4,13,-94
+17:00:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-57
+17:00:58,Y62,b'\x92\xfbY\xe3T\x8f',3,1,-90
+17:00:58,FreeWifi_secure,b'\xe4\x9e\x12n\xf1\xe6',5,11,-96
+17:01:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-51
+17:01:00,Freebox-40EAA1,b'\xe4\x9e\x12n\xf1\xe4',3,11,-91
+17:01:01,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-53
+17:01:01,A💜,b'r\xed{\xfc\x8e\xd0',3,6,-85
+17:01:03,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-40
+17:01:03,A💜,b'r\xed{\xfc\x8e\xd0',3,6,-86
+17:01:05,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:01:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-39
+17:01:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-40
+17:01:09,Xiaomi 11T Pro,b'\xea>\xa41\x80/',3,11,-92
+17:01:09,A💜,b'r\xed{\xfc\x8e\xd0',3,6,-94
+17:01:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:01:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:01:16,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-58
+17:01:16,Xiaomi 11T Pro,b'\xea>\xa41\x80/',3,11,-80
+17:01:18,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-66
+17:01:20,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-54
+17:01:20,Xiaomi 11T Pro,b'\xea>\xa41\x80/',3,11,-82
+17:01:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-69
+17:01:22,Xiaomi 11T Pro,b'\xea>\xa41\x80/',3,11,-90
+17:01:29,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:01:40,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-65
+17:01:44,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-60
+17:01:50,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-63
+17:01:51,SFR WiFi FON,b'j-\x1b\x7f\xb0/',0,6,-90
+17:01:59,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-64
+17:02:01,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-62
+17:02:03,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-61
+17:02:04,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-60
+17:02:06,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-60
+17:02:08,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-59
+17:02:10,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-62
+17:02:12,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-62
+17:02:14,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-61
+17:02:16,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-61
+17:02:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-63
+17:02:21,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-65
+17:02:23,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-53
+17:02:25,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-59
+17:02:27,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-62
+17:02:29,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:02:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:02:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-43
+17:02:36,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:02:38,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:02:40,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-42
+17:02:42,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:02:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-39
+17:02:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:02:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:02:47,civ59,"b""\xf0\x9f\xc2'\xceA""",4,6,-94
+17:02:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:02:51,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:02:53,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:02:55,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:02:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:02:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:03:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:02,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:04,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:03:06,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:03:08,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:03:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-24
+17:03:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:17,Wifi_JOUFFROY_FORMATION,b't\x83\xc2:Ja',3,1,-87
+17:03:19,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-34
+17:03:21,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:03:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:03:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:03:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:35,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:37,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-24
+17:03:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:03:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:03:48,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:50,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:03:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:03:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:03:58,wifi-2E7504,b'\x00\x1f\x01.u\x04',0,1,-87
+17:03:58,Freebox,b'\xe4\x9e\x12\x0cv\xc9',3,7,-94
+17:04:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:01,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:01,FreeWifi_secure,b'p\xfc\x8f\xe5\x14\x1a',5,6,-82
+17:04:01,wifi-2E7504,b'\x00\x1f\x01.u\x04',0,1,-83
+17:04:01,FreeWifi_secure,b'\xe4\x9e\x12\x0cv\xcb',5,7,-85
+17:04:01,DIRECT-9E-EPSON-C6D27C,b'\xe2\xbb\x9e\xc6R|',3,6,-90
+17:04:05,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:05,SFR_DA60,b'D\xce}\xf4\xdaf',4,1,-88
+17:04:05,SFR WiFi FON,b'b\xce}\xf4\xdag',0,1,-88
+17:04:05,SFR WiFi Mobile,b'b\xce}\xf4\xdae',5,1,-89
+17:04:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:07,Freebox-ABAF80,b'p\xfc\x8f\xe5\x14\x18',3,6,-92
+17:04:07,paulinealex_2GEXT,b'<7\x86E\xaa\x1f',1,2,-97
+17:04:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-23
+17:04:09,Freebox-5F1F95,b'\xdc\x00\xb0r{\xe2',3,6,-82
+17:04:09,DELTACALOR-6ad794,b'4\xab\x95j\xd7\x95',3,1,-87
+17:04:09,DELTACALOR-c93fa8,b'\xa4\xe5|\xc9?\xa9',3,1,-92
+17:04:09,DELTACALOR-c940b4,b'\xa4\xe5|\xc9@\xb5',3,1,-94
+17:04:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:11,Livebox-6A40,b'$\x7f \x17j@',3,1,-88
+17:04:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-34
+17:04:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:04:15,FreeWifi_secure,b'h\xa3x\x81X\r',5,11,-95
+17:04:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:04:17,Bbox-B0D2A3FB,b'0$xm|\xd0',4,6,-77
+17:04:17,SFR_24E0,b'\xe4]Q\xf5$\xe6',4,6,-80
+17:04:17,SFR WiFi FON,b'r]Q\xf5$\xe7',0,6,-80
+17:04:17,Freebox-47B441,b'p\xfc\x8fG\xb4B',3,11,-80
+17:04:17,SFR WiFi Mobile,b'r]Q\xf5$\xe5',5,6,-81
+17:04:19,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:19,Freebox-47B441,b'p\xfc\x8fG\xb4B',3,11,-82
+17:04:19,FreeWifi_secure,b'\xe4\x9e\x12\xcf\x17V',5,1,-93
+17:04:20,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-34
+17:04:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:22,Salon.b,b'\xfa\x8f\xca\x95A\xf1',0,6,-88
+17:04:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:04:24,Salon.b,b'\xfa\x8f\xca\x95A\xf1',0,6,-78
+17:04:24,Livebox-9CDA,b'h\x15\x907\x9c\xda',4,11,-78
+17:04:24,Big Blue Box,b'\xcc\xf4\x119m\x87',3,11,-94
+17:04:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:26,Big Blue Box,b'\xcc\xf4\x11&\xb6W',3,1,-84
+17:04:26,Big Blue Box,b'\xcc\xf4\x119m\x87',3,11,-92
+17:04:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:28,SFR WiFi FON,b'ra\xf4\x00\xde\xe7',0,11,-83
+17:04:28,SFR_DEE0,b'la\xf4\x00\xde\xe6',4,11,-84
+17:04:28,SFR WiFi Mobile,b'ra\xf4\x00\xde\xe5',5,11,-85
+17:04:28,Freebox-BK,b'h\xa3x\x8b^\xc8',3,6,-95
+17:04:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:32,familleBk,b'P\xd4\xf7Y\xfb\xb5',4,5,-87
+17:04:32,Freebox-5BEB6B,b' f\xcf\xed\xdb\x02',3,6,-91
+17:04:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:34,FreeWifi_secure,b'\xf4\xca\xe5\xf6\xe3z',5,7,-90
+17:04:34,SFR_D8B0,b'\x00%\x15\xe9\xd8\xb4',2,11,-95
+17:04:36,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:04:36,Freebox-427B02,b'\xf4\xca\xe5\xf6\xe3x',4,7,-82
+17:04:36,Livebox-3F06,b'x\x81\x022?\x06',3,11,-92
+17:04:38,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:04:38,Livebox-3F06,b'x\x81\x022?\x06',3,11,-81
+17:04:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-24
+17:04:39,SFR_2B0F,b'X\xfc P+\x10',4,6,-78
+17:04:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:43,CPL_WIFI_550_2.4GHz,b'\x8cmP\xa9\x99\xc4',4,1,-85
+17:04:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:45,DIRECT-30-HP ENVY 7640 series,b'\xc8\xd3\xff\xc7N1',3,1,-89
+17:04:45,SFR-6218,b'\xa0\x1b}\xeeb\x1e',4,1,-90
+17:04:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:04:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:49,Bbox-437130C2,b'85\xfb\xf7\x06`',4,11,-94
+17:04:51,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:04:51,Livebox-3DD6,b'\xa4>Q\x8b:\xd6',3,6,-75
+17:04:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:04:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:04:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-24
+17:04:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:05:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:00,SFR WiFi Mobile,b'ra\xf4\r\xcf\x9d',5,1,-88
+17:05:00,SFR_CF98,b'la\xf4\r\xcf\x9e',4,1,-89
+17:05:00,SFR WiFi FON,b'ra\xf4\r\xcf\x9f',0,1,-89
+17:05:02,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:02,SFR WiFi FON,b'ra\xf4\r\xcf\x9f',0,1,-80
+17:05:02,SFR_CF98,b'la\xf4\r\xcf\x9e',4,1,-81
+17:05:02,SFR WiFi Mobile,b'ra\xf4\r\xcf\x9d',5,1,-82
+17:05:04,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:04,SFR WiFi Mobile,b'ra\xf4\r\xcf\x9d',5,1,-85
+17:05:04,SFR WiFi FON,b'ra\xf4\r\xcf\x9f',0,1,-86
+17:05:06,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:11,Livebox-75E8,b'x\x94\xb4<u\xe8',3,1,-96
+17:05:11,FreeWifi_secure,b'h\xa3x\x1b[\xd2',5,11,-96
+17:05:11,FreeWifi_secure,b'p\xfc\x8f\xe9\xb6v',5,11,-97
+17:05:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:13,freeboxdemeyer,b'boy\x9brl',2,1,-80
+17:05:13,FreeWifi_secure,b'boy\x9bro',5,1,-81
+17:05:13,FreeWifi_secure,b'h\xa3x_J2',5,7,-92
+17:05:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:15,Freebox-5B4693,b' f\xcf\xec\xec\xe6',3,11,-85
+17:05:17,Livebox-7940,b'P9/ y@',3,1,-87
+17:05:19,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:19,Livebox-BC84,b'\xc0\xd7\xaad\xbc\x84',3,1,-85
+17:05:19,SFR-b120,b'\xb8\xd9M\x07\xb1&',4,6,-89
+17:05:19,SFR-ad10,b'\x007\xb7\x0e\xad\x16',4,6,-91
+17:05:21,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:05:21,Livebox-BC84,b'\xc0\xd7\xaad\xbc\x84',3,1,-82
+17:05:23,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:05:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-32
+17:05:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:32,Livebox-1538,b'`\x8d&\x04\x158',3,1,-94
+17:05:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:05:34,Livebox-BC84,b'\xc0\xd7\xaad\xbc\x84',3,1,-84
+17:05:36,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:05:37,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:41,Livebox-1538,b'`\x8d&\x04\x158',3,1,-89
+17:05:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:05:47,SFR_ABC8,b'\xcc-\x1b\xbb\xab\xce',4,6,-86
+17:05:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:49,SFR_ABC8,b'\xcc-\x1b\xbb\xab\xce',4,6,-84
+17:05:51,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:51,Livebox-4BC0,b'\x98Be#K\xc0',3,11,-82
+17:05:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:52,Livebox-4BC0,b'\x98Be#K\xc0',3,11,-88
+17:05:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:05:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:05:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:06:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:06:04,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:05,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:06:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:06:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-34
+17:06:09,freebox_YANNMOAL,b'\xe4\x9e\x12\xd7\x07P',4,7,-88
+17:06:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:06:13,freebox_YANNMOAL,b'\xe4\x9e\x12\xd7\x07P',4,7,-76
+17:06:13,FreeWifi_secure,b'\xe4\x9e\x12\xd7\x07R',5,7,-77
+17:06:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-24
+17:06:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:06:18,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:06:18,Livebox-7FD0,b'\x08\x87\xc62\x7f\xd0',3,1,-95
+17:06:20,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-18
+17:06:20,Mbolani,b'{\x9e\xfc\xddt0',4,11,-96
+17:06:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-32
+17:06:22,CREDITMUTUEL,b'd\xf6\x9dJX2',0,6,-83
+17:06:22,Livebox-7FD0,b'\x08\x87\xc62\x7f\xd0',3,1,-90
+17:06:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-23
+17:06:24,Livebox-7FD0,b'\x08\x87\xc62\x7f\xd0',3,1,-68
+17:06:24,Livebox-4A80,b'\x8c\x19\xb5\x8eJ\x80',3,11,-82
+17:06:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:26,SFR_83E0,b'\xcc-\x1bq\x83\xe6',4,1,-83
+17:06:26,SFR WiFi FON,b'r-\x1bq\x83\xe7',0,1,-83
+17:06:26,SFR WiFi Mobile,b'r-\x1bq\x83\xe5',5,1,-84
+17:06:26,Livebox-CDC6,b'D\xa6\x1e\xa2\xcd\xc6',3,1,-84
+17:06:26,VDA-Notaires,b'\x04\xf0!E\xc7\xea',3,6,-85
+17:06:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-35
+17:06:28,NOVA_7760,b'\x04\x95\xe6\x90wi',3,6,-69
+17:06:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:30,SFR_6A6F,b'\xcc\x19\xa8\xd0jp',4,11,-74
+17:06:30,SFR WiFi Mobile,b'ja\xf4\x04\t\xa5',5,1,-87
+17:06:30,SFR WiFi FON,b'ja\xf4\x04\t\xa7',0,1,-90
+17:06:30,SFR_09A0,b'la\xf4\x04\t\xa6',4,1,-91
+17:06:30,DIRECT-88-HP ENVY Photo 6200,b'\xb6\xb6\x86\x1a9\x88',3,1,-91
+17:06:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:06:36,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:06:36,Mairie_VdAscq,b'D\x1e\x98\x0b\xcf\x88',0,3,-85
+17:06:37,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:06:39,w1f189C3,"b'\xec\xe1\xa9""\xb7\xe0'",5,11,-88
+17:06:39,m0bi89C3,"b'\xec\xe1\xa9""\xb7\xe1'",5,11,-90
+17:06:39,SETUP,b'\xd8\x0f\x99\x82FV',0,11,-92
+17:06:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-34
+17:06:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:43,Livebox-5780,b'h?}*W\x80',3,6,-87
+17:06:43,SFR WiFi Mobile,b'\xaa%\x15S\xda\x1b',5,11,-87
+17:06:43,NEUF_DA14,b'\x00%\x15S\xda\x18',2,11,-87
+17:06:43,SFR WiFi FON,b'\xaa%\x15S\xda\x19',0,11,-87
+17:06:43,XXXX_C9F8,b'`5\xc0\x16\xc9\xfe',4,11,-92
+17:06:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:06:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:47,XXXX_C9F8,b'`5\xc0\x16\xc9\xfe',4,11,-90
+17:06:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:51,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:51,XXXX_C9F8,b'`5\xc0\x16\xc9\xfe',4,11,-90
+17:06:51,HUAWEI-E5186-AFC6,b'\x1c\x8e\\\x82\xaf\xc6',3,8,-95
+17:06:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:52,OPPO Reno5,"b""\xfa\xea\x94\xeaR'""",3,4,-91
+17:06:52,SFR WiFi FON,b'j-\x1b\x85M\xef',0,1,-93
+17:06:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:54,OPPO Reno5,"b""\xfa\xea\x94\xeaR'""",3,4,-80
+17:06:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:56,OPPO Reno5,"b""\xfa\xea\x94\xeaR'""",3,4,-77
+17:06:56,"Ext_2,4GHz",b'\xa4+\xb0 \x1d\x98',4,1,-85
+17:06:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:06:58,Livebox-C0B0,b'`\x8d&K\xc0\xb0',3,11,-84
+17:07:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:07:00,Livebox-ccc2,b'\x84\xa0n\x86\xcc\xc6',4,1,-78
+17:07:00,Freebox de Rob'z,b'\xdc\x00\xb0\xa8\x0f\x08',3,11,-92
+17:07:02,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:04,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:06,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-32
+17:07:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-33
+17:07:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:13,SFR WiFi FON,b'j-\x1b\x85M\xef',0,1,-94
+17:07:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:17,Livebox-D700,b'|\xc1w*\xd7\x00',3,11,-97
+17:07:19,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:20,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:22,Livebox-D700,b'|\xc1w*\xd7\x00',3,11,-82
+17:07:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:24,SFR_3908,b'la\xf4\x079\x0e',4,1,-82
+17:07:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:07:26,SFR WiFi Mobile,b'ra\xf4\x079\r',5,1,-85
+17:07:26,SFR_3908,b'la\xf4\x079\x0e',4,1,-85
+17:07:26,SFR WiFi FON,b'ra\xf4\x079\x0f',0,1,-85
+17:07:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:28,SFR WiFi Mobile,b'r-\x1b\xb9L\xfd',5,1,-89
+17:07:28,SFR_4CF8,b'\xcc-\x1b\xb9L\xfe',4,1,-89
+17:07:28,SFR WiFi FON,b'r-\x1b\xb9L\xff',0,1,-90
+17:07:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:30,Cabinet,b'\xa8j\xbb\xf1\xde\xb0',4,6,-82
+17:07:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:32,Cabinet,b'\xa8j\xbb\xf1\xde\xb0',4,6,-74
+17:07:32,FreeWifi_secure,b'p\xfc\x8fV\xfdA',5,6,-88
+17:07:32,Livebox-8BD6,b'D\xa6\x1e\x9e\x8b\xd6',3,11,-91
+17:07:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:34,Livebox-6870,b'\xec\xbe\xdd{hp',3,11,-84
+17:07:34,freebox_WATTEBLE_NOVA,"b""4'\x92@\xbe[""",4,11,-94
+17:07:36,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:37,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:39,Livebox-3dd6,b'0|\xb2\xec:\xda',4,1,-84
+17:07:39,SFR WiFi Mobile,b'j-\x1b\xb7\x82u',5,6,-87
+17:07:39,SFR_8270,b'\xcc-\x1b\xb7\x82v',4,6,-87
+17:07:39,SFR WiFi FON,b'j-\x1b\xb7\x82w',0,6,-87
+17:07:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:41,SFR WiFi Mobile,b'r-\x1b~\xc9:',5,11,-86
+17:07:41,SFR_C938,b'\xcc-\x1b~\xc9>',4,11,-86
+17:07:41,SFR WiFi FON,b'r-\x1b~\xc9?',0,11,-86
+17:07:41,Livebox-3dd6,b'0|\xb2\xec:\xda',4,1,-88
+17:07:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:07:43,SFR WiFi Mobile,b'r-\x1b~\xc9:',5,11,-89
+17:07:43,SFR WiFi FON,b'r-\x1b~\xc9?',0,11,-89
+17:07:43,freebox_les_maguettes,"b""4'\x92:\xf2\x18""",4,11,-89
+17:07:43,SFR_C938,b'\xcc-\x1b~\xc9>',4,11,-90
+17:07:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:49,Freebox-1B401C,b'\xdc\x00\xb0w\xc8T',3,11,-83
+17:07:51,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:07:53,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-32
+17:07:54,Livebox-93CC,b'\xe4u\xdcr\x93\xcc',3,1,-90
+17:07:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:07:56,SFR WiFi Mobile,b'ba\xf4>-\xdd',5,1,-78
+17:07:56,SFR_2DD8,b'la\xf4>-\xde',4,1,-78
+17:07:56,SFR WiFi FON,b'ba\xf4>-\xdf',0,1,-79
+17:07:56,Bbox-CCHLV,b'\x10\xd7\xb0\xda\xa2\x16',4,1,-97
+17:07:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:02,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:08:02,CIC,b'd\xf6\x9dJa\xe2',0,1,-87
+17:08:02,Livebox-449E,b'\xa0\x1b}\x85D\x9e',4,6,-93
+17:08:04,CIC,b'd\xf6\x9dJa\xe2',0,1,-77
+17:08:06,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:08:08,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:08:11,bureau_2.4,b'pOW}\xbaz',3,1,-85
+17:08:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-38
+17:08:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:17,bureau_2.4_ETG,b'\xcc2\xe5\x95\xecE',3,1,-94
+17:08:19,Livebox-53d8,b'\x84\xa1\xd1\xdbS\xdc',4,11,-96
+17:08:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:08:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-39
+17:08:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:32,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:32,Maison3,b'X\xefh\xb2\xc9x',3,1,-88
+17:08:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:36,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:37,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:08:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:43,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:08:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-15
+17:08:45,Livebox-4AA0,b'\x98Be\x07J\xa0',3,11,-83
+17:08:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-15
+17:08:50,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:08:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:08:56,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-21
+17:08:58,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-15
+17:09:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-15
+17:09:02,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:09:05,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:09:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-38
+17:09:07,ELOALE,b'\xd8\r\x17Ge\xf9',3,11,-94
+17:09:09,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:09:11,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-23
+17:09:13,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:09:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:09:16,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-37
+17:09:18,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-36
+17:09:20,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:09:22,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:09:24,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-17
+17:09:26,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-16
+17:09:26,Lion Brigode,b'\x80*\xa8J\x85\x12',3,11,-95
+17:09:28,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-22
+17:09:28,Work 0 Lion,b'\x86*\xa8J\x85\x12',3,11,-89
+17:09:28,Lion Brigode,b'\x80*\xa8J\x85\x12',3,11,-90
+17:09:29,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:09:31,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:09:33,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:09:35,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-59
+17:09:37,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-55
+17:09:39,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-53
+17:09:41,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:09:42,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:09:46,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:09:48,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-59
+17:09:50,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-52
+17:09:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-51
+17:09:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-52
+17:09:55,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-51
+17:09:57,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-51
+17:09:59,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:10:01,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-51
+17:10:05,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:10:07,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-44
+17:10:08,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:10:10,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:10:12,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:10:14,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:10:16,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:10:18,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:10:20,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:10:21,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-59
+17:10:23,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:10:27,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:10:38,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-58
+17:10:38,Freebox-755631,b'h\xa3xuV2',3,6,-91
+17:10:40,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-54
+17:10:42,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:10:42,Livebox-5482,b'<\x98r%`\xd2',3,6,-89
+17:10:44,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:10:45,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:10:47,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:10:49,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-51
+17:10:49,CB,b'\xd0!\xf9\x8a\x0f\xf6',3,11,-94
+17:10:51,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-52
+17:10:51,{{{Synlab Nomade}}},b'\x16\x18\n\x7f\x89X',3,1,-84
+17:10:53,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:10:53,{{{Synlab Nomade}}},b'\x16\x18\n\x7f\x89O',3,6,-92
+17:10:55,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-53
+17:10:55,SFR WiFi FON,b'j-\x1b\x85\x07\x17',0,1,-94
+17:10:57,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-44
+17:10:59,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:11:00,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:11:02,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:11:02,ARAPL,b'x\x8a Z\x02\xc6',3,1,-90
+17:11:02,ARAPL_Invite,b'~\x8a Z\x02\xc6',3,1,-91
+17:11:02,Arapl_Formation,b'\x82\x8a Z\x02\xc6',3,1,-91
+17:11:02,ARAPL_Invite,b'~\x8a Z\x16t',3,11,-91
+17:11:02,Arapl_Formation,b'\x82\x8a Z\x16t',3,11,-92
+17:11:02,ARAPL,b'x\x8a Z\x16t',3,11,-92
+17:11:04,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:11:08,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:11:08,Khad et Rom 24,"b""4'\x92\xca\x980""",3,6,-92
+17:11:08,FREEBOX_SAMIA,b'h\xa3x\xc3%|',3,13,-95
+17:11:10,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:11:12,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:11:12,Livebox-4870,b'D\xd4T#Hx',3,1,-94
+17:11:14,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-44
+17:11:15,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-50
+17:11:17,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:11:17,SFR_C7B8,b'`5\xc0\xa5\xc7\xbc',4,6,-89
+17:11:17,SFR WiFi FON,b'r-\x1b\xfdJ\xb7',0,1,-92
+17:11:17,SFR_4AB0,b'\xcc-\x1b\xfdJ\xb6',4,1,-93
+17:11:17,FreeWifi_secure,b'h\xa3xu\xcaQ',5,11,-93
+17:11:17,Bbox-6985C1E4_EXT,b'\xe4\xc3*l\x95B',4,11,-95
+17:11:21,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-46
+17:11:23,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-56
+17:11:25,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-58
+17:11:27,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-56
+17:11:29,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-57
+17:11:29,Livebox-A800,b'P9//\xa8\x00',3,11,-90
+17:11:29,SFR_C38F,b'X\xfc k\xc3\x90',4,6,-91
+17:11:29,FreeWifi_secure,b'\xf4\xca\xe5\x89\x01>',5,6,-93
+17:11:30,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-72
+17:11:30,Livebox-A800,b'P9//\xa8\x00',3,11,-72
+17:11:30,Freebox-60740B,b'\xf4\xca\xe5\x89\x01<',3,6,-90
+17:11:32,FreeWifi_secure,b'\xf4\xca\xe5\x89\x01>',5,6,-87
+17:11:32,ARAPL,b'\xf0\x9f\xc2\xf1\xd6\xee',3,6,-91
+17:11:32,FreeWifi_secure,b'p\xfc\x8f0\xe3\x1a',5,11,-96
+17:11:34,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-62
+17:11:34,SFR_D478,b'\xcc-\x1b\xfe\xd4~',4,6,-91
+17:11:34,SFR WiFi Mobile,b'b-\x1b\xfe\xd4}',5,6,-93
+17:11:36,SFR WiFi Mobile,b'r]Q\xce\x1d\x9d',5,1,-85
+17:11:36,SFR_1D98,b'\xe4]Q\xce\x1d\x9e',4,1,-86
+17:11:36,SFR WiFi FON,b'r]Q\xce\x1d\x9f',0,1,-87
+17:11:36,SFR WiFi Mobile,b'b-\x1b\xfe\xd4}',5,6,-88
+17:11:36,SFR_D478,b'\xcc-\x1b\xfe\xd4~',4,6,-88
+17:11:36,SFR WiFi FON,b'b-\x1b\xfe\xd4\x7f',0,6,-88
+17:11:36,SFR WiFi Mobile,b'r-\x1b\xfdJ\xb5',5,1,-89
+17:11:36,SFR_4AB0,b'\xcc-\x1b\xfdJ\xb6',4,1,-89
+17:11:36,SFR WiFi FON,b'r-\x1b\xfdJ\xb7',0,1,-89
+17:11:36,MMagaF,b' \x9e\xf7S\xce\x81',4,13,-90
+17:11:36,Wifi Match Gratuit,b' \x9e\xf7S\xce\x83',0,13,-90
+17:11:36,MBure,b' \x9e\xf7S\xce\x80',4,13,-91
+17:11:36,SmatchTrace,b' \x9e\xf7S\xce\x82',3,13,-91
+17:11:38,SFR_1D98,b'\xe4]Q\xce\x1d\x9e',4,1,-86
+17:11:38,SFR WiFi FON,b'r]Q\xce\x1d\x9f',0,1,-87
+17:11:38,SFR WiFi Mobile,b'r]Q\xce\x1d\x9d',5,1,-88
+17:11:38,Livebox-A800,b'P9//\xa8\x00',3,11,-94
+17:11:38,Livebox-33C0,b'h?}\xf43\xc0',3,11,-97
+17:11:40,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:11:42,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-53
+17:11:44,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-49
+17:11:44,SFR WiFi Mobile,b'r]Q\xce\x1d\x9d',5,1,-82
+17:11:44,SFR_1D98,b'\xe4]Q\xce\x1d\x9e',4,1,-82
+17:11:44,SFR WiFi Mobile,b'b-\x1b\xfe\xd4}',5,6,-86
+17:11:44,SFR_4AB0,b'\xcc-\x1b\xfdJ\xb6',4,1,-88
+17:11:44,SFR_D478,b'\xcc-\x1b\xfe\xd4~',4,6,-88
+17:11:44,SFR WiFi FON,b'b-\x1b\xfe\xd4\x7f',0,6,-88
+17:11:44,freebox_regben,b'h\xa3xu\xcaO',4,11,-93
+17:11:46,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-55
+17:11:46,w1f189C3,b'{\xac\x9eU\xea\x90',5,6,-87
+17:11:46,Freebox-60740B,b'\xf4\xca\xe5\x89\x01<',3,6,-91
+17:11:48,SFR WiFi Mobile,b'r]Q\xce\x1d\x9d',5,1,-79
+17:11:48,SFR_1D98,b'\xe4]Q\xce\x1d\x9e',4,1,-79
+17:11:48,SFR WiFi FON,b'r]Q\xce\x1d\x9f',0,1,-80
+17:11:48,SFR WiFi FON,b'r-\x1b\xfdJ\xb7',0,1,-86
+17:11:48,SFR_4AB0,b'\xcc-\x1b\xfdJ\xb6',4,1,-87
+17:11:48,SFR WiFi Mobile,b'r-\x1b\xfdJ\xb5',5,1,-90
+17:11:48,w1f189C3,b'{\xac\x9eU\xea\x90',5,6,-90
+17:11:48,Bbox-6985C1E4_EXT,b'\xe4\xc3*l\x95B',4,11,-92
+17:11:50,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-48
+17:11:50,SFR WiFi FON,b'r]Q\xce\x1d\x9f',0,1,-89
+17:11:50,Livebox-A800,b'P9//\xa8\x00',3,11,-90
+17:11:52,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-47
+17:11:52,SFR_C7B8,b'`5\xc0\xa5\xc7\xbc',4,6,-91
+17:11:52,FreeWifi_secure,b'h\xa3xu\xcaQ',5,11,-94
+17:11:52,Martinez,"b""4'\x92\xc7\xdf$""",4,5,-96
+17:11:54,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-45
+17:11:54,FreeWifi_secure,b'\x8c\x97\xea\x1eu\xda',5,11,-93
+17:11:55,Jana :p,b'\xfe\xba\x18\x1c\x14\x92',3,6,-27
+17:11:55,FreeWifi_secure,b'h\xa3xu\xcaQ',5,11,-92
