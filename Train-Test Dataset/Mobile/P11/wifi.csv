@@ -1,0 +1,753 @@
+Time,ssid,bssid,sec,channel,rssi
+18:12:58,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-41
+18:13:02,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-46
+18:13:06,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-45
+18:13:10,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-47
+18:13:14,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-49
+18:13:18,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-48
+18:13:22,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-47
+18:13:25,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-40
+18:13:29,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-47
+18:13:33,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-49
+18:13:37,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-32
+18:13:41,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-79
+18:13:45,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-60
+18:13:49,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-54
+18:13:53,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-60
+18:13:57,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:14:01,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-58
+18:14:05,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:14:09,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-60
+18:14:13,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-56
+18:14:17,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-63
+18:14:20,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:14:24,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-56
+18:14:28,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-52
+18:14:32,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-54
+18:14:36,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-52
+18:14:40,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:14:44,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-60
+18:14:48,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-80
+18:14:52,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-71
+18:14:56,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:15:00,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-59
+18:15:04,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-57
+18:15:08,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-67
+18:15:12,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:15:15,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:15:19,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:15:23,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:15:27,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-69
+18:15:31,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-55
+18:15:35,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-58
+18:15:39,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:15:43,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-55
+18:15:47,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-64
+18:15:51,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-66
+18:15:55,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-59
+18:15:59,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-70
+18:16:03,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-72
+18:16:07,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-55
+18:16:07,DIRECT-7b-HP M283 LaserJet,b'B[\xd8\xb6s{',3,6,-89
+18:16:07,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-95
+18:16:11,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-55
+18:16:14,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-57
+18:16:14,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-93
+18:16:18,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-63
+18:16:22,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:16:22,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-79
+18:16:22,DIRECT-7b-HP M283 LaserJet,b'B[\xd8\xb6s{',3,6,-92
+18:16:26,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-67
+18:16:26,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-70
+18:16:26,ZZ Oppo FX3 Neo,b'NO\xb8\xbb\xed\x9e',3,1,-93
+18:16:30,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-51
+18:16:30,ZZ Oppo FX3 Neo,b'NO\xb8\xbb\xed\x9e',3,1,-87
+18:16:30,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-93
+18:16:30,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-95
+18:16:34,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:16:34,ZZ Oppo FX3 Neo,b'NO\xb8\xbb\xed\x9e',3,1,-90
+18:16:34,DIRECT-7b-HP M283 LaserJet,b'B[\xd8\xb6s{',3,6,-91
+18:16:34,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-92
+18:16:34,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-93
+18:16:38,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-52
+18:16:38,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-80
+18:16:38,ZZ Oppo FX3 Neo,b'NO\xb8\xbb\xed\x9e',3,1,-88
+18:16:42,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-55
+18:16:42,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-92
+18:16:46,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-59
+18:16:46,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-91
+18:16:50,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-54
+18:16:50,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-91
+18:16:50,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-94
+18:16:54,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-58
+18:16:54,SmiirlSetup,b'\xe0\x8e<9U\xba',0,5,-88
+18:16:54,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-88
+18:16:54,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-93
+18:16:54,ZZ Oppo FX3 Neo,b'NO\xb8\xbb\xed\x9e',3,1,-94
+18:16:58,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-69
+18:16:58,ZZ Oppo FX3 Neo,b'NO\xb8\xbb\xed\x9e',3,1,-89
+18:16:58,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-89
+18:16:58,DIRECT-7b-HP M283 LaserJet,b'B[\xd8\xb6s{',3,6,-91
+18:16:58,SmiirlSetup,b'\xe0\x8e<9U\xba',0,5,-91
+18:16:58,Livebox-F420,b'\x08\x87\xc6\x18\xf4 ',3,11,-95
+18:17:02,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:17:02,SmiirlSetup,b'\xe0\x8e<9U\xba',0,5,-92
+18:17:02,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-93
+18:17:06,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:17:10,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-57
+18:17:10,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-85
+18:17:14,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:17:14,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-79
+18:17:18,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-63
+18:17:18,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-80
+18:17:22,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-71
+18:17:22,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-73
+18:17:25,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-59
+18:17:25,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-85
+18:17:29,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-50
+18:17:33,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-66
+18:17:33,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-95
+18:17:37,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-66
+18:17:37,Hotspot7CE6,b'\x00T\xaf\xef|\xe6',4,11,-94
+18:17:41,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-67
+18:17:45,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-58
+18:17:45,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-92
+18:17:49,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-60
+18:17:49,MINI54218 CarPlay,"b""\xa4\x06\xe9'8\x84""",3,11,-93
+18:17:53,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-64
+18:17:53,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-92
+18:17:53,MINI54218 CarPlay,"b""\xa4\x06\xe9'8\x84""",3,11,-94
+18:17:57,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-64
+18:17:57,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-89
+18:18:01,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-54
+18:18:01,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-90
+18:18:05,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-55
+18:18:05,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-89
+18:18:09,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-66
+18:18:09,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-81
+18:18:09,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-91
+18:18:13,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-76
+18:18:13,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-84
+18:18:17,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-67
+18:18:17,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-84
+18:18:17,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-94
+18:18:21,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-73
+18:18:21,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-89
+18:18:21,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-91
+18:18:21,ELM_Chapelle_EXT,b'\xd82\x14e\xaf\xb1',4,3,-92
+18:18:21,ELM_Chapelle,b'\x84\x16\xf9\xe4C\xe2',4,3,-93
+18:18:21,Numericable-80ae,b'\xe0\xce\xc3\xce\x80\xb4',4,11,-93
+18:18:21,HUAWEI Y6 2019,b'V\x92\tF\x99\x90',3,6,-97
+18:18:25,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-56
+18:18:25,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-90
+18:18:25,ELM_Chapelle_EXT,b'\xd82\x14e\xaf\xb1',4,3,-91
+18:18:25,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-93
+18:18:25,Numericable-80ae,b'\xe0\xce\xc3\xce\x80\xb4',4,11,-94
+18:18:29,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-59
+18:18:29,ELM_Chapelle_EXT,b'\xd82\x14e\xaf\xb1',4,3,-84
+18:18:29,Numericable-80ae,b'\xe0\xce\xc3\xce\x80\xb4',4,11,-90
+18:18:29,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-91
+18:18:29,HUAWEI Y6 2019,b'V\x92\tF\x99\x90',3,6,-94
+18:18:33,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-73
+18:18:33,Businesslivebox_9da2,b'\x00&M~\x9d\xa2',2,1,-88
+18:18:33,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-91
+18:18:33,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-94
+18:18:33,ELM_Chapelle_EXT,b'\xd82\x14e\xaf\xb1',4,3,-94
+18:18:37,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-63
+18:18:37,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-88
+18:18:37,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-92
+18:18:41,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-68
+18:18:41,ELM_Chapelle_EXT,b'\xd82\x14e\xaf\xb1',4,3,-91
+18:18:41,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-93
+18:18:41,Numericable-80ae,b'\xe0\xce\xc3\xce\x80\xb4',4,11,-94
+18:18:44,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-71
+18:18:44,Livebox-E2C0,b'\x08\x87\xc6\xcf\xe2\xc0',3,6,-92
+18:18:48,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-67
+18:18:48,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-88
+18:18:48,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-91
+18:18:52,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-72
+18:18:52,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-88
+18:18:52,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-94
+18:18:56,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:18:56,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-87
+18:18:56,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-93
+18:19:00,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-62
+18:19:00,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-85
+18:19:00,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-88
+18:19:00,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-88
+18:19:00,Livebox-1e90,b'l\xba\xb8F\x1e\x94',4,6,-92
+18:19:04,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-53
+18:19:04,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-80
+18:19:04,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-90
+18:19:08,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-68
+18:19:08,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-86
+18:19:08,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-90
+18:19:08,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-91
+18:19:12,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-61
+18:19:12,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-83
+18:19:12,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-87
+18:19:12,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-95
+18:19:16,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-71
+18:19:16,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-73
+18:19:16,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-74
+18:19:16,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-86
+18:19:20,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-69
+18:19:20,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-79
+18:19:20,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-79
+18:19:20,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-91
+18:19:24,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-73
+18:19:24,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-78
+18:19:24,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-88
+18:19:28,Jana :p,b'\xde\x1e\xc9\x83\x18\xb9',3,6,-67
+18:19:28,SFR-748c,b'\x007\xb7Nt\x92',4,1,-87
+18:19:28,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-87
+18:19:28,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-92
+18:19:32,SFR-748c,b'\x007\xb7Nt\x92',4,1,-75
+18:19:32,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-88
+18:19:32,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-91
+18:19:36,SFR-748c,b'\x007\xb7Nt\x92',4,1,-81
+18:19:36,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-93
+18:19:36,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-93
+18:19:36,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-94
+18:19:40,freeboxAS,b'\xac\x15\xa2\x13i\xc3',4,5,-89
+18:19:40,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-92
+18:20:07,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:20:07,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-85
+18:20:07,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-90
+18:20:07,My VW 6621,b'\xd2@\xefeL\x1b',3,6,-94
+18:20:07,FreeWifi_secure,"b""4'\x924\xbcN""",5,9,-96
+18:20:11,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-48
+18:20:11,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-92
+18:20:11,System_NameAe116,b'\x9e{\xbf\x87\xe9b',3,6,-95
+18:20:11,FreeWifi_secure,b'h\xa3x\xac\x15\xf5',5,6,-95
+18:20:11,Livebox-9340,b'P9/N\x93@',3,1,-96
+18:20:15,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:20:15,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-93
+18:20:15,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-95
+18:20:15,SFR WiFi Mobile,b'j-\x1b\xf6\x9a-',5,6,-95
+18:20:19,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:20:19,Livebox-9340,b'P9/N\x93@',3,1,-83
+18:20:19,Freebox-A40F9A,b'h\xa3x\xac\x15\xf4',3,6,-93
+18:20:19,Bbox-37437A67,b'85\xfb\xf7\xe9\xe0',4,1,-94
+18:20:19,FreeWifi_secure,b'h\xa3x\xac\x15\xf5',5,6,-94
+18:20:23,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-75
+18:20:23,Livebox-2510,b'\x04\xe3\x1ae%\x10',3,1,-92
+18:20:23,FreeWifi_secure,b'h\xa3x\xac\x15\xf5',5,6,-92
+18:20:23,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-92
+18:20:23,SFR WiFi Mobile,b'j-\x1b\xf6\x9a-',5,6,-93
+18:20:23,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-94
+18:20:23,Livebox-9340,b'P9/N\x93@',3,1,-95
+18:20:23,Freebox-A40F9A,b'h\xa3x\xac\x15\xf4',3,6,-95
+18:20:27,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-64
+18:20:27,Livebox-9340,b'P9/N\x93@',3,1,-94
+18:20:27,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-94
+18:20:27,Freebox-A40F9A,b'h\xa3x\xac\x15\xf4',3,6,-94
+18:20:27,FreeWifi_secure,b'h\xa3x\xac\x15\xf5',5,6,-94
+18:20:27,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-95
+18:20:27,freeboxAS,b'\xac\x15\xa2<\xc7\xca',3,5,-95
+18:20:31,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:20:31,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-92
+18:20:31,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-92
+18:20:31,SFR-748c,b'\x007\xb7Nt\x92',4,1,-93
+18:20:31,Freebox-A40F9A,b'h\xa3x\xac\x15\xf4',3,6,-95
+18:20:35,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-73
+18:20:35,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-91
+18:20:35,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-92
+18:20:39,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:20:39,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-92
+18:20:39,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-93
+18:20:39,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-94
+18:20:39,SFR WiFi Mobile,b'j-\x1b\xf6\x9a-',5,6,-94
+18:20:43,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:20:43,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-93
+18:20:43,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-94
+18:20:43,Livebox-7ECF,b'0|\xb2\x1c~\xcf',4,11,-95
+18:20:47,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:20:47,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-92
+18:20:47,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-92
+18:20:47,Livebox-9340,b'P9/N\x93@',3,1,-93
+18:20:47,SFR WiFi Mobile,b'j-\x1b\xf6\x9a-',5,6,-93
+18:20:51,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:20:51,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-89
+18:20:51,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-92
+18:20:51,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-95
+18:20:51,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-96
+18:20:55,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:20:55,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-82
+18:20:55,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-94
+18:20:55,SFR WiFi Mobile,b'j-\x1b\xf6\x9a-',5,6,-94
+18:20:55,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-94
+18:20:59,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:20:59,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-83
+18:20:59,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-86
+18:20:59,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-91
+18:20:59,SFR WiFi FON,b'j-\x1b\xf6\x9a/',0,6,-93
+18:20:59,FreeWifi_secure,b'\xf4\xca\xe5\xf0\xd6y',5,2,-94
+18:20:59,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-95
+18:21:03,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:21:03,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-82
+18:21:03,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-88
+18:21:03,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-93
+18:21:03,Freebox-34BC4C,"b""4'\x924\xbcM""",3,9,-94
+18:21:03,SFR_9A28,b'\xcc-\x1b\xf6\x9a.',4,6,-94
+18:21:03,SFR WiFi Mobile,b'j-\x1b\xf6\x9a-',5,6,-95
+18:21:07,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:21:07,CPL_WIFI_1200_2.4G_D07730,b'\xd4:.\xd0w0',3,1,-88
+18:21:07,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-90
+18:21:07,Bbox-37437A67,b'85\xfb\xf7\xe9\xe0',4,1,-91
+18:21:07,FreeWifi_secure,b'\xf4\xca\xe5\xf0\xd6y',5,2,-92
+18:21:11,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:21:11,peyrobox,b'\xf4\xca\xe5\xf0\xd6x',4,2,-81
+18:21:11,FreeWifi_secure,b'\xf4\xca\xe5\xf0\xd6y',5,2,-82
+18:21:11,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-92
+18:21:11,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-92
+18:21:11,FreeWifi_secure,"b""4'\x924\xbcN""",5,9,-92
+18:21:15,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-74
+18:21:15,Freebox-34BC4C,"b""4'\x924\xbcM""",3,9,-76
+18:21:15,peyrobox,b'\xf4\xca\xe5\xf0\xd6x',4,2,-87
+18:21:15,FreeWifi_secure,"b""4'\x924\xbcN""",5,9,-87
+18:21:15,FreeWifi_secure,"b""4'\x92A\xc8\xc9""",5,5,-91
+18:21:15,Livebox-3454,b'\xc0\xd7\xaa^4T',3,11,-93
+18:21:15,freeboxAS,"b""4'\x92A\xc8\xc8""",3,5,-94
+18:21:19,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:21:19,Freebox-34BC4C,"b""4'\x924\xbcM""",3,9,-86
+18:21:23,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:21:23,FreeWifi_secure,"b""4'\x924\xbcN""",5,9,-96
+18:21:27,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:21:27,Freebox-34BC4C,"b""4'\x924\xbcM""",3,9,-91
+18:21:27,FreeWifi_secure,"b""4'\x924\xbcN""",5,9,-95
+18:21:31,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-48
+18:21:31,FreeWifi_secure,b'p\xfc\x8f\x9b\xc5\x84',5,3,-94
+18:21:31,Freebox-34BC4C,"b""4'\x924\xbcM""",3,9,-96
+18:21:35,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:21:39,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:21:43,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:21:43,Freebox-34BC4C,"b""4'\x924\xbcM""",3,9,-93
+18:21:43,FreeWifi_secure,"b""4'\x924\xbcN""",5,9,-95
+18:21:47,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:21:51,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-56
+18:21:51,Livebox-7EE8,b'`\x8d&\x9f~\xe8',3,1,-90
+18:21:54,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:21:54,Livebox-7EE8,b'`\x8d&\x9f~\xe8',3,1,-84
+18:21:58,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-65
+18:21:58,Livebox-7EE8,b'`\x8d&\x9f~\xe8',3,1,-93
+18:22:02,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:22:02,Livebox-7EE8,b'`\x8d&\x9f~\xe8',3,1,-89
+18:22:06,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:22:06,Livebox-7EE8,b'`\x8d&\x9f~\xe8',3,1,-89
+18:22:10,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-56
+18:22:14,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:22:18,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:22:22,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:22:26,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-64
+18:22:30,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-66
+18:22:34,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-70
+18:22:38,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:22:42,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:22:46,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-54
+18:22:50,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:22:53,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-54
+18:22:57,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:23:01,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:23:05,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-65
+18:23:09,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-66
+18:23:13,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:23:17,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:23:21,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:23:25,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:23:25,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-88
+18:23:25,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-91
+18:23:25,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-93
+18:23:29,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:23:29,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-90
+18:23:33,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:23:37,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:23:37,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-88
+18:23:37,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-88
+18:23:37,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-89
+18:23:37,BureauxTriez,b'\xdc\x00\xb0~\x19h',3,6,-89
+18:23:41,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:23:41,BureauxTriez,b'\xdc\x00\xb0~\x19h',3,6,-85
+18:23:41,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-92
+18:23:41,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-95
+18:23:45,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:23:45,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-77
+18:23:45,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-79
+18:23:45,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-80
+18:23:45,BureauxTriez,b'\xdc\x00\xb0~\x19h',3,6,-89
+18:23:49,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-68
+18:23:49,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-79
+18:23:49,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-79
+18:23:49,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-80
+18:23:49,BureauxTriez,b'\xdc\x00\xb0~\x19h',3,6,-92
+18:23:53,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:23:53,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-90
+18:23:53,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-92
+18:23:53,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-92
+18:23:53,BureauxTriez,b'\xdc\x00\xb0~\x19h',3,6,-92
+18:23:57,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:23:57,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-93
+18:24:00,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-66
+18:24:00,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-87
+18:24:00,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-87
+18:24:00,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-87
+18:24:04,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:24:04,capen_invite,b'\xf2\x9f\xc2z\xc8\xaf',0,1,-90
+18:24:04,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-90
+18:24:04,INKARCHI_Etage,b'D\xa5n_\xc9 ',3,6,-94
+18:24:08,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:24:08,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-93
+18:24:12,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:24:12,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-92
+18:24:12,CapensisGuest,b'\x02\x9f\xc2z\xc8\xaf',0,1,-93
+18:24:16,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:24:16,capenwifi,b'\xf0\x9f\xc2z\xc8\xaf',3,1,-93
+18:24:20,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-65
+18:24:24,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:24:28,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-79
+18:24:32,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:24:32,dlink,b'\x00$\x01\xf7SD',2,11,-96
+18:24:36,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:24:40,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:24:40,TNCAPAD7103,b'\xa4\xb1\xe9\xadq\x03',4,1,-94
+18:24:44,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-71
+18:24:44,TNCAPAD7103,b'\xa4\xb1\xe9\xadq\x03',4,1,-88
+18:24:44,dlink,b'\x00$\x01\xf7SD',2,11,-89
+18:24:48,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:24:48,TNCAPAD7103,b'\xa4\xb1\xe9\xadq\x03',4,1,-89
+18:24:52,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:24:52,dlink,b'\x00$\x01\xf7SD',2,11,-95
+18:24:56,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:24:56,TNCAPAD7103,b'\xa4\xb1\xe9\xadq\x03',4,1,-96
+18:25:00,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:25:03,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-68
+18:25:07,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:25:11,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:25:11,My VW 6380,b'\x9eP\xd1\xd2\xb3o',3,6,-95
+18:25:15,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-64
+18:25:19,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:25:23,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:25:27,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-75
+18:25:31,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:25:35,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:25:39,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:25:43,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-66
+18:25:47,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:25:51,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:25:51,WLAN,b'v\x95\xec\xe75\x9b',3,1,-93
+18:25:55,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:25:58,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-70
+18:26:02,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:26:06,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:26:10,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:26:14,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:26:18,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-56
+18:26:22,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:26:26,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-64
+18:26:26,iPhone de Faustyna,b'\x02\x0cn\xaf\xfc\x9e',3,6,-93
+18:26:30,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-73
+18:26:30,iPhone de Faustyna,b'\x02\x0cn\xaf\xfc\x9e',3,6,-90
+18:26:34,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:26:34,LDB-Marketing,b'\x0c\xf4\xd5\xbf{x',3,5,-92
+18:26:38,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-73
+18:26:42,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:26:46,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-48
+18:26:50,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:26:53,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-69
+18:26:53,VW WLAN 8815,b'\xb6\xec\x02\x95\x99\xaa',3,1,-94
+18:26:53,My MIB 952496,b'Z\xd5\n\xcb\xc97',3,6,-94
+18:26:57,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:26:57,My MIB 952496,b'Z\xd5\n\xcb\xc97',3,6,-95
+18:27:01,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:27:05,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-49
+18:27:09,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:27:13,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:27:17,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:27:17,HotspotDA71,b'\x00T\xaf$\xdaq',4,6,-92
+18:27:21,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-54
+18:27:25,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:27:29,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:27:33,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:27:37,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-47
+18:27:41,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:27:41,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-90
+18:27:41,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-92
+18:27:45,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:27:45,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-89
+18:27:45,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-90
+18:27:45,Mi 11i,b'V\x94\xfe\xb8\x16m',3,2,-92
+18:27:49,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-64
+18:27:49,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-91
+18:27:49,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-93
+18:27:52,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:27:52,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-87
+18:27:52,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-87
+18:27:56,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-51
+18:27:56,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-90
+18:27:56,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-91
+18:28:00,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-46
+18:28:00,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-87
+18:28:00,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-89
+18:28:04,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:28:04,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-82
+18:28:04,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-82
+18:28:08,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-40
+18:28:08,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-85
+18:28:08,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-86
+18:28:08,My VW CQUD,b'.L\xc6E\xa7z',3,6,-94
+18:28:12,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-45
+18:28:12,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-83
+18:28:12,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-84
+18:28:12,My VW CQUD,b'.L\xc6E\xa7z',3,6,-88
+18:28:16,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:28:16,My VW CQUD,b'.L\xc6E\xa7z',3,6,-91
+18:28:20,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:28:20,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-90
+18:28:20,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-91
+18:28:24,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-50
+18:28:24,McD-Community,b'\x80\x03\x84\x08\xbd:',3,7,-88
+18:28:24,McDonald's France,b'\x80\x03\x84\x88\xbd9',0,7,-90
+18:28:24,McD-Community,b'$y*{\xfc\xfa',3,13,-92
+18:28:24,McDonald's France,b'$y*\xa8\xfc\xf9',0,13,-94
+18:31:03,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:31:07,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:31:11,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-74
+18:31:14,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:31:14,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-90
+18:31:14,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-92
+18:31:14,Livebox-1FB0,"b',\x08#\x8e\xff""'",3,6,-93
+18:31:18,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:31:18,Livebox-1FB0,"b',\x08#\x8e\xff""'",3,6,-92
+18:31:18,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-92
+18:31:18,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-94
+18:31:22,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:31:22,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-89
+18:31:22,Livebox-1FB0,"b',\x08#\x8e\xff""'",3,6,-91
+18:31:22,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-91
+18:31:26,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:31:30,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:31:34,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:31:38,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:31:42,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:31:46,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:31:46,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-91
+18:31:46,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-92
+18:31:50,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:31:50,T'as pas la 4G ?,b'zG\n]\xeex',3,12,-87
+18:31:50,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-91
+18:31:54,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:31:58,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:32:02,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:32:06,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-50
+18:32:06,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-95
+18:32:10,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-60
+18:32:10,Bytel-E-Apagor-23473-2.4GHz,b'\xc0\xff\xa8\x1f\n&',3,6,-94
+18:32:14,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-49
+18:32:14,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-92
+18:32:14,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-92
+18:32:17,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:32:17,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-92
+18:32:17,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-93
+18:32:17,Bytel-E-Apagor-23473-2.4GHz,b'\xc0\xff\xa8\x1f\n&',3,6,-95
+18:32:21,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-44
+18:32:21,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-89
+18:32:21,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-90
+18:32:25,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-75
+18:32:29,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-49
+18:32:33,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-48
+18:32:33,WLAN60,b'\x00x\x88\xcclB',5,11,-89
+18:32:33,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-90
+18:32:33,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-94
+18:32:33,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-95
+18:32:37,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:32:37,WLAN60,b'\x00x\x88\xcclB',5,11,-87
+18:32:37,Carrefour Wi-Fi Gratuit,b'\x00x\x88\xcclH',0,11,-89
+18:32:37,GUEST-PARTNER,b'\x00x\x88\xcclF',5,11,-89
+18:32:37,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-92
+18:32:41,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-71
+18:32:41,WLAN50,b'\x00x\x88\xccl@',4,11,-91
+18:32:41,SOGOOD - WiFi Gratuit,"b""`\xe3'*c\x08""",0,11,-94
+18:32:41,WIFI PERICENTRE,"b""b\xe3'*c\x08""",2,11,-94
+18:32:45,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:32:45,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-89
+18:32:49,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:32:49,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-88
+18:32:53,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:32:53,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-92
+18:32:57,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-48
+18:32:57,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-81
+18:32:57,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-91
+18:33:01,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-46
+18:33:05,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-47
+18:33:09,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-59
+18:33:09,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-92
+18:33:13,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-56
+18:33:13,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-80
+18:33:13,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-94
+18:33:17,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-49
+18:33:17,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-92
+18:33:17,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-92
+18:33:21,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-63
+18:33:21,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-86
+18:33:21,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-91
+18:33:21,maison,b'\x9a\xa6~l\xbd\xfb',3,3,-95
+18:33:25,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-49
+18:33:25,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-87
+18:33:25,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-91
+18:33:25,maison,b'\x9a\xa6~l\xbd\xfb',3,3,-94
+18:33:28,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:33:28,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-81
+18:33:28,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-88
+18:33:28,FreeWifi_secure,b'\x00$\xd4\xd9]M',5,1,-95
+18:33:32,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-45
+18:33:32,freeboxpat,b'\x00$\xd4\xd9]L',3,1,-87
+18:33:32,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-88
+18:33:32,FreeWifi_secure,b'\x00$\xd4\xd9]M',5,1,-89
+18:33:32,maison,b'\xa2\xc9\xeb\xd8n\x05',3,3,-91
+18:33:32,maison,b'\x9a\xa6~l\xbd\xfb',3,3,-93
+18:33:36,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-42
+18:33:36,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-89
+18:33:36,freeboxpat,b'\x9c\xc9\xeb\x12\xe9\xc1',3,1,-90
+18:33:36,maison,b'\xa2\xc9\xeb\xd8n\x05',3,3,-90
+18:33:36,freeboxpat,b'\x00$\xd4\xd9]L',3,1,-91
+18:33:40,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:33:40,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-90
+18:33:40,maison,b'\x9a\xa6~l\xbd\xfb',3,3,-92
+18:33:40,FreeWifi_secure,b'\x00$\xd4\xd9]M',5,1,-93
+18:33:44,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-45
+18:33:44,maison,b'\x9a\xa6~l\x9d\xd0',3,3,-89
+18:33:44,Victoire,b'\xc4A\x1e0\xa3\x98',3,4,-93
+18:33:44,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-93
+18:33:48,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-70
+18:33:48,Livebox-F350,b'D\xd4S\xa0\xf3X',3,1,-89
+18:33:48,freeboxjacky,b'\x14\x0cv\xb4\x89<',4,6,-91
+18:33:48,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-92
+18:33:52,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-78
+18:33:52,freeboxjacky,b'\x14\x0cv\xb4\x89<',4,6,-81
+18:33:52,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-86
+18:33:56,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-38
+18:33:56,freeboxjacky,b'\x14\x0cv\xb4\x89<',4,6,-80
+18:33:56,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-92
+18:34:00,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:34:00,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-92
+18:34:00,freeboxjacky,b'\x14\x0cv\xb4\x89<',4,6,-93
+18:34:00,Livebox-F350,b'D\xd4S\xa0\xf3X',3,1,-94
+18:34:04,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-48
+18:34:04,freeboxjacky,b'\x14\x0cv\xb4\x89<',4,6,-91
+18:34:04,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-93
+18:34:08,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-47
+18:34:08,My MIB 908966,b'\x9eP\xd1\xa1\xbb\x15',3,6,-90
+18:34:08,FreeWifi_secure,b'\x14\x0cv\xb4\x89:',5,6,-93
+18:34:12,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-45
+18:34:12,DIRECT-MBUX 81592,b'\x1e\xe1\x92\xd4\xaa\x8f',3,6,-88
+18:34:12,My MIB 908966,b'\x9eP\xd1\xa1\xbb\x15',3,6,-92
+18:34:16,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-67
+18:34:20,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-61
+18:34:24,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-42
+18:34:24,Livebox-66F0,b'\x88A\xfc\xb8\r\x8d',3,6,-91
+18:34:28,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:34:28,Livebox-66F0,b'\x88A\xfc\xb8\r\x8d',3,6,-91
+18:34:32,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-51
+18:34:32,Livebox-66F0,b'\x88A\xfc\xb8\r\x8d',3,6,-90
+18:34:36,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-51
+18:34:40,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:34:44,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-54
+18:34:47,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:34:51,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-46
+18:34:55,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:34:59,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:34:59,Livebox-5610,b'D\xd4TTV\x18',3,1,-88
+18:35:03,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-42
+18:35:03,Bbox-A3ABD407_2GEXT,b'\x94\xa6~M\x00l',3,6,-91
+18:35:03,Livebox-5610,b'D\xd4TTV\x18',3,1,-92
+18:35:03,Livebox-5A04,b'\xb8&l\xc8Z\x04',4,11,-95
+18:35:07,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:35:07,Livebox-5610,b'D\xd4TTV\x18',3,1,-91
+18:35:07,Bbox-A3ABD407_2GEXT,b'\x94\xa6~M\x00l',3,6,-93
+18:35:11,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-58
+18:35:11,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-93
+18:35:11,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-95
+18:35:15,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-54
+18:35:15,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-79
+18:35:15,Livebox-7AE0,b'\xec\xbe\xdd\x8cz\xe0',3,11,-92
+18:35:19,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-51
+18:35:19,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-89
+18:35:19,Livebox-7AE0,b'\xec\xbe\xdd\x8cz\xe0',3,11,-90
+18:35:23,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-51
+18:35:27,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-62
+18:35:27,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-81
+18:35:27,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-94
+18:35:31,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-43
+18:35:31,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-80
+18:35:31,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-94
+18:35:35,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-46
+18:35:35,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-90
+18:35:35,Livebox-7AE0,b'\xec\xbe\xdd\x8cz\xe0',3,11,-92
+18:35:39,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-46
+18:35:39,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-89
+18:35:39,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-92
+18:35:39,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-93
+18:35:39,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-93
+18:35:39,Livebox-7AE0,b'\xec\xbe\xdd\x8cz\xe0',3,11,-96
+18:35:43,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-66
+18:35:43,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-86
+18:35:43,sar-iot,b'\xac#\x16\x1bA\x12',5,6,-91
+18:35:43,sar-int,b'\xac#\x16\x1bA\x11',5,6,-92
+18:35:43,sar-ext,b'\xac#\x16\x1bA\x14',0,6,-93
+18:35:43,sar-av,b'\xac#\x16\x1bA\x13',3,6,-94
+18:35:43,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-94
+18:35:46,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:35:46,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-91
+18:35:46,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-94
+18:35:46,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-95
+18:35:51,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-47
+18:35:51,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-91
+18:35:51,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-92
+18:35:51,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-92
+18:35:51,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-93
+18:35:51,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-94
+18:35:55,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-53
+18:35:55,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-87
+18:35:55,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-94
+18:35:55,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-94
+18:35:55,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-95
+18:35:59,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:35:59,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-90
+18:35:59,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-91
+18:35:59,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-92
+18:35:59,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-95
+18:36:03,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-65
+18:36:03,Porsche_WLAN,b'\xe8\xe8\xb7\x9b L',3,6,-86
+18:36:03,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-86
+18:36:03,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-92
+18:36:03,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-93
+18:36:03,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-93
+18:36:07,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-52
+18:36:07,sar-iot,b'\xac#\x16\x1bA\x12',5,6,-89
+18:36:07,Porsche_WLAN_0748,b'\xb8\xd7\xaf|\x0c\x9f',3,6,-90
+18:36:07,sar-av,b'\xac#\x16\x1bA\x13',3,6,-91
+18:36:07,sar-ext,b'\xac#\x16\x1bA\x14',0,6,-92
+18:36:07,sar-int,b'\xac#\x16\x1bA\x11',5,6,-94
+18:36:11,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:36:11,sar-iot,b'\xac#\x16\x1bJ\xa2',5,1,-93
+18:36:11,sar-int,b'\xac#\x16\x1bA\x11',5,6,-93
+18:36:11,sar-iot,b'\xac#\x16\x1bA\x12',5,6,-93
+18:36:11,sar-ext,b'\xac#\x16\x1bA\x14',0,6,-93
+18:36:11,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-93
+18:36:11,sar-av,b'\xac#\x16\x1bA\x13',3,6,-94
+18:36:15,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-55
+18:36:15,sar-iot,b'\xac#\x16\x1bA\x12',5,6,-93
+18:36:15,sar-int,b'\xac#\x16\x1bA\x11',5,6,-95
+18:36:18,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-57
+18:36:18,sar-int,b'\xac#\x16\x1bA\x11',5,6,-93
+18:36:18,sar-iot,b'\xac#\x16\x1bA\x12',5,6,-93
+18:36:18,sar-av,b'\xac#\x16\x1bA\x13',3,6,-93
+18:36:18,sar-ext,b'\xac#\x16\x1bA\x14',0,6,-93
+18:36:22,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-40
+18:36:22,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-89
+18:36:22,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-93
+18:36:22,SFR_B77F,b'X\xfc k\xb7\x80',4,6,-95
+18:36:26,Jana :p,b'\x1aD{\xe0\xdaF',3,6,-32
+18:36:26,Livebox-7AE0,b'D\xfeV\x17\xc3\xd8',3,1,-89
+18:36:26,FreeWifi_secure,b'\xe4\x9e\x12\x85\xe0\xc6',5,6,-92
+18:36:26,Andbur,b'\xe4\x9e\x12\x85\xe0\xc4',3,6,-92

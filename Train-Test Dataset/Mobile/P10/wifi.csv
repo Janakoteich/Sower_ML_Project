@@ -1,0 +1,168 @@
+Time,ssid,bssid,sec,channel,rssi
+07:57:15,Jana :p,"b'""-`\x05\xca\x15'",3,6,-47
+07:57:17,Jana :p,"b'""-`\x05\xca\x15'",3,6,-45
+07:57:20,Jana :p,"b'""-`\x05\xca\x15'",3,6,-46
+07:57:42,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-90
+07:57:42,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-90
+07:58:06,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-92
+07:58:14,eduroam,"b'\xf0\x1d-""\x9d\x00'",5,1,-89
+07:58:14,ULILLE-ACCUEIL,"b'\xf0\x1d-""\x9d\x01'",0,1,-89
+07:58:14,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-89
+07:58:14,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-89
+07:58:16,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-86
+07:58:16,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-86
+07:58:19,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-83
+07:58:19,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-91
+07:58:23,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-83
+07:58:23,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-84
+07:58:23,ULILLE-ACCUEIL,"b'\xf0\x1d-""\x9d\x01'",0,1,-91
+07:58:25,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-88
+07:58:25,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-89
+07:58:27,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-88
+07:58:27,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-89
+07:58:29,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-89
+07:58:29,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-89
+07:58:31,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-87
+07:58:31,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-88
+07:58:32,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-88
+07:58:34,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-87
+07:58:34,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-87
+07:58:36,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-81
+07:58:36,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-81
+07:58:38,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-81
+07:58:38,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-81
+07:58:40,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-86
+07:58:40,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-87
+07:58:42,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-89
+07:58:42,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-90
+07:58:47,ULILLE-ACCUEIL,b'\xf0\x1d-!\xf3\x81',0,6,-90
+07:58:47,eduroam,b'\xf0\x1d-!\xf3\x80',5,6,-90
+07:58:49,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-88
+07:58:49,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-89
+07:58:51,DIRECT-2F-HP M479fdw Color LJ,"b'\x82\xe8,} /'",3,6,-90
+07:58:53,DIRECT-2F-HP M479fdw Color LJ,"b'\x82\xe8,} /'",3,6,-83
+07:58:53,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-90
+07:58:53,eduroam,b'x\xba\xf9\x8c\xf5@',5,1,-91
+07:58:57,DIRECT-2F-HP M479fdw Color LJ,"b'\x82\xe8,} /'",3,6,-87
+07:58:59,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xf5A',0,1,-88
+07:58:59,DIRECT-2F-HP M479fdw Color LJ,"b'\x82\xe8,} /'",3,6,-88
+07:59:04,DIRECT-2F-HP M479fdw Color LJ,"b'\x82\xe8,} /'",3,6,-91
+07:59:08,DIRECT-2F-HP M479fdw Color LJ,"b'\x82\xe8,} /'",3,6,-88
+07:59:21,NETGEAR_Guest,b':\x94\xed\xf6\x84~',3,13,-91
+07:59:34,eduroam,b'\x00:}\tN\xf0',5,1,-89
+07:59:46,ULILLE-ACCUEIL,b'\x00:}\tN\xf1',0,1,-85
+07:59:46,eduroam,b'\x00:}\tN\xf0',5,1,-86
+07:59:50,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-90
+07:59:54,ULILLE-ACCUEIL,b'\x00:}\tN\xf1',0,1,-90
+07:59:54,eduroam,b'\x00:}\tN\xf0',5,1,-91
+08:00:01,nour,b' \xa6\x0c{P\xba',3,11,-85
+08:00:07,eduroam,b'\x00:}\tN\xf0',5,1,-88
+08:00:14,nour,b' \xa6\x0c{P\xba',3,11,-95
+08:00:20,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-75
+08:00:22,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-77
+08:00:22,W,b'\x1ew\x135\xab\x85',3,3,-91
+08:00:31,eduroam,b'x\xba\xf9\x8c\xe00',5,1,-85
+08:00:31,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xe01',0,1,-85
+08:00:33,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xe01',0,1,-87
+08:00:33,eduroam,b'x\xba\xf9\x8c\xe00',5,1,-89
+08:00:34,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-67
+08:00:34,eduroam,b'\\Z\xc7\xef\n`',5,6,-82
+08:00:34,ULILLE-ACCUEIL,b'\\Z\xc7\xef\na',0,6,-82
+08:00:42,ULILLE-ACCUEIL,b'\\Z\xc7\xef\na',0,6,-80
+08:00:42,eduroam,b'\\Z\xc7\xef\n`',5,6,-81
+08:00:42,eduroam,b'x\xba\xf9\x8c\xe00',5,1,-87
+08:00:42,ULILLE-ACCUEIL,b'x\xba\xf9\x8c\xe01',0,1,-87
+08:00:42,eduroam,"b'\xf0\x1d-!""\xc0'",5,1,-88
+08:00:42,ULILLE-ACCUEIL,"b'\xf0\x1d-!""\xc1'",0,1,-88
+08:00:44,eduroam,b'\xf0\x1d-%\xb4\xa0',5,1,-78
+08:00:44,eduroam,b'\\Z\xc7\xef\n`',5,6,-78
+08:00:44,ULILLE-ACCUEIL,b'\\Z\xc7\xef\na',0,6,-78
+08:00:44,ULILLE-ACCUEIL,b'\xf0\x1d-%\xb4\xa1',0,1,-79
+08:00:44,eduroam,b'hVx\x10\xa2`',5,1,-88
+08:00:44,ULILLE-ACCUEIL,b'hVx\x10\xa2a',0,1,-88
+08:00:46,eduroam,"b'\xf0\x1d-!""\xc0'",5,1,-82
+08:00:46,eduroam,b'\\Z\xc7\xef\n`',5,6,-82
+08:00:46,ULILLE-ACCUEIL,b'\\Z\xc7\xef\na',0,6,-82
+08:00:46,ULILLE-ACCUEIL,"b'\xf0\x1d-!""\xc1'",0,1,-83
+08:00:46,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\xa0\xe1',0,6,-88
+08:00:48,eduroam,b'\xf0\x1d-%\xb4\xa0',5,1,-86
+08:00:48,ULILLE-ACCUEIL,b'\xf0\x1d-%\xb4\xa1',0,1,-86
+08:00:50,ULILLE-ACCUEIL,"b'\xf0\x1d-!""\xc1'",0,1,-82
+08:00:50,eduroam,b'\\Z\xc7\xef\n`',5,6,-88
+08:00:52,eduroam,"b'\xf0\x1d-!""\xc0'",5,1,-83
+08:00:52,ULILLE-ACCUEIL,b'\xf0\x1d-%\xb4\xa1',0,1,-85
+08:00:53,ULILLE-ACCUEIL,b'\\Z\xc7\xef\na',0,6,-81
+08:00:53,eduroam,b'\\Z\xc7\xef\n`',5,6,-82
+08:00:55,ULILLE-ACCUEIL,"b'\xf0\x1d-!""\xc1'",0,1,-80
+08:00:55,eduroam,"b'\xf0\x1d-!""\xc0'",5,1,-81
+08:00:59,eduroam,b'\\Z\xc7\xf2\xa0\xe0',5,6,-86
+08:00:59,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\xa0\xe1',0,6,-86
+08:01:01,eduroam,"b'\xf0\x1d-!""\xc0'",5,1,-76
+08:01:01,ULILLE-ACCUEIL,"b'\xf0\x1d-!""\xc1'",0,1,-76
+08:01:01,eduroam,b'\\Z\xc7\xf2\xa0\xe0',5,6,-83
+08:01:01,ULILLE-ACCUEIL,b'\\Z\xc7\xf2\xa0\xe1',0,6,-84
+08:01:03,Crestron_SH2,b'\x00l\xbc\xee\x05-',3,6,-90
+08:01:05,eduroam,b'\xf4N\x05\r\xadp',5,1,-85
+08:01:05,ULILLE-ACCUEIL,b'\xf4N\x05\r\xadq',0,1,-85
+08:01:05,Crestron_SH2,b'\x00l\xbc\xee\x05-',3,6,-86
+08:01:07,eduroam,b'\xf4N\x05\r\xadp',5,1,-85
+08:01:08,eduroam,b'\\Z\xc7\xef\n`',5,6,-82
+08:01:08,eduroam,b'\xf4N\x05\r\xadp',5,1,-92
+08:01:08,ULILLE-ACCUEIL,b'\xf4N\x05\r\xadq',0,1,-92
+08:01:12,eduroam,b'\xf4N\x05\r\xadp',5,1,-78
+08:01:12,ULILLE-ACCUEIL,b'\xf4N\x05\r\xadq',0,1,-78
+08:01:14,eduroam,b'\xf4N\x05\r\xadp',5,1,-80
+08:01:14,ULILLE-ACCUEIL,b'\xf4N\x05\r\xadq',0,1,-80
+08:01:16,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-82
+08:01:16,ULILLE-ACCUEIL,b'hVx\x08@\x01',0,1,-86
+08:01:16,eduroam,b'hVx\x08@\x00',5,1,-90
+08:01:16,eduroam,b'\xf4N\x05\r\xadp',5,1,-93
+08:01:18,eduroam,b'\xf4N\x05\r\xadp',5,1,-85
+08:01:18,ULILLE-ACCUEIL,b'\xf4N\x05\r\xadq',0,1,-86
+08:01:20,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-78
+08:01:20,ULILLE-ACCUEIL,b'hVx\x08@\x01',0,1,-85
+08:01:20,ULILLE-ACCUEIL,b'\xf4N\x05\r\xadq',0,1,-87
+08:01:22,ULILLE-ACCUEIL,b'hVx\x08@\x01',0,1,-86
+08:01:22,eduroam,b'hVx\x08@\x00',5,1,-87
+08:01:22,eduroam,b'hVx\x08D\xe0',5,11,-93
+08:01:22,ULILLE-ACCUEIL,b'hVx\x08D\xe1',0,11,-93
+08:01:23,ULILLE-ACCUEIL,b'hVx\x08@\x01',0,1,-87
+08:01:25,eduroam,b'<Q\x0eFq\x80',5,1,-76
+08:01:25,ULILLE-ACCUEIL,b'<Q\x0eFq\x81',0,1,-77
+08:01:25,eduroam,b'hVx\x08D\xe0',5,11,-88
+08:01:25,eduroam,b'\x00Bh\xce\xc1`',5,1,-89
+08:01:25,ULILLE-ACCUEIL,b'\x00Bh\xce\xc1a',0,1,-89
+08:01:25,eduroam,b'\xf4N\x05\r\xadp',5,1,-89
+08:01:25,ULILLE-ACCUEIL,b'hVx\x08D\xe1',0,11,-89
+08:01:29,eduroam,b'\x00Bh\xce\xc1`',5,1,-86
+08:01:29,ULILLE-ACCUEIL,b'hVx\x08@\x01',0,1,-89
+08:01:29,ULILLE-ACCUEIL,b'<Q\x0eFq\x81',0,1,-91
+08:01:31,eduroam,b'\xf4N\x05\x1d_p',5,1,-87
+08:01:33,eduroam,b'\x00Bh\xce\xc1`',5,1,-84
+08:01:33,ULILLE-ACCUEIL,b'\x00Bh\xce\xc1a',0,1,-84
+08:01:33,eduroam,b'\xf4N\x05\x1d_p',5,1,-89
+08:01:35,ULILLE-ACCUEIL,b'\xf0\x1d-#\xee\x01',0,1,-83
+08:01:35,eduroam,b'\x00Bh\xce\xc1`',5,1,-87
+08:01:35,ULILLE-ACCUEIL,b'\x00Bh\xce\xc1a',0,1,-87
+08:01:35,Crestron_SH2,b'\x00l\xbc\xee\x05-',3,6,-90
+08:01:37,eduroam,b'\x00Bh\xce\xc1`',5,1,-87
+08:01:37,ULILLE-ACCUEIL,b'\x00Bh\xce\xc1a',0,1,-88
+08:01:37,ULILLE-ACCUEIL,b'<Q\x0eFq\x81',0,1,-89
+08:01:37,eduroam,b'<Q\x0eFq\x80',5,1,-90
+08:01:39,eduroam,b'\x00Bh\xce\xc1`',5,1,-87
+08:01:39,ULILLE-ACCUEIL,b'\x00Bh\xce\xc1a',0,1,-88
+08:01:40,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-90
+08:01:44,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-87
+08:01:52,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-90
+08:01:59,iPhone de Luca,b'\xd2\x89\xc4|\x15\xc1',3,6,-84
+08:01:59,eduroam,"b',\xd0-j\x91`'",5,6,-90
+08:02:04,eduroam,"b',\xd0-j\x91`'",5,6,-89
+08:02:10,Crestron_SH2,b'\x00l\xbc\xee\x05-',3,6,-90
+08:02:10,ULILLE-ACCUEIL,"b',\xd0-j\x9d\xe1'",0,11,-90
+08:02:14,ULILLE-ACCUEIL,"b',\xd0-j\x9d\xe1'",0,11,-92
+08:02:14,eduroam,"b',\xd0-j\x9d\xe0'",5,11,-93
+08:02:29,eduroam,b'l\x8b\xd3[e\xa0',5,11,-89
+08:02:29,ULILLE-ACCUEIL,b'l\x8b\xd3[e\xa1',0,11,-89
+08:02:56,My VW 5115,b'J\xebbK\xbc\x96',3,6,-91
+08:03:57,eduroam,b'H\x8b\n\xf7a`',5,1,-89
+08:04:00,ULILLE-ACCUEIL,"b'\xf0\x1d-""\xa3A'",0,6,-90

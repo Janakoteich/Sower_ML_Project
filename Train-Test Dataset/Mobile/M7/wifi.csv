@@ -1,0 +1,181 @@
+Time,ssid,bssid,sec,channel,rssi
+12:25:59,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-49
+12:25:59,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:26:01,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-51
+12:26:03,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-60
+12:26:03,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:26:05,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:26:07,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-85
+12:26:10,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-46
+12:26:10,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:26:12,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-46
+12:26:12,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-88
+12:26:14,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-50
+12:26:14,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-85
+12:26:16,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-49
+12:26:16,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-82
+12:26:18,Jana :p,b'\x92\xff\x0b3P\x8b',3,6,-43
+12:26:18,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-73
+12:26:20,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-72
+12:26:22,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-73
+12:26:24,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-74
+12:26:25,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-68
+12:26:27,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:26:29,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:26:31,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-85
+12:26:33,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:26:37,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:26:39,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:26:40,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-83
+12:26:44,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-85
+12:26:46,HIPPO-EB036,b'$\xdfj\xd6Z\x1b',4,1,-78
+12:26:48,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-72
+12:26:48,iPhone Bronx,b'N\xdbV\x8c\xb7\xec',3,6,-89
+12:26:50,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:26:52,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-89
+12:26:54,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:26:55,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:26:57,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-86
+12:27:05,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:27:05,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-79
+12:27:07,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:27:09,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:27:09,Xiaomi 11 Lite 5G NE,b'2l\x7fBa\x85',3,1,-84
+12:27:10,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:27:12,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:27:14,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:27:14,Xiaomi 11 Lite 5G NE,b'2l\x7fBa\x85',3,1,-86
+12:27:16,Xiaomi 11 Lite 5G NE,b'2l\x7fBa\x85',3,1,-84
+12:27:18,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:27:20,Xiaomi 11 Lite 5G NE,b'2l\x7fBa\x85',3,1,-76
+12:27:20,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:27:22,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:27:24,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-77
+12:27:25,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-84
+12:27:27,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:27:29,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-72
+12:27:29,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-78
+12:27:31,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:27:31,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-82
+12:27:33,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:27:35,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:27:37,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-82
+12:27:39,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:27:42,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:27:44,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:27:44,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-82
+12:27:46,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:27:50,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:27:50,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-86
+12:27:54,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-85
+12:27:56,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:27:57,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:28:01,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:28:03,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-93
+12:28:05,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:28:09,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:28:11,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:28:12,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:28:16,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:28:16,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-80
+12:28:18,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-72
+12:28:18,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-81
+12:28:20,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-74
+12:28:22,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-71
+12:28:24,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-74
+12:28:24,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-82
+12:28:26,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-73
+12:28:31,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-86
+12:28:35,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:28:37,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-74
+12:28:37,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:28:39,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:28:39,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-81
+12:28:41,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-76
+12:28:41,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:28:44,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-80
+12:28:46,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:28:48,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-75
+12:28:48,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:28:50,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-75
+12:28:52,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-75
+12:28:54,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-74
+12:28:54,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:28:56,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:28:58,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-71
+12:28:58,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-82
+12:29:01,...,b'\x12W\x05O\x97l',3,6,-76
+12:29:01,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-86
+12:29:05,AndroidAP9700,b'\xde\xda\xf2\xabt\xa0',3,6,-60
+12:29:05,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:29:07,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:29:11,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:29:15,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-85
+12:29:20,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-85
+12:29:20,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-87
+12:29:22,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:29:26,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:29:28,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:29:29,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:29:33,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-82
+12:29:35,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:29:37,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-77
+12:29:42,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:29:42,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-84
+12:29:44,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-76
+12:29:44,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-92
+12:29:46,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:29:46,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-82
+12:29:50,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:29:52,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:29:54,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-90
+12:29:56,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-79
+12:29:56,Galaxy A52s 5GB044,b'\x02\x1e\x07o#\x93',3,11,-92
+12:29:58,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:30:01,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-83
+12:30:05,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-82
+12:30:09,AndroidAPC704,b'\x8eql1\x06\xe2',3,6,-77
+12:30:09,Galaxy A52s 5GB044,b'\x02\x1e\x07o#\x93',3,11,-89
+12:30:11,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-86
+12:30:16,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:30:18,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-82
+12:30:22,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-86
+12:30:26,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-72
+12:30:26,Galaxy A52s 5GB044,b'\x02\x1e\x07o#\x93',3,11,-74
+12:30:28,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-72
+12:30:28,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-73
+12:30:29,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-73
+12:30:29,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-78
+12:30:31,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:30:31,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-81
+12:30:33,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-74
+12:30:35,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-74
+12:30:37,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:30:39,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:30:41,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-75
+12:30:43,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-78
+12:30:46,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:30:48,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-92
+12:30:50,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-80
+12:30:50,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:30:50,L920PRO_2230027342,b'\xd4\x9c\xdd\x8e\xa0\x16',0,1,-91
+12:30:52,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:30:54,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-79
+12:30:54,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-80
+12:30:56,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-77
+12:31:00,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-83
+12:31:00,Livebox-96aa,b'\xb0\x98+\xcb\x96\xae',4,1,-87
+12:31:03,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-80
+12:31:05,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-80
+12:31:07,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-80
+12:31:13,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-81
+12:31:15,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-74
+12:31:15,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-89
+12:31:18,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-76
+12:31:20,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-71
+12:31:20,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-85
+12:31:22,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-64
+12:31:24,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-67
+12:31:24,OPPO Find X3 Lite 5G,b'JV\n\x0f\x9e\xea',3,11,-78
+12:31:26,Galaxy A21s3491,b'\xb6.\x9d|\xee`',3,6,-62
+12:31:26,Redmi Note 9 Pro,b'\xeeK\x00HW\x0f',3,1,-88

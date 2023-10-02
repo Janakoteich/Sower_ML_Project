@@ -1,0 +1,118 @@
+Time,ssid,bssid,sec,channel,rssi
+15:32:56,Jana :p,"b'""[\\\xfd\xecE'",3,6,-48
+15:32:56,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-64
+15:32:56,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-74
+15:33:00,Jana :p,"b'""[\\\xfd\xecE'",3,6,-47
+15:33:00,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-61
+15:33:04,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-59
+15:33:04,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-63
+15:33:08,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-61
+15:33:08,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-74
+15:33:12,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-61
+15:33:12,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-71
+15:33:16,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-65
+15:33:16,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-75
+15:33:20,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-60
+15:33:20,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-71
+15:33:24,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-64
+15:33:24,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-81
+15:33:28,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-62
+15:33:28,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-70
+15:33:32,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-64
+15:33:32,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-77
+15:33:36,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-63
+15:33:36,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-76
+15:33:40,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-65
+15:33:40,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-79
+15:33:43,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-67
+15:33:43,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-68
+15:33:47,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-61
+15:33:47,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-66
+15:33:51,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-64
+15:33:55,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-73
+15:33:55,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-77
+15:33:59,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-72
+15:33:59,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-81
+15:34:03,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-67
+15:34:07,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-68
+15:34:07,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-79
+15:34:11,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-61
+15:34:11,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-70
+15:34:15,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-69
+15:34:15,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-71
+15:34:19,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-64
+15:34:19,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-74
+15:34:23,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-66
+15:34:23,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-74
+15:34:27,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-65
+15:34:27,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-68
+15:34:31,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-68
+15:34:31,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-71
+15:34:35,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-67
+15:34:38,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-77
+15:34:38,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-77
+15:34:43,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-73
+15:34:43,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-86
+15:34:46,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-70
+15:34:46,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-92
+15:34:50,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-69
+15:34:50,Redmi 10,b'\x02\xcd\x14\xef\x9e.',3,6,-91
+15:34:54,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-76
+15:34:58,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-77
+15:35:02,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-75
+15:35:06,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-72
+15:35:10,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-81
+15:35:22,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-72
+15:35:30,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-66
+15:35:41,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-87
+15:35:45,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-71
+15:35:49,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-77
+15:35:53,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-67
+15:35:57,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-73
+15:36:01,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-76
+15:36:05,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-67
+15:36:09,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-75
+15:36:13,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-72
+15:36:17,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-77
+15:36:21,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-81
+15:36:25,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-76
+15:36:29,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-68
+15:36:32,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-69
+15:36:36,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-69
+15:36:40,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-64
+15:36:44,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-75
+15:36:48,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-66
+15:36:52,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-71
+15:36:56,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-66
+15:37:00,Galaxy S22DCD9,b'2`\x93@\xc2\x03',3,11,-64
+15:37:00,OPPO Reno2,"b'\xc2,\xb8\x19AQ'",3,1,-90
+15:37:04,OPPO Reno2,"b'\xc2,\xb8\x19AQ'",3,1,-85
+15:39:09,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-91
+15:39:13,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-92
+15:39:17,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-90
+15:39:21,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-88
+15:39:25,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-92
+15:39:29,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-92
+15:39:33,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-95
+15:39:37,Galaxy S21 Ultra 5G3e20,b'\xbe\xc6\x9c\x12\x00\x97',3,6,-84
+15:40:32,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-95
+15:40:35,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-77
+15:40:39,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-84
+15:40:43,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-89
+15:40:43,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-94
+15:40:47,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-83
+15:40:47,SFR WiFi FON,b'j\xa1\xd7\x0b]M',0,6,-93
+15:40:51,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-86
+15:40:55,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-79
+15:40:55,SFR_5D48,b'\xe0\xa1\xd7\x0b]L',2,6,-93
+15:40:55,SFR WiFi FON,b'j\xa1\xd7\x0b]M',0,6,-94
+15:40:59,SFR WiFi FON,b'j\xa1\xd7\x0b]M',0,6,-91
+15:40:59,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-92
+15:41:03,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-91
+15:41:07,Galaxy A12CB34,b'\xc6\xdeE\xc4\x1c\x88',3,6,-93
+15:41:07,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-97
+15:41:11,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-95
+15:41:27,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-96
+15:41:42,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-96
+15:41:54,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-97
+15:42:21,AndroidAP5011,b'2\x07M\x89P\x11',3,11,-69
